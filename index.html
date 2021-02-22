@@ -17,9 +17,9 @@
       <div class="row justify-content-md-center mt-5 mb-5">
         <div class="col col-lg-2"></div>
         <div class="col-md-auto text-center">
-          <h1 class="project-title projectName">Project 1</h1>
+          <h1 class="project-title" id="projectName">Project 2</h1>
           <h6>
-            <span class="badge colorNow">Testing 1</span>
+            <span class="badge" id="colorNow">Testing 2</span>
           </h6>
         </div>
         <div class="col col-lg-2"></div>
@@ -29,10 +29,37 @@
     <div class="container p-0">
       <div class="card text-center bg-dark rounded-0">
         <h5 class="card-header text-white">
-          Press the button below to change color.
+          Type the amount for each colors in percent (1-100)
         </h5>
         <div class="card-body text-white">
-          <form id="todo-form">
+          <form id="inputan">
+            <div class="form-group">
+              <input
+                type="text"
+                id="todo-input"
+                class="form-control form-control-lg"
+                name="red"
+                placeholder="red (1-100)"
+              />
+            </div>
+            <div class="form-group">
+              <input
+                type="text"
+                id="todo-input"
+                class="form-control form-control-lg"
+                name="green"
+                placeholder="green (1-100)"
+              />
+            </div>
+            <div class="form-group">
+              <input
+                type="text"
+                id="todo-input"
+                class="form-control form-control-lg"
+                name="blue"
+                placeholder="blue (1-100)"
+              />
+            </div>
             <button type="submit" class="btn btn-lg btn-block btn-primary mb-2">
               Change background color
             </button>
