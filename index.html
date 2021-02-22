@@ -13,16 +13,31 @@
     <title>Color Changer</title>
   </head>
   <body>
-    <div class="container justify-content-center my-auto">
-      <div class="row justify-content-center">
-        <h1>Click the button to change color</h1>
-      </div>
-      <div class="row justify-content-center">
-        <button type="button" class="text-center btn btn-primary">
-          Change color
-        </button>
+    <div class="container">
+      <div class="row justify-content-md-center mt-5 mb-5">
+        <div class="col col-lg-2"></div>
+        <div class="col-md-auto text-center">
+          <h1 class="project-title projectName">Project 1</h1>
+          <h6>
+            <span class="badge colorNow">Testing 1</span>
+          </h6>
+        </div>
+        <div class="col col-lg-2"></div>
       </div>
     </div>
+
+    <div class="container p-0">
+      <div class="card text-center bg-dark rounded-0">
+        <h5 class="card-header text-white">
+          Press the button below to change color.
+        </h5>
+        <div class="card-body text-white">
+          <form id="todo-form">
+            <button type="submit" class="btn btn-lg btn-block btn-primary mb-2">
+              Change background color
+            </button>
+          </form>
+        </div>
 
     <script
       src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
