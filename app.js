@@ -17,9 +17,12 @@ inputan.addEventListener("submit", function (e) {
 
   texts.textContent = `Now it is ${r.value}% red, ${g.value}% green, and ${b.value}% blue.`;
 
-  texts.style.color = `rgb(${Math.abs(r.value - 255)}, ${Math.abs(
-    g.value - 255
-  )}, ${Math.abs(b.value - 255)})`;
+  texts.style.color = `rgb(${Math.abs(Math.floor(
+    (r.value * 255) / 100 - 255)}, ${Math.abs(
+    Math.floor((g.value * 255) / 100) - 255
+  )}, ${Math.abs(Math.floor(
+    (b.value * 255) / 100
+  ) - 255)})`;
 
   project.style.color = `rgb(${Math.abs(r.value - 255)}, ${Math.abs(
     g.value - 255
@@ -29,23 +32,3 @@ inputan.addEventListener("submit", function (e) {
   g.value = "";
   b.value = "";
 });
-
-// const h1 = document.querySelector(".colorNow");
-// const button = document.querySelector("button");
-
-// button.addEventListener("click", function (e) {
-//   e.preventDefault();
-//   const r = Math.floor(Math.random() * 256);
-//   const g = Math.floor(Math.random() * 256);
-//   const b = Math.floor(Math.random() * 256);
-
-//   document.body.style.backgroundColor = `rgb(${r}, ${g}, ${b})`;
-
-//   h1.textContent = `Now it is ${Math.floor((100 * r) / 255)}% red, ${Math.floor(
-//     (100 * g) / 255
-//   )}% green, and ${Math.floor((100 * b) / 255)}% blue.`;
-
-//   h1.style.color = `rgb(${Math.abs(r - 255)}, ${Math.abs(g - 255)}, ${Math.abs(
-//     b - 255
-//   )})`;
-// });
