@@ -18,6 +18,7 @@ inputan.addEventListener("submit", function (e) {
     Math.floor((b.value * 255) / 100) - 255
   )})`;
 
+  // Start styling
   document.body.style.backgroundColor = newColor;
 
   texts.textContent = `Now it is ${r.value}% red, ${g.value}% green, and ${b.value}% blue.`;
