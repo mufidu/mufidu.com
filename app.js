@@ -1,33 +1,29 @@
-const inputan = document.querySelector("#inputan");
-const texts = document.querySelector("#colorNow");
-const project = document.querySelector("#projectName");
+const butt = document.querySelector("button");
+const h5 = document.querySelector("p");
 
-inputan.addEventListener("submit", function (e) {
+const delayedColorChange = (color, delay) => {
+  return new Promise((resolve, reject) => {
+    setTimeout(() => {
+      document.body.style.backgroundColor = color;
+      resolve();
+    }, delay);
+  });
+};
+
+async function rainbow() {
+  h5.innerHTML = "";
+  await delayedColorChange("white", 400);
+  await delayedColorChange("red", 1500);
+  await delayedColorChange("orange", 1500);
+  await delayedColorChange("yellow", 1500);
+  await delayedColorChange("green", 1500);
+  await delayedColorChange("blue", 1500);
+  await delayedColorChange("indigo", 1500);
+  await delayedColorChange("violet", 1500);
+  h5.innerHTML = "The show has finished. Click again to repeat.";
+}
+
+butt.addEventListener("click", function (e) {
   e.preventDefault();
-
-  const r = inputan.elements.red;
-  const g = inputan.elements.green;
-  const b = inputan.elements.blue;
-
-  const newColor = `rgb(${Math.floor((r.value * 255) / 100)}, ${Math.floor(
-    (g.value * 255) / 100
-  )}, ${Math.floor((b.value * 255) / 100)})`;
-  const textNewColor = `rgb(${Math.abs(
-    Math.floor((r.value * 255) / 100) - 255
-  )}, ${Math.abs(Math.floor((g.value * 255) / 100) - 255)}, ${Math.abs(
-    Math.floor((b.value * 255) / 100) - 255
-  )})`;
-
-  // Start styling
-  document.body.style.backgroundColor = newColor;
-
-  texts.textContent = `Now it is ${r.value}% red, ${g.value}% green, and ${b.value}% blue.`;
-
-  texts.style.color = textNewColor;
-
-  project.style.color = textNewColor;
-
-  r.value = "";
-  g.value = "";
-  b.value = "";
+  rainbow();
 });
