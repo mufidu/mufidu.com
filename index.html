@@ -12,16 +12,17 @@
       integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl"
       crossorigin="anonymous"
     />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.0/font/bootstrap-icons.css">
 
     <link rel="stylesheet" href="styles.css" />
 
     <title>Mufid & Putri</title>
   </head>
 
-  <body>
+  <body id="home">
     <!-- Navbar -->
 
-    <nav class="navbar navbar-expand-lg navbar-dark bg-secondary shadow">
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-secondary shadow">
       <div class="container-fluid">
         <a class="navbar-brand" href="#">Navigation Bar</a>
         <button
@@ -38,19 +39,19 @@
         <div class="collapse navbar-collapse" id="navbarText">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Home</a>
+              <a class="nav-link active" aria-current="page" href="#home">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">About</a>
+              <a class="nav-link" href="#socmed">Socmed</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Gallery</a>
+              <a class="nav-link" href="#gallery">Gallery</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Contact</a>
+              <a class="nav-link" href="#contact">Contact</a>
             </li>
           </ul>
-          <span class="navbar-text"> txttt </span>
+          <span class="navbar-text"> ♥♥♥♥♥♥ </span>
         </div>
       </div>
     </nav>
@@ -104,8 +105,8 @@
       </svg>
     </section>
 
-    <!-- About -->
-    <section>
+    <!-- Socmed -->
+    <section id="socmed">
       <div class="container">
         <div class="row mb-5">
           <div class="col text-center">
@@ -224,7 +225,7 @@
           </div>
         </div>
 
-        <div class="row justify-content-between">
+        <div class="row justify-content-around mb-4">
           <div class="col-md-4">
             <div class="card">
               <img src="img/bears.png" class="card-img-top" alt="..." />
@@ -245,8 +246,75 @@
             </div>
           </div>
         </div>
+        <div class="row justify-content-center">
+          <div class="col-md-4">
+            <div class="card">
+              <img src="img/komok.png" class="card-img-top" alt="..." />
+              <div class="card-body">
+                <p class="card-text text-center">
+                  Ini dipotoin siapa gitu banget :(
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+        <path
+          fill="white"
+          fill-opacity="1"
+          d="M0,288L48,282.7C96,277,192,267,288,256C384,245,480,235,576,240C672,245,768,267,864,277.3C960,288,1056,288,1152,272C1248,256,1344,224,1392,208L1440,192L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"
+        ></path>
+      </svg>
     </section>
+
+    <!-- Contact Form -->
+    <section id="contact">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-md-6">
+            <h2 class="mb-3 text-center">Contact Us</h2>
+            <form>
+              <div class="mb-3">
+                <label for="nama" class="form-label">Nama</label>
+                <input type="text" class="form-control" id="nama" />
+              </div>
+
+              <div class="mb-3">
+                <label for="email class="form-label"> Email
+
+                <input
+                  type="email"
+                  class="form-control"
+                  id="email"
+                  aria-describedby="emailHelp"
+                />
+              </div>
+
+              <div class="mb-3">
+                <label for="pesan" class="form-label">Pesan</label>
+                <input type="text" class="form-control" id="pesan" />
+              </div>
+
+              <button type="submit" class="btn btn-primary">Kiriiiim</button>
+            </form>
+          </div>
+        </div>
+      </div>
+
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+        <path
+          fill="#6c757d"
+          fill-opacity="1"
+          d="M0,128L48,144C96,160,192,192,288,213.3C384,235,480,245,576,224C672,203,768,149,864,133.3C960,117,1056,139,1152,133.3C1248,128,1344,96,1392,80L1440,64L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"
+        ></path>
+      </svg>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-secondary text-white fw-bolder p-3">
+      <p class="text-center">Made with <i class="bi bi-suit-heart-fill text-danger"></i>.</p>
+    </footer>
 
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"
