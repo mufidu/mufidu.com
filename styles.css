@@ -2,3 +2,10 @@
   padding-top: 1rem;
   background-color: rgba(237, 245, 231, 0.651);
 }
+body {
+    min-height: 2000px;
+}
+
+#gallery {
+  background-color: rgba(237, 245, 231, 0.651);
+}
