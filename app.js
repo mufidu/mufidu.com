@@ -8,7 +8,10 @@ form.addEventListener("submit", async function (e) {
 
     let judul = form.elements.title.value;
     const config = { params: { q: judul } };
-    const hasil = await axios.get(`http://api.tvmaze.com/search/shows`, config);
+    const hasil = await axios.get(
+        `https://api.tvmaze.com/search/shows`,
+        config
+    );
     gambar(hasil.data);
     form.elements.title.value = "";
 });
