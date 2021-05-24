@@ -1,4 +1,3 @@
-# project showcase
 hey! welcome to my (so-called) project showcase.
 <br>
 <br>
