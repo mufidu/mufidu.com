@@ -15,6 +15,5 @@ coolest so far)
 </ul>
 <br>
 <br>
-<br>
 p.s. all the codes are available
 <a href="https://github.com/mufidu">here</a>
