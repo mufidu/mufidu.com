@@ -17,3 +17,8 @@ here are some of them:
 <br>
 p.s. all the codes are available
 <a href="https://github.com/mufidu">here</a>
+
+<br>
+<br>
+
+<a href="https://mufidu.com">&larr; back</a>
