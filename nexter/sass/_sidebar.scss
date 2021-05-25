@@ -1,0 +1,16 @@
+.sidebar {
+    @apply col-start-1 col-end-2 row-span-full flex justify-center;
+    background-color: $color-primary;
+
+    @media only screen and (max-width: $large) {
+        @apply col-span-full items-center justify-end;
+        grid-row: 1 / 2;
+    }
+}
+
+.nav__btn {
+    @apply h-12 text-white text-5xl cursor-pointer pt-5 transition-all hover:text-gray-200;
+    @media only screen and (max-width: $large) {
+        @apply mt-0 mr-7 pt-0;
+    }
+}

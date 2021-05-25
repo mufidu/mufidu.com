@@ -1,0 +1,78 @@
+.review {
+    width: 75%;
+    margin: 0 auto;
+    box-shadow: 0 3rem 6rem rgba($color-black, 0.1);
+    background-color: rgba($color-white, 0.6);
+    border-radius: 0.4rem;
+    padding: 6rem;
+    padding-left: 9rem;
+    font-size: $default-font-size;
+
+    transform: skewX(-12deg);
+    & > * {
+        transform: skewX(12deg);
+        @include respond(phone) {
+            transform: skewX(0);
+        }
+    }
+
+    @include respond(tab-port) {
+        width: 100%;
+        padding: 4rem;
+        padding-left: 7rem;
+    }
+
+    @include respond(phone) {
+        transform: skewX(0);
+    }
+
+    &__shape {
+        width: 15rem;
+        height: 15rem;
+        float: left;
+        background-color: $color-black;
+        position: relative;
+        overflow: hidden;
+
+        // shape outside cuman bisa kalau element difloat dan diset weight dan heightnya
+        shape-outside: circle(50% at 50% 50%);
+        -webkit-shape-outside: circle(50% at 50% 50%);
+        clip-path: circle(50% at 50% 50%);
+        -webkit-clip-path: circle(50% at 50% 50%);
+
+        // translate ke kiri biar ada jarak, dimiringin biar lurus
+        transform: translateX(-3rem) skewX(12deg);
+
+        @include respond(phone) {
+            transform: translateX(-3rem) skewX(0);
+        }
+    }
+
+    &__img {
+        height: 100%; // 100% terhadap shape
+        transform: translateX(-4rem) scale(1.4);
+        // backface-visibility: hidden;
+        transition: all 0.5s;
+    }
+
+    &__caption {
+        @include center;
+        color: $color-white;
+        text-align: center;
+        font-size: 1.7rem;
+        text-transform: uppercase;
+        opacity: 0;
+        transition: all 0.5s;
+        backface-visibility: hidden;
+    }
+
+    &:hover &__caption {
+        opacity: 1;
+        transform: translate(-50%, -50%);
+    }
+
+    &:hover &__img {
+        transform: translateX(-4rem) scale(1);
+        filter: blur(0.2rem) brightness(80%);
+    }
+}

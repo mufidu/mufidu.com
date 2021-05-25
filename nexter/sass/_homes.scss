@@ -1,0 +1,55 @@
+.homes {
+    @apply grid gap-28 my-60 mx-0;
+    grid-column: center-start / center-end;
+
+    grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+    // autofit bikin responsif
+}
+
+.home {
+    @apply grid grid-cols-2 gap-y-14;
+    background-color: $color-grey-light-1;
+
+    &__img {
+        @apply w-full;
+        grid-row: 1 / 2;
+        grid-column: 1 / -1;
+    }
+
+    &__like {
+        @apply justify-self-end m-4 w-10 h-10;
+        grid-row: 1 / 2;
+        grid-column: 2 / 3;
+        fill: $color-primary;
+    }
+
+    &__name {
+        @apply text-3xl text-center p-5 text-white font-normal w-9/12 justify-self-center self-end;
+        grid-column: 1 / -1;
+        grid-row: 1 / 2;
+        font-family: $font-display;
+        background-color: $color-secondary;
+        transform: translateY(50%);
+    }
+
+    &__location,
+    &__rooms {
+        @apply mt-10;
+        // pake margin soalnya ada name yang overlap
+    }
+
+    &__location,
+    &__rooms,
+    &__area,
+    &__price {
+        @apply text-2xl ml-8 flex gap-4 items-center;
+        svg {
+            @apply w-8 h-8;
+            fill: $color-primary;
+        }
+    }
+
+    &__btn {
+        grid-column: 1 / -1;
+    }
+}

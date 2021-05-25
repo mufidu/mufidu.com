@@ -1,0 +1,57 @@
+%heading {
+    font-family: $font-display;
+    font-weight: 400;
+}
+.heading-1 {
+    @extend %heading;
+    font-size: 4.5rem;
+    color: $color-grey-light-1;
+    line-height: 1;
+}
+.heading-2 {
+    @extend %heading;
+    @apply italic;
+    font-size: 4rem;
+    line-height: 1;
+
+    &--light {
+        color: $color-grey-light-1;
+    }
+    &--dark {
+        color: $color-grey-dark-1;
+    }
+}
+.heading-3 {
+    @extend %heading;
+    font-size: 1.9rem;
+    &--light {
+        color: $color-grey-light-1;
+    }
+    &--dark {
+        color: $color-grey-dark-1;
+    }
+}
+.heading-4 {
+    @extend %heading;
+    font-size: 1.6rem;
+    color: $color-primary;
+    text-transform: uppercase;
+
+    &--light {
+        color: $color-grey-light-1;
+    }
+    &--dark {
+        color: $color-grey-dark-1;
+    }
+}
+
+.bttn {
+    @apply text-white border-none text-2xl uppercase py-7 px-12 transition-all cursor-pointer;
+    background-color: $color-primary;
+    border-radius: 0;
+    font-family: $font-display;
+
+    &:hover {
+        background-color: $color-primary-dark;
+    }
+}

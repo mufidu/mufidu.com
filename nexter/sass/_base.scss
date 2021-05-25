@@ -1,0 +1,70 @@
+// COLOR VARIABLES
+$color-primary: #6b1c29;
+$color-primary-dark: #5a1e28;
+
+$color-secondary: #051816;
+
+$color-grey-light-1: #d3d4da;
+$color-grey-light-2: #7d8291;
+
+$color-grey-dark-1: #473d29;
+$color-grey-dark-2: #080705;
+
+// FONT VARIABLES
+$font-primary: "Nunito", sans-serif;
+$font-display: "Josefin Sans", sans-serif;
+
+// RESPONSIVE BREAKPOINTS
+$largest: 75em; // 1200px
+$large: 62.5em; // 1000px
+$medium: 50em; // 800px
+$small: 37.5em; //600px
+
+*,
+*::after,
+*::before {
+    @apply m-0 p-0;
+    box-sizing: inherit;
+}
+
+html {
+    @apply box-border;
+    font-size: 62.5%;
+
+    // ngecilin font size
+    @media only screen and (max-width: $largest) {
+        font-size: 50%;
+    }
+}
+
+.container {
+    @apply grid max-w-full;
+    // max width full biar ga kepotong (default tailwind kepotong)
+    grid-template-rows: 80vh min-content 40vw repeat(3, min-content);
+    grid-template-columns:
+        [sidebar-start] 5rem [sidebar-end full-start] minmax(6rem, 1fr)
+        [center-start] repeat(
+            8,
+            [col-start] minmax(min-content, 14rem) [col-end]
+        )
+        [center-end] minmax(6rem, 1fr) [full-end];
+
+    // KALAU MAU PAKAI MEDIA QUERY DI GRID, GRID COLUMNYA KASIH NAMA BIAR GA GANTI POSISI
+
+    // tambah satu row, hapus column pertama
+    @media only screen and (max-width: $large) {
+        grid-template-rows: 6rem 80vh min-content 40vw repeat(3, min-content);
+        grid-template-columns:
+            [full-start] minmax(6rem, 1fr)
+            [center-start] repeat(
+                8,
+                [col-start] minmax(min-content, 14rem) [col-end]
+            )
+            [center-end] minmax(6rem, 1fr) [full-end];
+    }
+
+    // tambah 1 row lagi buat header realtor, gedein header sampe 100vh
+    @media only screen and (max-width: $medium) {
+        grid-template-rows: 6rem calc(100vh - 6rem);
+    }
+}

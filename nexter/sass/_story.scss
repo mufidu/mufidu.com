@@ -1,0 +1,55 @@
+.story {
+    &__pictures {
+        @apply grid grid-cols-6 grid-rows-6 items-center;
+        background-image: linear-gradient(
+                rgba($color-primary, 0.3),
+                rgba($color-primary, 0.4)
+            ),
+            url(/img/back.jpg);
+        background-size: cover;
+
+        grid-column: full-start / col-end 4;
+
+        @media only screen and (max-width: $medium) {
+            @apply col-span-full p-12;
+        }
+    }
+
+    &__img--1 {
+        @apply shadow-lg w-full row-start-2 row-end-6 col-start-2 col-end-6;
+
+        @media only screen and (max-width: $medium) {
+            @apply col-start-1 col-end-5 row-span-full;
+        }
+    }
+    &__img--2 {
+        @apply z-10 shadow-xl row-start-4 row-end-6 col-start-4 col-end-7;
+        width: 115%;
+
+        @media only screen and (max-width: $medium) {
+            @apply row-span-full w-full;
+        }
+    }
+
+    &__contents {
+        @apply flex items-start justify-center flex-col;
+        background-color: $color-grey-light-1;
+        grid-column: col-start 5 / full-end;
+
+        padding: 6rem 8vw;
+
+        @media only screen and (max-width: $medium) {
+            @apply col-span-full row-start-5 row-end-6;
+        }
+    }
+
+    &__text {
+        @apply text-2xl italic;
+    }
+}
+
+img,
+video {
+    // biar bisa overlap
+    max-width: 150%;
+}

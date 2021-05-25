@@ -1,0 +1,65 @@
+.gallery {
+    @apply grid grid-cols-8 gap-6 p-6;
+    grid-template-rows: repeat(7, 5vw);
+    background-color: $color-grey-light-1;
+    grid-column: full-start / full-end;
+
+    // USING GRID AREAS
+    grid-template-areas:
+        "p1  p1  p2  p2  p2  p3  p4  p4"
+        "p1  p1  p2  p2  p2  p3  p4  p4"
+        "p5  p5  p2  p2  p2  p8  p8  p9"
+        "p5  p5  p6  p6  p7  p8  p8  p9"
+        "p5  p5  p6  p6  p13 p13 p13 p9"
+        "p10 p11 p11 p12 p13 p13 p13 p14"
+        "p10 p11 p11 p12 p13 p13 p13 p14";
+
+    &__img {
+        @apply w-full h-full object-cover block;
+        // w dan h biar cover bisa dipake
+        // cover biar ga overlap
+        // block biar gada whitespace karena dianggep inline
+        &--1 {
+            grid-area: p1;
+        }
+        &--2 {
+            grid-area: p2;
+        }
+        &--3 {
+            grid-area: p3;
+        }
+        &--4 {
+            grid-area: p4;
+        }
+        &--5 {
+            grid-area: p5;
+        }
+        &--6 {
+            grid-area: p6;
+        }
+        &--7 {
+            grid-area: p7;
+        }
+        &--8 {
+            grid-area: p8;
+        }
+        &--9 {
+            grid-area: p9;
+        }
+        &--10 {
+            grid-area: p10;
+        }
+        &--11 {
+            grid-area: p11;
+        }
+        &--12 {
+            grid-area: p12;
+        }
+        &--13 {
+            grid-area: p13;
+        }
+        &--14 {
+            grid-area: p14;
+        }
+    }
+}

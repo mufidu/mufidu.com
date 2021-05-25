@@ -1,0 +1,112 @@
+.form {
+    &__group:not(:last-child) {
+        margin-bottom: 2rem;
+    }
+
+    &__input {
+        font-size: 1.5rem;
+        font-family: inherit;
+        color: inherit;
+        padding: 1.5rem 2rem;
+        background-color: rgba($color-white, 0.5);
+        border-radius: $radius-size - 0.8;
+        border: none;
+        width: 90%;
+        border-bottom: 0.3rem solid transparent;
+        display: block;
+        transition: all 0.3s;
+
+        @include respond(tab-port) {
+            width: 100%;
+        }
+
+        &:focus {
+            // don't just remove the outline
+            outline: none;
+            box-shadow: 0 1rem 2rem rgba($color-black, 0.1);
+            border-bottom: 0.3rem solid $color-primary;
+        }
+
+        &:focus:invalid {
+            border-bottom: 0.3rem solid $color-secondary-dark;
+        }
+
+        &::-webkit-input-placeholder {
+            color: $color-grey-dark-2;
+        }
+    }
+
+    &__label {
+        font-size: 1.2rem;
+        font-weight: 700;
+        margin-left: 2rem;
+        margin-top: 0.7rem;
+        display: block;
+        transition: all 0.3s;
+    }
+
+    &__input:placeholder-shown + &__label {
+        visibility: hidden; //can't be clicked and can't be animated (still take place)
+        opacity: 0; //the element still on the page (can be clicked) (still take place too)
+        transform: translateY(-4rem);
+    }
+
+    &__radio-group {
+        width: 49%;
+        display: inline-block;
+
+        @include respond(tab-port) {
+            width: 100%;
+            margin-bottom: 2rem;
+        }
+    }
+
+    &__radio-input {
+        // display: none; // really hidden, but cant be tabbed
+        opacity: 0; // not necessary
+        height: 0;
+        width: 0;
+    }
+
+    &__radio-label {
+        font-size: $default-font-size;
+        cursor: pointer;
+        padding-left: 3rem;
+        position: relative;
+    }
+
+    &__radio-button {
+        height: 2rem;
+        width: 2rem;
+        border: 0.35rem solid $color-primary;
+        border-radius: 50%;
+        display: inline-block;
+        position: absolute;
+        top: 0;
+        left: 0;
+
+        &::after {
+            width: 120%;
+            height: 120%;
+            content: "";
+            border-radius: 50%;
+            display: block;
+            background-color: $color-primary;
+            @include center;
+            opacity: 0;
+            transition: opacity 0.2s;
+        }
+    }
+
+    &__radio-input:checked ~ &__radio-label > &__radio-button::after {
+        opacity: 100%;
+    }
+
+    &__radio-input:checked ~ &__radio-label &__radio-button::after {
+        opacity: 1;
+    }
+
+    &__radio-input:focus ~ &__radio-label &__radio-button::after {
+        opacity: 1;
+    }
+}

@@ -1,0 +1,41 @@
+.footer {
+    @apply p-32;
+    background-color: $color-secondary;
+    grid-column: full-start / full-end;
+}
+
+.nav {
+    @apply list-none flex gap-8 flex-wrap items-center justify-center;
+    flex: 1 1 50%;
+
+    // autofit biar responsif
+    // grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+
+    &__link {
+        &:link,
+        &:visited {
+            @apply text-2xl text-white no-underline uppercase text-center block p-6 transition-all;
+            font-family: $font-display;
+        }
+
+        &:hover,
+        &:active {
+            background-color: rgba(white, 0.05);
+            transform: translateY(-0.5rem);
+        }
+    }
+}
+
+.copyright {
+    @apply text-xl text-gray-300 text-center mt-20 -mb-20;
+
+    a:link,
+    a:visited {
+        @apply text-gray-300 no-underline transition-all;
+    }
+
+    a:hover,
+    a:active {
+        @apply text-white;
+    }
+}

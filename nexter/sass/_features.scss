@@ -1,0 +1,21 @@
+.features {
+    @apply grid gap-20 self-start my-60 mx-0;
+    grid-column: center-start / center-end;
+    grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+}
+
+.feature {
+    @apply grid gap-x-10 gap-y-6;
+    grid-template-columns: min-content 1fr;
+
+    &__icon {
+        fill: $color-primary;
+        height: 4.5rem;
+        width: 4.5rem;
+        grid-row: 1 / span 2;
+    }
+
+    &__text {
+        font-size: 1.7rem;
+    }
+}
