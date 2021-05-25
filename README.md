@@ -5,10 +5,9 @@ Here are some of them:
 - [Nexter](https://project.mufidu.com/nexter)
 - [Natours](https://project.mufidu.com/natours)
 - ... and the [minis](https://project.mufidu.com/minis)
+<br>
 
 p.s. All the codes are available [here](https://github.com/mufidu).
-
-<br>
 
 <br>
 
