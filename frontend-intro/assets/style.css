@@ -146,6 +146,10 @@ aside {
     margin-bottom: 2rem;
 }
 
+.social-icon a:hover {
+    transform: scale(1.1);
+}
+
 aside p {
     text-align: left;
     margin-top: 2rem;
