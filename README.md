@@ -1,12 +1,10 @@
-Welcome to my (so-called) project showcase!
+Hey! Sorry because the main page has not been designed, yet.
 
-Here are some of them:
+You can take a look at my other links:
 
--   [Front-end Intro](https://project.mufidu.com/frontend-intro)
--   [Nexter](https://project.mufidu.com/nexter)
--   [Natours](https://project.mufidu.com/natours)
--   ... and the [minis](https://project.mufidu.com/minis)
-
-<br>
-
-[&larr; back](https://mufidu.com)
+-   [Project showcase](https://project.mufidu.com)
+-   [Blog](https://blog.mufidu.com)
+-   [GitHub](https://github.com/mufidu)
+-   [LinkedIn](https://linkedin.com/in/mufidu)
+-   [Instagram](https://instagram.com/mufidu_)
+-   [Email](mailto:me@mufidu.com)
