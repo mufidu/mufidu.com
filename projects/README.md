@@ -2,10 +2,10 @@ Welcome to my (so-called) project showcase!
 
 Here are some of them:
 
--   [Front-end Intro](https://project.mufidu.com/frontend-intro)
--   [Nexter](https://project.mufidu.com/nexter)
--   [Natours](https://project.mufidu.com/natours)
--   ... and the [minis](https://project.mufidu.com/minis)
+-   [Front-end Intro](https://mufidu.com/projects/frontend-intro)
+-   [Nexter](https://mufidu.com/projects/nexter)
+-   [Natours](https://mufidu.com/projects/natours)
+-   ... and the [minis](https://mufidu.com/projects/minis)
 
 <br>
 
