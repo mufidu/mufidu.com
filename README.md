@@ -1,4 +1,3 @@
-# projects
 Welcome to my (so-called) project showcase!
 
 Here are some of them:
