@@ -1,5 +1,3 @@
-# minis
-
 Collections of my mini projects. Built as practice, mostly.
 
 <ul>
