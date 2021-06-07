@@ -14,17 +14,17 @@ These are things I'm doing now
 
 > See [my courses' certificates](https://www.linkedin.com/in/mufidu/)
 
-## Currently watching
-
--   [Breaking Bad](https://m.imdb.com/title/tt0903747/)
-
--   [Family Guy](https://www.imdb.com/title/tt0182576/)
-
 ## Currently working on
 
 -   [MyQeena website](https://myqeena.my.id)
 
 -   [My personal website](https://mufidu.com)
+
+## Currently watching
+
+-   [Breaking Bad](https://m.imdb.com/title/tt0903747/)
+
+-   [Family Guy](https://www.imdb.com/title/tt0182576/)
 
 <br>
 
