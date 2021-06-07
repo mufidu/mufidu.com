@@ -16,10 +16,14 @@
 <br><br>
 Hey! Sorry because the main page has not been designed yet.
 
-You can take a look at my other links:
+You can take a look at the other pages:
 
 -   [Project showcase](https://mufidu.com/projects)
+-   [Now](https://mufidu.com/now)
 -   [Blog](https://blog.mufidu.com)
+
+Other links:
+
 -   [GitHub](https://github.com/mufidu)
 -   [LinkedIn](https://linkedin.com/in/mufidu)
 -   [Instagram](https://instagram.com/mufidu_)
