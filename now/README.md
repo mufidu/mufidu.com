@@ -22,7 +22,7 @@ These are things I'm doing [now](https://nownownow.com)
 
 ## Currently watching
 
--   [Breaking Bad](https://m.imdb.com/title/tt0903747/)
+-   [Breaking Bad](https://www.imdb.com/title/tt0903747/)
 
 -   [Family Guy](https://www.imdb.com/title/tt0182576/)
 
