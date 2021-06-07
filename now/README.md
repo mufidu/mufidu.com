@@ -1,4 +1,4 @@
-These are things I'm doing now
+These are things I'm doing [now](https://nownownow.com)
 
 ## Currently reading
 

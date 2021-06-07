@@ -22,7 +22,7 @@ You can take a look at the other pages:
 -   [Now](https://mufidu.com/now)
 -   [Blog](https://blog.mufidu.com)
 
-Other links:
+Or the other links:
 
 -   [GitHub](https://github.com/mufidu)
 -   [LinkedIn](https://linkedin.com/in/mufidu)
