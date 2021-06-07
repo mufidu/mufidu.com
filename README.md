@@ -14,9 +14,9 @@
     height="35"
     width="35" />
 <br><br>
-Hey! Sorry because the main page has not been designed yet.
+Hey! Sorry because this main page has not been fancy-designed yet.
 
-You can take a look at the other pages:
+Take a look at the other pages:
 
 -   [Project showcase](https://mufidu.com/projects)
 -   [Now](https://mufidu.com/now)
