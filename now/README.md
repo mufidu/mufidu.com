@@ -12,6 +12,8 @@ These are things I'm doing [now](https://nownownow.com)
 
 -   [Learn Front-End Web for Beginners - Dicoding](https://www.dicoding.com/academies/315)
 
+-   [Germany - Duolingo](https://www.duolingo.com/profile/mufidu_)
+
 > See [my courses' certificates](https://www.linkedin.com/in/mufidu/)
 
 ## Currently working on
