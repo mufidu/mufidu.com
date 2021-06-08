@@ -1,7 +1,6 @@
 Collections of my mini projects. Built as practice, mostly.
 
 <ul>
-    <li><a href="https://mufidu.com/projects/minis/to-do-list">To Do List</a></li>
     <li>
         <a href="https://mufidu.com/projects/minis/tvshow-search"
             >TV Show Searcher</a
@@ -33,7 +32,6 @@ Collections of my mini projects. Built as practice, mostly.
             >Console Log: To Do List</a
         >
     </li>
-    <li><a href="https://mufidu.com/projects/minis/komponen">Komponen</a></li>
 </ul>
 
 <br>
