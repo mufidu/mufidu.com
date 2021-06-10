@@ -10,8 +10,6 @@ These are things I'm doing [now](https://nownownow.com)
 
 -   [The Web Developer Bootcamp - Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/)
 
--   [Learn Front-End Web for Beginners - Dicoding](https://www.dicoding.com/academies/315)
-
 -   [Germany - Duolingo](https://www.duolingo.com/course/de/en/Learn-German)
 
 > See [my courses' certificates](https://www.linkedin.com/in/mufidu/)
