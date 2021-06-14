@@ -14,7 +14,7 @@
     height="35"
     width="35" />
 <br><br>
-Hey! Sorry because this main page has not been fancy-designed yet.
+Hey! Sorry because this website has not been fancy-designed yet.
 
 Take a look at the other pages:
 
