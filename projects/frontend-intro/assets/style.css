@@ -149,8 +149,9 @@ aside {
     margin-bottom: 2rem;
 }
 
-.social-icon a:hover {
+svg:hover {
     transform: scale(1.1);
+
 }
 
 aside p {
