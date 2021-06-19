@@ -253,7 +253,6 @@ function filterTodo() {
     }
 
     for (todo of allTodo) {
-        console.log(todo);
         for (id of notSearched) {
             if (todo["id"] == id) {
                 todo.style.display = "none";
