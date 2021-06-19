@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
         formInput.reset();
     });
 
-    filter.addEventListener("keyup", (e) => {
+    filter.addEventListener("input", (e) => {
         e.preventDefault();
         filterTodo();
     });
