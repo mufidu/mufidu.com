@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tutorial - brain dump</title>
+	<atom:link href="https://blog.mufidu.com/category/tutorial/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.mufidu.com</link>
+	<description>blog of mufidu</description>
+	<lastBuildDate>Mon, 21 Jun 2021 23:57:44 +0000</lastBuildDate>
+	<language>id-ID</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://blog.mufidu.com/wp-content/uploads/2021/05/cropped-android-chrome-192x192-1-32x32.png</url>
+	<title>Tutorial - brain dump</title>
+	<link>https://blog.mufidu.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Konfigurasi dan Optimasi WordPress untuk Blog</title>
+		<link>https://blog.mufidu.com/optimasi-wordpress/</link>
+		
+		<dc:creator><![CDATA[Muhammad Mufid]]></dc:creator>
+		<pubDate>Sun, 23 May 2021 03:09:15 +0000</pubDate>
+				<category><![CDATA[Tutorial]]></category>
+		<guid isPermaLink="false">https://blog.mufidu.com/?p=747</guid>
+
+					<description><![CDATA[<p>Panduan simple buat yang baru mau mulai blog atau mau pindah ke Wordpress</p>
+The post <a href="https://blog.mufidu.com/optimasi-wordpress/">Konfigurasi dan Optimasi WordPress untuk Blog</a> appeared first on <a href="https://blog.mufidu.com">brain dump</a>.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

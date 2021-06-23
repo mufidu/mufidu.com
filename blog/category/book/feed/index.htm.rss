@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Book - brain dump</title>
+	<atom:link href="https://blog.mufidu.com/category/book/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.mufidu.com</link>
+	<description>blog of mufidu</description>
+	<lastBuildDate>Mon, 21 Jun 2021 23:57:48 +0000</lastBuildDate>
+	<language>id-ID</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://blog.mufidu.com/wp-content/uploads/2021/05/cropped-android-chrome-192x192-1-32x32.png</url>
+	<title>Book - brain dump</title>
+	<link>https://blog.mufidu.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Insight dari The Lean Startup</title>
+		<link>https://blog.mufidu.com/insight-dari-the-lean-startup/</link>
+		
+		<dc:creator><![CDATA[Muhammad Mufid]]></dc:creator>
+		<pubDate>Wed, 02 Dec 2020 00:10:00 +0000</pubDate>
+				<category><![CDATA[Book]]></category>
+		<category><![CDATA[Self Improvement]]></category>
+		<guid isPermaLink="false">https://blog.mufidu.com/2020/12/insight-dari-lean-startup.html</guid>
+
+					<description><![CDATA[<p>Baru-baru ini gua selesai baca buku The Lean Startup yang akhirnya selesaii gua baca setelah berbulan-bulan ketunda gara-gara ini itu. Setelah selesai, gua ada rencana nulis summarynya buat ditaro disini, karena udah lama ga ngisi juga. Gua mulai baca lagi dari awal, nyari highlight-highlight yang gua buat, terus mulai bikin poin-poinnya. Belum juga selesai baca&#8230;&#160;<a href="https://blog.mufidu.com/insight-dari-the-lean-startup/" class="" rel="bookmark">Selengkapnya &#187;<span class="screen-reader-text">Insight dari The Lean Startup</span></a></p>
+The post <a href="https://blog.mufidu.com/insight-dari-the-lean-startup/">Insight dari The Lean Startup</a> appeared first on <a href="https://blog.mufidu.com">brain dump</a>.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

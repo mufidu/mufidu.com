@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Komentar di: Rangkuman CS50x	</title>
+	<atom:link href="https://blog.mufidu.com/rangkuman-cs50x/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.mufidu.com/rangkuman-cs50x/</link>
+	<description>blog of mufidu</description>
+	<lastBuildDate>Mon, 21 Jun 2021 23:57:45 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Oleh: Muhammad Mufid		</title>
+		<link>https://blog.mufidu.com/rangkuman-cs50x/#comment-9</link>
+
+		<dc:creator><![CDATA[Muhammad Mufid]]></dc:creator>
+		<pubDate>Tue, 18 May 2021 14:35:11 +0000</pubDate>
+		<guid isPermaLink="false">https://blog.mufidu.com/2021/02/rangkuman-cs50x.html#comment-9</guid>
+
+					<description><![CDATA[Sebagai balasan untuk &lt;a href=&quot;https://blog.mufidu.com/rangkuman-cs50x/#comment-7&quot;&gt;Muhammad Rasikh&lt;/a&gt;.
+
+sama ka, nonton materinya juga ga harus di edX, yang penting submissionnya ngumpulin. edX cuman buat daftar aja.]]></description>
+			<content:encoded><![CDATA[<p>Sebagai balasan untuk <a href="https://blog.mufidu.com/rangkuman-cs50x/#comment-7">Muhammad Rasikh</a>.</p>
+<p>sama ka, nonton materinya juga ga harus di edX, yang penting submissionnya ngumpulin. edX cuman buat daftar aja.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Oleh: Muhammad Rasikh		</title>
+		<link>https://blog.mufidu.com/rangkuman-cs50x/#comment-7</link>
+
+		<dc:creator><![CDATA[Muhammad Rasikh]]></dc:creator>
+		<pubDate>Tue, 18 May 2021 12:52:54 +0000</pubDate>
+		<guid isPermaLink="false">https://blog.mufidu.com/2021/02/rangkuman-cs50x.html#comment-7</guid>
+
+					<description><![CDATA[Kak, yg kakak pelajarin di EdX sama yg ada di &lt;a href=&quot;https://www.youtube.com/c/cs50/playlists&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Youtube&lt;/a&gt; sama atau gk? Kan ada byk tuh playlist kuliah buatan CS50]]></description>
+			<content:encoded><![CDATA[<p>Kak, yg kakak pelajarin di EdX sama yg ada di <a href="https://www.youtube.com/c/cs50/playlists" target="_blank" rel="noopener nofollow ugc">Youtube</a> sama atau gk? Kan ada byk tuh playlist kuliah buatan CS50</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
