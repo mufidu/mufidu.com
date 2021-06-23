@@ -20,8 +20,8 @@ Take a look at the other pages:
 
 -   [Project showcase](https://mufidu.com/projects)
 -   [Now](https://mufidu.com/now)
--   [Blog](https://mufidu.com/blog) (static)
--   [Blog](https://blog.mufidu.com) (dynamic)
+-   [Blog](https://mufidu.com/blog) (static. faster, but no comment and translate feature.)
+-   [Blog](https://blog.mufidu.com) (dynamic. slower, but with all functionalities enabled.)
 
 Or the other links:
 
