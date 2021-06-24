@@ -1,4 +1,4 @@
-These are things I'm doing [now](https://nownownow.com)
+These are things I'm doing at the moment. Part of [/now movement](https://nownownow.com).
 
 ## Currently reading
 
@@ -11,6 +11,8 @@ These are things I'm doing [now](https://nownownow.com)
 -   [The Web Developer Bootcamp - Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/)
 
 -   [Germany - Duolingo](https://www.duolingo.com/course/de/en/Learn-German)
+
+-   Calculus and discrete mathematics. yea.
 
 > See [my courses' certificates](https://www.linkedin.com/in/mufidu/)
 

@@ -1,4 +1,4 @@
-Welcome to my (so-called) project showcase!
+Welcome to my (so-called) project showcase! 
 
 Here are some of them:
 
@@ -7,6 +7,10 @@ Here are some of them:
 -   [Natours](https://mufidu.com/projects/natours)
 -   [To Do List](https://mufidu.com/projects/todolist)
 -   ... and the [minis](https://mufidu.com/projects/minis)
+
+<br>
+
+P.S. All the codes are available [here](https://github.com/mufidu/mufidu.com/tree/main/projects).
 
 <br>
 
