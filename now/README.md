@@ -26,7 +26,7 @@ These are things I'm doing at the moment. Part of [/now movement](https://nownow
 
 -   [Breaking Bad](https://www.imdb.com/title/tt0903747/)
 
--   [Family Guy](https://www.imdb.com/title/tt0182576/)
+-   [Loki](https://www.imdb.com/title/tt9140554/)
 
 <br>
 
