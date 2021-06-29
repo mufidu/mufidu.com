@@ -4,8 +4,7 @@ Take a look at the other pages:
 
 -   [Things I've made](https://mufidu.com/projects)
 -   [Now](https://mufidu.com/now)
--   [Blog](https://blog.mufidu.com) -> dynamic
--   [Blog](https://mufidu.com/blog) -> static. faster but still so raw. 
+-   [Blog](https://blog.mufidu.com)
 
 Or the other links:
 
