@@ -33,6 +33,8 @@ These are things I'm doing at the moment. Part of [/now movement](https://nownow
 -   [My personal website](https://mufidu.com)
     
     This is the site you are visiting now. I haven't started this one, either 😅. As you can see in [the repo](https://github.com/mufidu/mufidu.com), it's all just markdown. Generated to HTML by Jekyll, automatically after every `git push`.
+    
+> See [my finished work](https://mufidu.com/projects)
 
 ## Currently watching
 
