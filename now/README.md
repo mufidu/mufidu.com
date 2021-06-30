@@ -4,7 +4,7 @@ These are things I'm doing at the moment. Part of [/now movement](https://nownow
 
 -   [The Virgin Way: Everything I Know About Leadership - Richard Branson](https://www.goodreads.com/book/show/22129114-the-virgin-way)
     
-    This book is about his stories about building the Virgin Companies. Really love reading it until now.
+    This book is about his stories when building the Virgin Companies. Really love reading it until now.
 
 > See [what I've read](https://www.goodreads.com/review/list/123404048-muhammad-mufid?shelf=read)
 
