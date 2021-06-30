@@ -54,7 +54,7 @@ form {
 }
 
 button {
-    @apply mt-3 w-max p-2 rounded bg-gray-300 text-black;
+    @apply mt-3 w-max p-2 rounded bg-gray-300 text-black cursor-pointer;
 
     & > * {
         pointer-events: none;
