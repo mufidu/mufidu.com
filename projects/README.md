@@ -1,11 +1,17 @@
-Welcome to my (so-called) project showcase! 
+Welcome to my (so-called) project showcase!
 
 Here are some of them:
 
 -   [Front-end Intro](https://mufidu.com/projects/frontend-intro)
 -   [Nexter](https://mufidu.com/projects/nexter)
 -   [Natours](https://mufidu.com/projects/natours)
--   [To Do List](https://mufidu.com/projects/todolist)
+-   To Do List
+
+    [Live site](https://mufidu.github.io/todolist/) | [GitHub](https://github.com/mufidu/todolist/)
+
+    Just an usual todolist web app, built using Tailwind, Sass,and some JavaScript so it can save the tasks to the browser local storage.
+
+-   [Tailwind and Sass Starter Template](https://mufidu.com/projects/tailwind-sass-starter/)
 -   ... and the [minis](https://mufidu.com/projects/minis)
 
 <br>
