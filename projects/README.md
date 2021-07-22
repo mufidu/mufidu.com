@@ -1,4 +1,4 @@
-Welcome to my (so-called) project showcase! 
+Welcome to my (so-called) project showcase!
 
 Here are some of them:
 
@@ -6,6 +6,7 @@ Here are some of them:
 -   [Nexter](https://mufidu.com/projects/nexter)
 -   [Natours](https://mufidu.com/projects/natours)
 -   [To Do List](https://mufidu.com/projects/todolist)
+-   [Tailwind and Sass Starter Template](https://mufidu.com/projects/tailwind-sass-starter/)
 -   ... and the [minis](https://mufidu.com/projects/minis)
 
 <br>
