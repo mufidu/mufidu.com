@@ -4,7 +4,13 @@ Here are some of them:
 
 -   [Front-end Intro](https://mufidu.com/projects/frontend-intro)
 -   [Nexter](https://mufidu.com/projects/nexter)
--   [Natours](https://mufidu.com/projects/natours)
+-   Natours
+
+    [Live site](https://mufidu.github.io/natours) | [GitHub](https://github.com/mufidu/natours)
+
+    A tour and travel website project, focusing on applying effect and maximizing CSS potentials, but currently not using CSS Grid and Flexbox.
+    Built without JavaScript at all.
+
 -   [To Do List](https://mufidu.com/projects/todolist)
 -   [Tailwind and Sass Starter Template](https://mufidu.com/projects/tailwind-sass-starter/)
 -   ... and the [minis](https://mufidu.com/projects/minis)
