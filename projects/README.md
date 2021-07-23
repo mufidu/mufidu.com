@@ -3,8 +3,20 @@ Welcome to my (so-called) project showcase!
 Here are some of them:
 
 -   [Front-end Intro](https://mufidu.com/projects/frontend-intro)
--   [Nexter](https://mufidu.com/projects/nexter)
--   [Natours](https://mufidu.com/projects/natours)
+
+-   Nexter
+
+    [Live site](https://mufidu.github.io/nexter) | [GitHub](https://github.com/mufidu/nexter)
+
+    A CSS project implementing Tailwind, Sass, CSS Grid, Flexbox, and more.
+    
+-   Natours
+
+    [Live site](https://mufidu.github.io/natours) | [GitHub](https://github.com/mufidu/natours)
+
+    A tour and travel website project, focusing on applying effect and maximizing CSS potentials, but currently not using CSS Grid and Flexbox.
+    Built without JavaScript at all.
+
 -   To Do List
 
     [Live site](https://mufidu.github.io/todolist/) | [GitHub](https://github.com/mufidu/todolist/)
