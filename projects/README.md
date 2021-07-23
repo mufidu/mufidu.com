@@ -2,7 +2,12 @@ Welcome to my (so-called) project showcase!
 
 Here are some of them:
 
--   [Front-end Intro](https://mufidu.com/projects/frontend-intro)
+-   Front-end Intro
+
+    [Live site](https://mufidu.github.io/frontend-intro) | [GitHub](https://github.com/mufidu/frontend-intro)
+
+    A website built for introducing Front-end Web Development.
+
 -   [Nexter](https://mufidu.com/projects/nexter)
 -   [Natours](https://mufidu.com/projects/natours)
 -   [To Do List](https://mufidu.com/projects/todolist)
