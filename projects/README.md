@@ -3,7 +3,13 @@ Welcome to my (so-called) project showcase!
 Here are some of them:
 
 -   [Front-end Intro](https://mufidu.com/projects/frontend-intro)
--   [Nexter](https://mufidu.com/projects/nexter)
+
+-   Nexter
+
+    [Live site](https://mufidu.github.io/nexter) | [GitHub](https://github.com/mufidu/nexter)
+
+    A CSS project implementing Tailwind, Sass, CSS Grid, Flexbox, and more.
+    
 -   Natours
 
     [Live site](https://mufidu.github.io/natours) | [GitHub](https://github.com/mufidu/natours)
