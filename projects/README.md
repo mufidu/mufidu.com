@@ -25,17 +25,22 @@ Here are some of them:
 
     [Live site](https://mufidu.github.io/todolist/) | [GitHub](https://github.com/mufidu/todolist/)
 
-    Just an usual todolist web app, built using Tailwind, Sass,and some JavaScript so it can save the tasks to the browser local storage.
+    Just a usual todolist web app, built using Tailwind, Sass, and some JavaScript so it can save the tasks in the browser's local storage.
 
 -   Tailwind and Sass Starter Template
 
     [Live site](https://mufidu.github.io/tailwind-sass-starter/) | [GitHub](https://github.com/mufidu/tailwind-sass-starter)
 
-    A plain starter template for using Tailwind with Sass (without Next, Gatsby, Laravel, etc).
+    A plain starter template for using Tailwind with Sass (without Next, Gatsby, Laravel, etc). Built for my personal use, since I'll hate setting up this stuff again. Once is enough.
+
+-   MyQeena Landing Page
+
+    [Live site](https://myqeena.my.id) | [GitHub](https://github.com/mufidu/myqeena.my.id)
+
+    A very simple Linktree-alike landing page I made for a local bag brand.
 
 -   ... and the [minis](https://mufidu.github.io/minis)
 
 <br>
-
 
 [&larr; back](https://mufidu.com)
