@@ -12,15 +12,15 @@ These are things I'm doing at the moment. Part of [/now movement](https://nownow
 
 -   [The Web Developer Bootcamp - Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/)
 
-    It's where my journey to web development began. I did many practices and projects while doing this course, despite haven't finished it yet.
+    It's where my journey to web development began. I did many practices and projects while doing this course, but still haven't finished it yet.
+
+-   [Learn Front-End Web Development Fundamental - Dicoding](https://www.dicoding.com/academies/163)
+
+    I got this class as a scholarship from [IDCamp](https://idcamp.indosatooredoo.com/).
 
 -   [Germany - Duolingo](https://www.duolingo.com/course/de/en/Learn-German)
 
     I think it's cool to be a polyglot. No?
-
--   Calculus and discrete mathematics.
-
-    Yea. I'm in semester 3 now and the mathy things are getting worse.
 
 > See [my courses' certificates](https://www.linkedin.com/in/mufidu/)
 
@@ -28,7 +28,11 @@ These are things I'm doing at the moment. Part of [/now movement](https://nownow
 
 -   [My personal website](https://mufidu.com)
 
-    This is the site you are visiting now. I haven't started this one, either 😅. As you can see in [the repo](https://github.com/mufidu/mufidu.com), it's all just markdown. Generated to HTML by Jekyll, automatically after every `git push`.
+    This is the very website you are visiting now. I haven't started this one, either 😅. As you can see in [the repo](https://github.com/mufidu/mufidu.com), it's all just markdown. Generated to HTML by Jekyll, automatically after every `git push`.
+
+-   [Car.ly](https://mufidu.github.io/car.ly)
+
+    My rebuild of [Natours](https://mufidu.github.io/natours), now implementing Flexbox, and without Lorem ipsum anymore. Still about a fiction company, tho.
 
 > See [my finished work](https://mufidu.com/projects)
 

@@ -2,7 +2,7 @@ Hey! Sorry because this website has not been fancy-designed yet.
 
 Take a look at the other pages:
 
--   [Things I've made](https://mufidu.com/projects)
+-   [Things I've write](https://mufidu.com/projects)
 -   [Now](https://mufidu.com/now)
 -   [Blog](https://blog.mufidu.com)
 

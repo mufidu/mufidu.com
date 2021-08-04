@@ -39,7 +39,7 @@ Here are some of them:
 
     A very simple Linktree-alike landing page I made for a local bag brand.
 
--   ... and the [minis](https://mufidu.github.io/minis)
+-   ... and the [others](https://mufidu.github.io/others)
 
 <br>
 
