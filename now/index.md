@@ -14,10 +14,6 @@ These are things I'm doing at the moment. Part of [/now movement](https://nownow
 
     It's where my journey to web development began. I did many practices and projects while doing this course, but still haven't finished it yet.
 
--   [Learn Front-End Web Development Fundamental - Dicoding](https://www.dicoding.com/academies/163)
-
-    I got this class as a scholarship from [IDCamp](https://idcamp.indosatooredoo.com/).
-
 -   [Germany - Duolingo](https://www.duolingo.com/course/de/en/Learn-German)
 
     I think it's cool to be a polyglot. No?
@@ -30,10 +26,6 @@ These are things I'm doing at the moment. Part of [/now movement](https://nownow
 
     This is the very website you are visiting now. I haven't started this one, either 😅. As you can see in [the repo](https://github.com/mufidu/mufidu.com), it's all just markdown. Generated to HTML by Jekyll, automatically after every `git push`.
 
--   [Car.ly](https://mufidu.github.io/car.ly)
-
-    My rebuild of [Natours](https://mufidu.github.io/natours), now implementing Flexbox, and without Lorem ipsum anymore. Still about a fiction company, tho.
-
 > See [my finished work](https://mufidu.com/projects)
 
 ## Currently watching
@@ -45,6 +37,10 @@ These are things I'm doing at the moment. Part of [/now movement](https://nownow
 -   [Agent Carter](https://www.imdb.com/title/tt3475734/)
 
     I like her.
+
+-   [Rick and Morty](https://www.imdb.com/title/tt2861424/)
+
+    Wabba labba dub dub!
 
 <br>
 

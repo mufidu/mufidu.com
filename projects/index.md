@@ -8,6 +8,18 @@ Here are some of them:
 
     A website built for introducing Front-end Web Development.
 
+-   Lecture Web Player
+
+    [Live site](https://mufidu.github.io/kajian-ufa) | [GitHub](https://github.com/mufidu/kajian-ufa)
+
+    An audio web player for Ustadz Firanda's lecture.
+
+-   Cari di Qur'an
+
+    [Live site](https://mufidu.github.io/caridiquran) | [GitHub](https://github.com/mufidu/caridiquran)
+
+    Find verse in Qur'an based on the arabic text or Indonesia translation.
+
 -   Nexter
 
     [Live site](https://mufidu.github.io/nexter) | [GitHub](https://github.com/mufidu/nexter)
