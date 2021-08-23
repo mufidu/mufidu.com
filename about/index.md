@@ -1,12 +1,12 @@
-Currently learning code just as a hobby.
+---
+layout: layouts/base.njk
+title: About
+templateClass: tmpl-post
+eleventyNavigation:
+  key: About
+  order: 3
+---
 
-Check out my other links:
+I am a person that writes stuff.
 
--   [GitHub](https://github.com/mufidu)
--   [LinkedIn](https://linkedin.com/in/mufidu)
--   [Instagram](https://instagram.com/mufidu_)
--   [Email](mailto:me@mufidu.com)
-
-<br>
-
-[&larr; back](https://mufidu.com)
+This blog template is based on [eleventy-high-performance-blog](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/) which itself is based on [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog).
