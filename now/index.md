@@ -24,7 +24,7 @@ These are things I'm doing at the moment. Part of [/now movement](https://nownow
 
 -   [My personal website](https://mufidu.com)
 
-    This is the very website you are visiting now. I haven't started this one, either 😅. As you can see in [the repo](https://github.com/mufidu/mufidu.com), it's all just markdown. Generated to HTML by Jekyll, automatically after every `git push`.
+    This is the very website you are visiting now. I just started rebuilding this website, using 11ty and [this theme](https://github.com/google/eleventy-high-performance-blog). Hope it can be ready to be deployed by tomorrow (while being developed).
 
 > See [my finished work](https://mufidu.com/projects)
 
