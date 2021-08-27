@@ -1,0 +1,16 @@
+---
+permalink: /categories/
+layout: layouts/home-en.njk
+title: Categories and Tags
+translation: /id/categories/
+---
+<h2>Categories</h2>
+
+This blog has two categories, <a href="/categories/thoughts">Thoughts</a> and <a href="/categories/devs">Devs</a>.
+
+<h2>Tags</h2>
+
+{% for tag in collections.tagList %}
+  {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+  <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a> /
+{% endfor %}

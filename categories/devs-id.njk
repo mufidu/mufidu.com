@@ -1,0 +1,14 @@
+---
+permalink: /id/categories/devs/
+layout: layouts/home-id.njk
+title: Devs
+translation: /categories/devs/
+---
+Di kategori ini, gua nulis solusi dari masalah-masalah yang gua temuin pas lagi ngoding.
+<br>
+<br>
+
+{% set postslist = collections.categories["devs"] %}
+{% include "postslist-id.njk" %}
+
+<p>Lihat <a href="{{ '/id/categories/' | url }}">semua kategori dan tags</a>.</p>

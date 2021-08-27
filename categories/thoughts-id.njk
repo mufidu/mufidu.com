@@ -1,0 +1,14 @@
+---
+permalink: /id/categories/thoughts/
+layout: layouts/home-id.njk
+title: Thoughts
+translation: /categories/thoughts/
+---
+Di kategori ini, gua nuangin beberapa ide sama pikiran yang gua pikir sayang kalo ilang gitu aja.
+<br>
+<br>
+
+{% set postslist = collections.categories["thoughts"] %}
+{% include "postslist-id.njk" %}
+
+<p>Lihat <a href="{{ '/id/categories/' | url }}">semua kategori dan tags</a>.</p>

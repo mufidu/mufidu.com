@@ -1,18 +1,24 @@
 ---
-title: Title. Update me.
-layout: layouts/home.njk
-description: Description. Update me.
+title: brain dump
+layout: layouts/home-en.njk
+description: Mufid's personal website
 image: https://upload.wikimedia.org/wikipedia/en/a/a9/Example.jpg
 date: Last Modified
 ---
 
 <p>
-  This is a demo website based on 
-  <a href="https://www.industrialempathy.com/posts/eleventy-high-performance-blog/">eleventy-high-performance-blog</a>.
+  Hello! Welcome to my site. Here is the place I dump some of my thoughts. See more <a href="about">about me and this site</a>. Mau bahasa Indonesia? <a href="/id/">Ganti aja bahasanya</a>.
 </p>
 
-<div id="posts">
-  <h2>Posts</h2>
-  {% set postslist = collections.posts %}
-  {% include "postslist.njk" %}
-</div>
+<h2>Writings</h2>
+
+<h3>Thoughts</h3>
+{% set postslist = collections.categories["thoughts"].slice(0,5) %}
+{% include "postslist-en.njk" %}
+<a href="/categories/thoughts/">See more...</a>
+
+<h3>Devs</h3>
+{# LIMIT NANTI! #}
+{% set postslist = collections.categories["devs"] %}
+{% include "postslist-en.njk" %}
+<a href="/categories/devs/">See more...</a>

@@ -1,58 +1,80 @@
+---
+layout: layouts/base-en.njk
+title: Projects
+templateClass: tmpl-post
+eleventyNavigation:
+  key: Projects
+  order: 5
+translation: /id/projects
+---
+
 Welcome to my (so-called) project showcase!
 
 Here are some of them:
 
--   Front-end Intro
+- Front-end Intro
 
-    [Live site](https://mufidu.github.io/frontend-intro) | [GitHub](https://github.com/mufidu/frontend-intro)
+  [Live site](https://mufidu.github.io/frontend-intro) | [GitHub](https://github.com/mufidu/frontend-intro)
 
-    A website built for introducing Front-end Web Development.
+  A website built for introducing Front-end Web Development.
 
--   Lecture Web Player
+---
 
-    [Live site](https://mufidu.github.io/kajian-ufa) | [GitHub](https://github.com/mufidu/kajian-ufa)
+- Lecture Web Player
 
-    An audio web player for Ustadz Firanda's lecture.
+  [Live site](https://mufidu.github.io/kajian-ufa) | [GitHub](https://github.com/mufidu/kajian-ufa)
 
--   Cari di Qur'an
+  An audio web player for Ustadz Firanda's lecture.
 
-    [Live site](https://mufidu.github.io/caridiquran) | [GitHub](https://github.com/mufidu/caridiquran)
+---
 
-    Find verse in Qur'an based on the arabic text or Indonesia translation.
+- Cari di Qur'an
 
--   Nexter
+  [Live site](https://mufidu.github.io/caridiquran) | [GitHub](https://github.com/mufidu/caridiquran)
 
-    [Live site](https://mufidu.github.io/nexter) | [GitHub](https://github.com/mufidu/nexter)
+  Find verse in Qur'an based on the arabic text or Indonesia translation.
 
-    A CSS project implementing Tailwind, Sass, CSS Grid, Flexbox, and more.
+---
 
--   Natours
+- Nexter
 
-    [Live site](https://mufidu.github.io/natours) | [GitHub](https://github.com/mufidu/natours)
+  [Live site](https://mufidu.github.io/nexter) | [GitHub](https://github.com/mufidu/nexter)
 
-    A tour and travel website project, focusing on applying effect and maximizing CSS potentials, but currently not using CSS Grid and Flexbox.
-    Built without JavaScript at all.
+  A CSS project implementing Tailwind, Sass, CSS Grid, Flexbox, and more.
 
--   To Do List
+---
 
-    [Live site](https://mufidu.github.io/todolist/) | [GitHub](https://github.com/mufidu/todolist/)
+- Natours
 
-    Just a usual todolist web app, built using Tailwind, Sass, and some JavaScript so it can save the tasks in the browser's local storage.
+  [Live site](https://mufidu.github.io/natours) | [GitHub](https://github.com/mufidu/natours)
 
--   Tailwind and Sass Starter Template
+  A tour and travel website project, focusing on applying effect and maximizing CSS potentials, but currently not using CSS Grid and Flexbox.
+  Built without JavaScript at all.
 
-    [Live site](https://mufidu.github.io/tailwind-sass-starter/) | [GitHub](https://github.com/mufidu/tailwind-sass-starter)
+---
 
-    A plain starter template for using Tailwind with Sass (without Next, Gatsby, Laravel, etc). Built for my personal use, since I'll hate setting up this stuff again. Once is enough.
+- To Do List
 
--   MyQeena Landing Page
+  [Live site](https://mufidu.github.io/todolist/) | [GitHub](https://github.com/mufidu/todolist/)
 
-    [Live site](https://myqeena.my.id) | [GitHub](https://github.com/mufidu/myqeena.my.id)
+  Just a usual todolist web app, built using Tailwind, Sass, and some JavaScript so it can save the tasks in the browser's local storage.
 
-    A very simple Linktree-alike landing page I made for a local bag brand.
+---
 
--   ... and the [others](https://mufidu.github.io/others)
+- Tailwind and Sass Starter Template
 
-<br>
+  [Live site](https://mufidu.github.io/tailwind-sass-starter/) | [GitHub](https://github.com/mufidu/tailwind-sass-starter)
 
-[&larr; back](https://mufidu.com)
+  A plain starter template for using Tailwind with Sass (without Next, Gatsby, Laravel, etc). Built for my personal use, since I'll hate setting up this stuff again. Once is enough.
+
+---
+
+- MyQeena Landing Page
+
+  [Live site](https://myqeena.my.id) | [GitHub](https://github.com/mufidu/myqeena.my.id)
+
+  A very simple Linktree-alike landing page I made for a local bag brand.
+
+---
+
+- ... and the [others](https://mufidu.github.io/others)
