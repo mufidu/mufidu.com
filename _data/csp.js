@@ -43,6 +43,9 @@ const CSP = {
       "https://cdn.jsdelivr.net/",
       "https://www.instagram.com/",
       "https://platform.twitter.com/",
+      "https://beampipe.io",
+      "https://static.cloudflareinsights.com",
+      "https://ajax.cloudflare.com",
     ],
     // Inline CSS is allowed.
     ["style-src", quote("unsafe-inline"), "https://cdn.jsdelivr.net/"],
@@ -60,6 +63,7 @@ const CSP = {
       "https://www.instagram.com/",
       "https://platform.twitter.com/",
     ],
+    ["connect-src", "https://cloudflareinsights.com"],
   ]),
 };
 
