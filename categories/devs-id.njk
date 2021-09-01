@@ -4,11 +4,11 @@ layout: layouts/home-id.njk
 title: Devs
 translation: /categories/devs/
 ---
-Di kategori ini, gua nulis solusi dari masalah-masalah yang gua temuin pas lagi ngoding.
+Di kategori ini, saya nulis solusi dari masalah-masalah yang saya temuin, biasanya pas lagi ngoding.
 <br>
 <br>
 
-{% set postslist = collections.categories["devs"] %}
-{% include "postslist-id.njk" %}
+{% set postslist = collections.categories["devs"] | languageFilter("id") %}
+{% include "postslist.njk" %}
 
 <p>Lihat <a href="{{ '/id/categories/' | url }}">semua kategori dan tags</a>.</p>

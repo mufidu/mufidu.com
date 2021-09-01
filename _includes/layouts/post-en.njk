@@ -6,7 +6,7 @@ templateClass: tmpl-post
 
 
 {% block extraArticleHeader %}
-<p><a href="/categories/{{ category }}">{{ category[0].toUpperCase() + category.slice(1).toLowerCase() }}</a> - <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></p>
+<p><a href="/categories/{{ category }}">{{ category[0].toUpperCase() + category.slice(1).toLowerCase() }}</a> | <time class="post-date" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></p>
 {% endblock %}
 
 {% set shareUrl = metadata.url + page.url %}
@@ -14,12 +14,48 @@ templateClass: tmpl-post
 {% block article %}
 {{ content | safe }}
 
+<br>
 <hr>
 <p>
-  Thanks for reading to the end! <a href="{{ shareUrl | safe }}" on-click="share">Sharing</a> this article on your favorite social media network 
+  Thanks for reading to the end! <a href="{{ shareUrl | safe }}" on-click="share">Sharing</a> this article on your favorite social media 
   would be highly appreciated 💖! For feedback, please 
   <a href="https://twitter.com/{{ metadata.author.twitterHandle }}" target="_blank" rel="noopener">ping me on Twitter</a>.
 </p>
+<p>
+  Tags: 
+  {% for tag in tags %}
+    {% if tag != "posts" %}
+    <a href="/tags/{{ tag }}/">{{ tag }}</a> /
+    {% endif %}
+  {% endfor %}
+</p>
+
+{# {% set relatedPosts = site.posts | filter: { tags: tags } | limit: 3 %}
+{% if relatedPosts %}
+<h3>Related Posts</h3>
+<ul>
+  {% for post in relatedPosts %}
+  <li><a href="{{ post.url | safe }}">{{ post.title | safe }}</a></li>
+  {% endfor %}
+</ul>
+{% endif %} #}
+
+{% set previousPost = collections.posts | languageFilter("en") | getPreviousCollectionItem(page)%}
+{% set nextPost = collections.posts | languageFilter("en") | getNextCollectionItem(page) %}
+
+<br>
+<div class="post-navigation">
+{% if previousPost %}
+  <div><div>&larr; Previous</div> <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a></div>
+{% else %}
+  <div></div>
+{% endif %}
+{% if nextPost %}
+  <div><div>Next &rarr;</div> <a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a></div>
+{% else %}
+  <div></div>
+{% endif %}
+</div>
 
 <share-widget>
   <button on-click="share" aria-label="Share" href="{{ shareUrl | safe }}">

@@ -24,6 +24,20 @@ article * {
   scroll-margin-top: 50px;
 }
 
+*::selection {
+  background: var(--primary);
+  color: #181818;
+}
+h1 > mark {
+  color: #181818;
+}
+h1 > mark::selection {
+  background: #181818;
+  color: var(--primary);
+}
+p > mark {
+  font-weight: bold;
+}
 /* "Content-visibility: auto" move the images over the other elements
    Set z-index to keep the nav over the rasterized images */
 header nav {
@@ -33,6 +47,14 @@ header nav {
 /*! purgecss start ignore */
 :root {
   --main-width: calc(100vw - 3em);
+}
+
+html {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+  quotes: "“" "”" "‘" "’";
 }
 
 @media (min-width: 37.5em) {
@@ -648,37 +670,48 @@ ul {
 }
 @media (min-width: 600px) {
   h1 {
-    font-size: 4.3978rem;
-    line-height: 4.4rem;
+    /* font-size: 4.3978rem;
+    line-height: 4.4rem; */
+    font-size: 3.5rem;
   }
   h1,
   h2 {
-    margin-bottom: 1.496rem;
+    /* margin-bottom: 1.496rem; */
+    margin-bottom: 1.36rem;
   }
   h2 {
-    font-size: 3.1097rem;
-    line-height: 3.52rem;
+    /* font-size: 3.1097rem;
+    line-height: 3.52rem; */
+    font-size: 2.4rem;
   }
   h3 {
-    font-size: 2.1989rem;
+    /* font-size: 2.1989rem;
     line-height: 2.64rem;
-    margin-bottom: 1.496rem;
+    margin-bottom: 1.496rem; */
+    font-size: 1.728rem;
+    line-height: 1.6rem;
+    margin-bottom: 1.36rem;
   }
   h4 {
-    font-size: 1.5554rem;
+    /* font-size: 1.5554rem; */
+    font-size: 1.5rem;
   }
   h4,
   h5 {
-    line-height: 1.76rem;
-    margin-bottom: 1.496rem;
+    /* line-height: 1.76rem;
+    margin-bottom: 1.496rem; */
+    line-height: 1.6rem;
+    margin-bottom: 1.36rem;
   }
   h5,
   h6 {
     font-size: 1.1rem;
   }
   h6 {
-    line-height: 1.76rem;
-    margin-bottom: 1.496rem;
+    /* line-height: 1.76rem;
+    margin-bottom: 1.496rem; */
+    line-height: 1.6rem;
+    margin-bottom: 1.36rem;
   }
   body,
   ol,
@@ -701,17 +734,22 @@ ul {
     line-height: 6.72rem; */
     font-size: 4.3978rem;
     line-height: 4.4rem;
+    /* font-size: 3.1097rem;
+    line-height: 3.52rem; */
   }
   h1,
   h2 {
     /* margin-bottom: 1.632rem; */
     margin-bottom: 1.496rem;
+    /* margin-bottom: 1.36rem; */
   }
   h2 {
     /* font-size: 4.05rem;
     line-height: 4.8rem; */
     font-size: 3.1097rem;
     line-height: 3.52rem;
+    /* font-size: 2.4rem;
+    line-height: 2.64rem; */
   }
   h3 {
     /* font-size: 2.7rem;
@@ -720,10 +758,14 @@ ul {
     font-size: 1.728rem;
     line-height: 1.8rem;
     margin-bottom: 1.496rem;
+    /* font-size: 2.1rem;
+    line-height: 1.6rem;
+    margin-bottom: 1.36rem; */
   }
   h4 {
     /* font-size: 1.8rem; */
     font-size: 1.5554rem;
+    /* font-size: 1.8rem; */
   }
   h4,
   h5 {
@@ -731,17 +773,22 @@ ul {
     margin-bottom: 1.632rem; */
     line-height: 1.76rem;
     margin-bottom: 1.496rem;
+    /* line-height: 1.6rem;
+    margin-bottom: 1.36rem; */
   }
   h5,
   h6 {
     /* font-size: 1.2rem; */
     font-size: 1.1rem;
+    /* font-size: 1.4rem; */
   }
   h6 {
     /* line-height: 1.92rem;
     margin-bottom: 1.632rem; */
     line-height: 1.76rem;
     margin-bottom: 1.496rem;
+    /* line-height: 1.6rem;
+    margin-bottom: 1.36rem; */
   }
   body,
   ol,
@@ -1017,29 +1064,41 @@ section {
   margin-right: auto;
   width: 900px;
 }
-#menu-toggle {
-  display: none;
-}
+header input,
 header label {
-  display: block;
-}
-#menu-toggle:checked ~ a {
-  display: block;
-  padding: 0.75em 0;
-  margin: 0 1.5em;
-  text-align: center;
-  border-bottom: 1px solid #ccc;
-}
-#menu-toggle:checked ~ a:last-of-type {
-  padding-bottom: 0;
-  border: 0;
-}
-#menu-toggle:checked ~ label {
-  border-bottom: 1px solid #aaa;
-  padding-bottom: 0.75em;
-}
-#menu-toggle:not(:checked) ~ a {
   display: none;
+}
+@media (max-width: 767px) {
+  header input {
+    display: inline;
+  }
+  header label {
+    display: inline-block;
+  }
+  #menu-toggle {
+    display: none;
+  }
+  header label {
+    display: block;
+  }
+  #menu-toggle:checked ~ a {
+    display: block;
+    padding: 0.75em 0;
+    margin: 0 1.5em;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+  }
+  #menu-toggle:checked ~ a:last-of-type {
+    padding-bottom: 0;
+    border: 0;
+  }
+  #menu-toggle:checked ~ label {
+    border-bottom: 1px solid #aaa;
+    padding-bottom: 0.75em;
+  }
+  #menu-toggle:not(:checked) ~ a {
+    display: none;
+  }
 }
 body::-webkit-scrollbar {
   width: 0.7em;
@@ -1308,6 +1367,32 @@ a {
   color: var(--primary);
 }
 
+.direct-link {
+  font-size: 80%;
+  opacity: 0;
+  transition: all 0.2s ease-in-out;
+}
+
+h2:hover > .direct-link {
+  opacity: 1;
+}
+
+h3:hover > .direct-link {
+  opacity: 1;
+}
+
+h4:hover > .direct-link {
+  opacity: 1;
+}
+
+h5:hover > .direct-link {
+  opacity: 1;
+}
+
+h6:hover > .direct-link {
+  opacity: 1;
+}
+
 .posts-list {
   list-style-type: none;
   margin: 0;
@@ -1322,11 +1407,64 @@ a {
 .post-date {
   font-size: 80%;
   opacity: 0.8;
+}
+.post-date-list {
+  font-size: 80%;
+  opacity: 0.8;
   display: block;
   margin-left: auto;
 }
 
+/* .post-title-list {
+  min-width: 85%;
+  max-width: 85%;
+} */
+
 .cover-image-list {
-  width: 25%;
+  min-width: 25%;
+  max-width: 25%;
+  height: min-content;
   margin-right: 1.5em;
+}
+
+@media (max-width: 600px) {
+  .cover-image-list {
+    margin-right: 0.5em;
+  }
+}
+
+.post-navigation {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1.5em;
+  justify-content: space-between;
+}
+
+.post-navigation > div {
+  width: 50%;
+}
+
+.post-navigation > div:first-child {
+  border-right: 1px solid var(--primary);
+}
+
+.post-navigation > div:first-child {
+  text-align: left;
+}
+.post-navigation > div:last-child {
+  text-align: right;
+}
+
+.post-navigation > div > a {
+  max-width: 75%;
+}
+
+@media (max-width: 768px) {
+  .eleventy-plugin-embed-instagram {
+    width: 100%;
+  }
+}
+
+.eleventy-plugin-embed-spotify {
+  text-align: center;
 }

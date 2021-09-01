@@ -46,6 +46,7 @@
     {% if googleanalytics %}
       <script async defer src="{{ "/js/cached.js" | addHash }}"></script>
     {% endif %}
+    <script async defer src="https://beampipe.io/js/tracker.js" data-beampipe-domain="mufidu.com"></script>
     <!-- Notably iOS UAs also contain Mac OS X -->
     <script csp-hash>if (/Mac OS X/.test(navigator.userAgent))document.documentElement.classList.add('apple')
     </script>
@@ -55,7 +56,8 @@
     <header>
       <nav>
         <div id="nav">
-          <h1><a href="{{ '/' | url }}" title="Homepage">{{ metadata.title }}</a></h1>
+          {# <h1><a href="{{ '/' | url }}" title="Homepage">{{ metadata.title }}</a></h1> #}
+          <h1><a href="{{ '/' | url }}" title="Homepage">🧠 brain dump</a></h1>
           {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
           <input type="checkbox" id="menu-toggle">
           <label for="menu-toggle">&#9776;</label>
@@ -67,9 +69,9 @@
           <a href="{{ '/projects/' | url }}">Projects</a>
         </div>
       </nav>
-      <h1>{{ title }}</h1>
+      <h1><mark>{{ title }}</mark></h1>
       {% if translation %}
-      <p><a href="{{ translation | url }}">Ganti bahasa</a></p>
+      <p><a href="{{ translation | url }}">id</a> / en</p>
       {% endif %}
       {% block extraArticleHeader %}{% endblock %}
       <dialog id="message"></dialog>
@@ -91,7 +93,7 @@
     </main>
 
     <footer>
-      <a href="/about/">{{ metadata.author.name }}</a>
+      <a href="/about/">&copy; 2021 {{ metadata.author.name }}</a>
     </footer>
 
     <!-- Current page: {{ page.url | url }} -->

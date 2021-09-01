@@ -5,5 +5,5 @@ permalink: /id/writings/
 
 <h1>Arsip</h1>
 <br>
-{% set postslist = collections.posts %}
-{% include "postslist-id.njk" %}
+{% set postslist = collections.posts | languageFilter("id") %}
+{% include "postslist.njk" %}

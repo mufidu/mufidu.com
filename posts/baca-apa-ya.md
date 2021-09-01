@@ -11,15 +11,15 @@ lang: en
 translation: /baca-apa-ya/
 ---
 
-![](/img/2aa91-pexels-ma25c325abl-balland-3457273.jpg)
+![kid-reading](/img/2aa91-pexels-ma25c325abl-balland-3457273.jpg)
 
-We can be whatever we want if we read a lot. Elon Musk, founder of SpaceX who is now [the richest person in the world](https://www.bbc.com/news/technology-55578403#:~:text=Elon%20Musk%20has%20become%20the,had%20held%20it%20since%202017.)), when asked how he understood the world of rocketry, his answer was, "I read books".
+We can be whatever we want if we read a lot. Elon Musk, founder of SpaceX who is now [the richest person in the world](https://www.bbc.com/news/technology-55578403#:~:text=Elon%20Musk%20has%20become%20the,had%20held%20it%20since%202017.), when asked how he understood the world of rocketry, his answer was, "I read books".
 
 Almost all billionaires in the world are people who really love to read books. Warren Buffet claims he reads [500 pages per day](http://www.usatoday.com/story/money/personalfinance/2014/08/24/peculiar-habits-of-successful-people/14447531/), Bill Gates reads [50 books per year](http://www.businessinsider.com/why-bill-gates-reads-50-books-a-year-2015-11), and Mark Zuckerberg finishes [one book per two weeks](http://www.businessinsider.com/end-of-year-mark-zuckerberg-book-recommendations-2015-12/#the-idea-factory-bell-labs-and-the-).
 
 That's a lot. I guess it's time for us to start to love reading, too. Especially in this age, almost all books already have its digital version and we can read it anytime, anywhere, as long as we hold our cellphone. It's not just books, there are also lots of cool articles that we can find on the internet, it's just a matter of whether we want to read it or not.
 
-But, there one common excuse for all of us, which is **"I don't have time"**. It's true, beside that it's just us who don't want to spend the time, no matter what, our time in this world is indeed limited. We can't read all the books or articles in the world.
+But, there one common excuse for all of us, which is <mark>**"I don't have the time"**</mark>. It's true, beside that it's just us who don't want to spend the time, no matter what, our time in this world is indeed limited. We can't read all the books or articles in the world.
 
 So we have to make the best use of the time we have by reading what we really need, at the present, not later. Don't bait the cool article title and think "Who knows, I might need this later, let's read."
 
@@ -39,6 +39,6 @@ However, some people say that if we only read books that most people read, we wi
 
 It's not "we can't read everything", but **"we can't finish everything"**. It will be an advantage for us if we can know not just one, but from many points of view. And we also need to filter our reading so that our time is not wasted.
 
-Increase the input, strengthen the filter.
+<mark>Increase the input, strengthen the filter.</mark>
 
 This article was created with the initial idea from ​​[here](https://www.samuelthomasdavies.com/words-into-works/june-25-2020/) and [here](http://www.collaborativefund.com/blog/how-to-read-lots-of-inputs-and-a-strong-filter/).

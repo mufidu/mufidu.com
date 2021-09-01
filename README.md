@@ -1,5 +1,5 @@
-Repository for my personal website.
-Template by:
+Repository for my personal website.          
+Template by:           
 
 # eleventy-high-performance-blog
 

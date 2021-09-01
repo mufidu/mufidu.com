@@ -36,16 +36,30 @@ const CSP = {
     // No plugins
     ["object-src", quote("none")],
     // Script from same-origin and inline-hashes.
-    ["script-src", SELF, /* Replaced by csp.js plugin */ "HASHES"],
+    [
+      "script-src",
+      SELF,
+      /* Replaced by csp.js plugin */ "HASHES",
+      "https://cdn.jsdelivr.net/",
+      "https://www.instagram.com/",
+      "https://platform.twitter.com/",
+    ],
     // Inline CSS is allowed.
-    ["style-src", quote("unsafe-inline")],
+    ["style-src", quote("unsafe-inline"), "https://cdn.jsdelivr.net/"],
     // Images may also come from data-URIs.
-    ["img-src", SELF, "data:"],
+    ["img-src", SELF, "data:", "https://i.ytimg.com/"],
 
     // To add new rules, add new array literals here or extend those above with
     // additional allowed elements.
     // Example for allowing YouTube iframe embeds
     // ['frame-src', 'https://www.youtube.com/embed/']
+    [
+      "frame-src",
+      "https://www.youtube-nocookie.com/embed/",
+      "https://open.spotify.com/",
+      "https://www.instagram.com/",
+      "https://platform.twitter.com/",
+    ],
   ]),
 };
 

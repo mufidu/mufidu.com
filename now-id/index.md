@@ -9,7 +9,7 @@ translation: /now/
 permalink: /id/now/
 ---
 
-Ini beberapa hal yang lagi gua lakuin sekarang. Bagian dari [/now movement](https://nownownow.com).
+Ini beberapa hal yang lagi saya lakuin sekarang. Bagian dari [/now movement](https://nownownow.com).
 
 ## Yang lagi dibaca
 
@@ -17,13 +17,13 @@ Ini beberapa hal yang lagi gua lakuin sekarang. Bagian dari [/now movement](http
 
   Buku tentang cerita Richard Branson pas lagi ngebangun Virgin Companies. Seru sih isinya.
 
-> Lihat apa aja yang [udah gua baca](https://www.goodreads.com/review/list/123404048-muhammad-mufid?shelf=read)
+> Lihat apa aja yang [udah saya baca](https://www.goodreads.com/review/list/123404048-muhammad-mufid?shelf=read)
 
 ## Yang lagi dipelajarin
 
 - [The Web Developer Bootcamp - Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/)
 
-  Ini tempat gua mulai belajar ngebangun web. Isinya panjang banget, total 60 jam lebih. Sampe sekarang emang belum tamat haha.
+  Ini tempat saya mulai belajar ngebangun web. Isinya panjang banget, total 60 jam lebih. Sampe sekarang emang belum tamat haha.
 
 - [Germany - Duolingo](https://www.duolingo.com/course/de/en/Learn-German)
 
@@ -35,7 +35,7 @@ Ini beberapa hal yang lagi gua lakuin sekarang. Bagian dari [/now movement](http
 
 - [Personal website](https://mufidu.com)
 
-  Website ini menurut gua masih banyak banget yang bisa dikembangin lagi.
+  Website ini menurut saya masih banyak banget yang bisa dikembangin lagi.
 
 > Lihat [kerjaan](https://mufidu.com/projects) yang udah selesai
 

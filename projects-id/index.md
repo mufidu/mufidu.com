@@ -9,9 +9,9 @@ translation: /projects/
 permalink: /id/projects/
 ---
 
-Ini adalah beberapa hal yang pernah gua buat. Bisa dibilang portofolio kali ya.
+Ini adalah beberapa hal yang pernah saya buat. Bisa dibilang portofolio kali ya.
 
-- Front-end Intro
+- <mark>Front-end Intro</mark>
 
   [Live site](https://mufidu.github.io/frontend-intro) | [GitHub](https://github.com/mufidu/frontend-intro)
 
@@ -19,7 +19,7 @@ Ini adalah beberapa hal yang pernah gua buat. Bisa dibilang portofolio kali ya.
 
 ---
 
-- Lecture Web Player
+- <mark>Lecture Web Player</mark>
 
   [Live site](https://mufidu.github.io/kajian-ufa) | [GitHub](https://github.com/mufidu/kajian-ufa)
 
@@ -27,7 +27,7 @@ Ini adalah beberapa hal yang pernah gua buat. Bisa dibilang portofolio kali ya.
 
 ---
 
-- Cari di Qur'an
+- <mark>Cari di Qur'an</mark>
 
   [Live site](https://mufidu.github.io/caridiquran) | [GitHub](https://github.com/mufidu/caridiquran)
 
@@ -35,7 +35,7 @@ Ini adalah beberapa hal yang pernah gua buat. Bisa dibilang portofolio kali ya.
 
 ---
 
-- Nexter
+- <mark>Nexter</mark>
 
   [Live site](https://mufidu.github.io/nexter) | [GitHub](https://github.com/mufidu/nexter)
 
@@ -43,7 +43,7 @@ Ini adalah beberapa hal yang pernah gua buat. Bisa dibilang portofolio kali ya.
 
 ---
 
-- Natours
+- <mark>Natours</mark>
 
   [Live site](https://mufidu.github.io/natours) | [GitHub](https://github.com/mufidu/natours)
 
@@ -52,7 +52,7 @@ Ini adalah beberapa hal yang pernah gua buat. Bisa dibilang portofolio kali ya.
 
 ---
 
-- To Do List
+- <mark>To Do List</mark>
 
   [Live site](https://mufidu.github.io/todolist/) | [GitHub](https://github.com/mufidu/todolist/)
 
@@ -60,15 +60,15 @@ Ini adalah beberapa hal yang pernah gua buat. Bisa dibilang portofolio kali ya.
 
 ---
 
-- Tailwind and Sass Starter Template
+- <mark>Tailwind and Sass Starter Template</mark>
 
   [Live site](https://mufidu.github.io/tailwind-sass-starter/) | [GitHub](https://github.com/mufidu/tailwind-sass-starter)
 
-  Sebuah starter template untuk menggunakan Tailwind dengan Sass (tanpa Next, Gatsby, Laravel, dll). Asalnya dibuat untuk keperluan sendiri, karena menurut gua bakal ribet kalo tiap proyek baru harus set up lagi dari awal.
+  Sebuah starter template untuk menggunakan Tailwind dengan Sass (tanpa Next, Gatsby, Laravel, dll). Asalnya dibuat untuk keperluan sendiri, karena menurut saya bakal ribet kalo tiap proyek baru harus set up lagi dari awal.
 
 ---
 
-- MyQeena Landing Page
+- <mark>MyQeena Landing Page</mark>
 
   [Live site](https://myqeena.my.id) | [GitHub](https://github.com/mufidu/myqeena.my.id)
 

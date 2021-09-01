@@ -12,7 +12,7 @@ Welcome to my (so-called) project showcase!
 
 Here are some of them:
 
-- Front-end Intro
+- <mark>Front-end Intro</mark>
 
   [Live site](https://mufidu.github.io/frontend-intro) | [GitHub](https://github.com/mufidu/frontend-intro)
 
@@ -20,7 +20,7 @@ Here are some of them:
 
 ---
 
-- Lecture Web Player
+- <mark>Lecture Web Player</mark>
 
   [Live site](https://mufidu.github.io/kajian-ufa) | [GitHub](https://github.com/mufidu/kajian-ufa)
 
@@ -28,7 +28,7 @@ Here are some of them:
 
 ---
 
-- Cari di Qur'an
+- <mark>Cari di Qur'an</mark>
 
   [Live site](https://mufidu.github.io/caridiquran) | [GitHub](https://github.com/mufidu/caridiquran)
 
@@ -36,7 +36,7 @@ Here are some of them:
 
 ---
 
-- Nexter
+- <mark>Nexter</mark>
 
   [Live site](https://mufidu.github.io/nexter) | [GitHub](https://github.com/mufidu/nexter)
 
@@ -44,7 +44,7 @@ Here are some of them:
 
 ---
 
-- Natours
+- <mark>Natours</mark>
 
   [Live site](https://mufidu.github.io/natours) | [GitHub](https://github.com/mufidu/natours)
 
@@ -53,7 +53,7 @@ Here are some of them:
 
 ---
 
-- To Do List
+- <mark>To Do List</mark>
 
   [Live site](https://mufidu.github.io/todolist/) | [GitHub](https://github.com/mufidu/todolist/)
 
@@ -61,7 +61,7 @@ Here are some of them:
 
 ---
 
-- Tailwind and Sass Starter Template
+- <mark>Tailwind and Sass Starter Template</mark>
 
   [Live site](https://mufidu.github.io/tailwind-sass-starter/) | [GitHub](https://github.com/mufidu/tailwind-sass-starter)
 
@@ -69,7 +69,7 @@ Here are some of them:
 
 ---
 
-- MyQeena Landing Page
+- <mark>MyQeena Landing Page</mark>
 
   [Live site](https://myqeena.my.id) | [GitHub](https://github.com/mufidu/myqeena.my.id)
 

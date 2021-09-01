@@ -4,11 +4,11 @@ layout: layouts/home-id.njk
 title: Thoughts
 translation: /categories/thoughts/
 ---
-Di kategori ini, gua nuangin beberapa ide sama pikiran yang gua pikir sayang kalo ilang gitu aja.
+Di kategori ini, saya nuangin beberapa ide sama pikiran yang saya pikir sayang kalo ilang gitu aja.
 <br>
 <br>
 
-{% set postslist = collections.categories["thoughts"] %}
-{% include "postslist-id.njk" %}
+{% set postslist = collections.categories["thoughts"] | languageFilter("id") %}
+{% include "postslist.njk" %}
 
 <p>Lihat <a href="{{ '/id/categories/' | url }}">semua kategori dan tags</a>.</p>

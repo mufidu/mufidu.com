@@ -55,8 +55,8 @@
     <header>
       <nav>
         <div id="nav">
-          <h1><a href="{{ '/id/' | url }}" title="Homepage">{{ metadata.title }}</a></h1>
-          {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
+          {# <h1><a href="{{ '/' | url }}" title="Homepage">{{ metadata.title }}</a></h1> #}
+          <h1><a href="{{ '/id/' | url }}" title="Homepage">🧠 brain dump</a></h1>          {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
           <input type="checkbox" id="menu-toggle">
           <label for="menu-toggle">&#9776;</label>
           {# {%- for entry in collections.all | eleventyNavigation %}
@@ -67,9 +67,9 @@
           <a href="{{ '/id/projects/' | url }}">Projects</a>
         </div>
       </nav>
-      <h1>{{ title }}</h1>
+      <h1><mark>{{ title }}</mark></h1>
       {% if translation %}
-      <p><a href="{{ translation | url }}">Change language</a></p>
+      <p>id / <a href="{{ translation | url }}">en</a></p>
       {% endif %}
       {% block extraArticleHeader %}{% endblock %}
       <dialog id="message"></dialog>
@@ -91,7 +91,7 @@
     </main>
 
     <footer>
-      <a href="/about/">{{ metadata.author.name }}</a>
+      <a href="/id/about/">&copy; 2021 {{ metadata.author.name }}</a>
     </footer>
 
     <!-- Current page: {{ page.url | url }} -->

@@ -3,7 +3,7 @@ title: "Akal Addict"
 date: "2020-07-09"
 category: "thoughts"
 tags:
-  - "mind"
+  - "thinking"
 coverImage: /img/sebastian-herrmann-mkQsoiskWSg-unsplash.jpg
 layout: layouts/post-id.njk
 permalink: /akal-addict/
@@ -11,13 +11,13 @@ lang: id
 translation: /mind-stucked/
 ---
 
-![](/img/sebastian-herrmann-mkQsoiskWSg-unsplash.jpg)
+![debat](/img/sebastian-herrmann-mkQsoiskWSg-unsplash.jpg)
 
 Salah satu yang paling bikin males main _socmed_ adalah banyak ributnya. Apa aja diributin. Semua hal ada aja yang bahas. Tiap ada yang bahas ada aja yang bantah. Bahas, bantah, repeat. Kenapa pada ribut gini?
 
 Penyebab paling gede munculnya keributan adalah beda pendapat, yang disebabin beda sudut pandang. Kenapa orang-orang banyak yang mati-matian bela pendapat dan sudut pandangnya, gamau nerima kalo pendapatnya ditolak apalagi disalahin?
 
-Menurut gua karena mereka punya adiksi sama akal. Mereka nganggep akal adalah segalanya, bahwa segala sesuatunya harus masuk akal, tapi cuman akal mereka doang. Tapi akal tiap orang kan beda-beda, karena tiap orang ngelewatin pengalaman dan ngambil pelajaran yang beda-beda juga.
+Menurut saya karena mereka punya adiksi sama akal. Mereka nganggep akal adalah segalanya, bahwa segala sesuatunya harus masuk akal, tapi cuman akal mereka doang. Tapi sayangnya akal tiap orang kan beda-beda, karena tiap orang ngelewatin pengalaman dan ngambil pelajaran yang beda-beda juga.
 
 Ketika ada dua pendapat yang ribut, ga jarang kalo ternyata dua pendapat ini gada yang salah, sama-sama bisa bener, masuk akal juga dua-duanya. Kalo udah gini berarti udah gabisa sekedar pake akal lagi, harus diliat dari sudut pandang lain, ada **empati** dan **keagamaan**.
 

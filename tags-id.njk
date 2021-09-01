@@ -12,9 +12,9 @@ pagination:
   addAllPagesToCollections: true
 layout: layouts/home-id.njk
 eleventyComputed:
+  translation: "/tags/{{ tag | slug }}/"
   title: Tagged “{{ tag }}”
-permalink: /id/tags/{{ tag | slug }}/
-translation: /tags/{{ tag | slug }}/
+permalink: "/id/tags/{{ tag | slug }}/"
 ---
 
 {% set postslist = collections[ tag ] %}

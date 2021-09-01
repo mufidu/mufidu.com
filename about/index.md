@@ -18,11 +18,11 @@ There are two reasons I build this site:
 
 Some good notes will be edited and published here.
 
+This site is built with performance as a priority, so it's pretty simple. All the cool stuff is in [my other projects](/projects/).
+
 ## About me
 
-I am currently an Informatics student. I just code as a hobby, at least for now. See [what I've build](/projects).
-
-I've also been busy learning and trying some stuff, see [what I'm doing now](/now).
+I am currently an Informatics student. I just code as a hobby, at least for now. Have also been busy learning and trying some things, see [what I'm doing now](/now).
 
 Check out my online presences:
 

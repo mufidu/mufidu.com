@@ -8,7 +8,7 @@ In this category, I document my two cents on various topics.
 <br>
 <br>
 
-{% set postslist = collections.categories["thoughts"] %}
-{% include "postslist-en.njk" %}
+{% set postslist = collections.categories["thoughts"] | languageFilter("en") %}
+{% include "postslist.njk" %}
 
 <p>See <a href="{{ '/categories/' | url }}">all categories and tags</a>.</p>

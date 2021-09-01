@@ -4,21 +4,22 @@ layout: layouts/home-id.njk
 description: Websitenya Mufid
 image: https://upload.wikimedia.org/wikipedia/en/a/a9/Example.jpg
 date: Last Modified
+translation: /
 ---
 
 <p>
-  Halo! Selamat datang di web personal saya. Ini adalah tempat saya berbagi beberapa tulisan. Lihat lebih lanjut <a href="/id/about">tentang saya dan web ini</a>. Not your language? <a href="/">Just change it</a>.
+  Halo! Selamat datang di web personal saya. Ini adalah tempat saya berbagi beberapa tulisan. Sebelumnya coba lihat <a href="/id/about">tentang saya dan web ini</a>. 
 </p>
 
 <h2>Tulisan</h2>
 
 <h3>Thoughts</h3>
-{% set postslist = collections.categories["thoughts"].slice(0,5) %}
-{% include "postslist-id.njk" %}
-<a href="/categories/thoughts/">Lihat lainnya...</a>
+{% set postslist = collections.categories["thoughts"].slice(-8) | languageFilter("id") %}
+{% include "postslist.njk" %}
+<a href="/id/categories/thoughts/">Lihat lainnya...</a>
 
 <h3>Devs</h3>
 {# LIMIT NANTI! #}
-{% set postslist = collections.categories["devs"] %}
-{% include "postslist-id.njk" %}
-<a href="/categories/devs/">Lihat lainnya...</a>
+{% set postslist = collections.categories["devs"] | languageFilter("id") %}
+{% include "postslist.njk" %}
+<a href="/id/categories/devs/">Lihat lainnya...</a>

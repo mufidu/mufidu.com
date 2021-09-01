@@ -5,7 +5,7 @@
   "description": "A starter repository for a blog web site using the Eleventy static site generator.",
   "scripts": {
     "build": "npm run js-build && eleventy",
-    "watch": "concurrently \"eleventy --serve\" \"npm run js-build-watch\"",
+    "start": "concurrently \"eleventy --serve\" \"npm run js-build-watch\"",
     "serve": "eleventy --serve",
     "js-build": "rollup -c rollup.config.js",
     "js-build-watch": "rollup -c rollup.config.js -w",
@@ -51,6 +51,8 @@
     "csp-hash-generator": "0.0.3",
     "csso": "^4.0.3",
     "datauri": "^3.0.0",
+    "eleventy-plugin-embed-everything": "^1.13.3",
+    "eleventy-plugin-youtube-embed": "^1.6.4",
     "expect.js": "^0.3.1",
     "ffmpeg-static": "^4.2.7",
     "hasha": "^5.2.0",
