@@ -63,7 +63,7 @@ const CSP = {
       "https://www.instagram.com/",
       "https://platform.twitter.com/",
     ],
-    ["connect-src", "https://cloudflareinsights.com"],
+    ["connect-src", "https://cloudflareinsights.com", "https://beampipe.io/"],
   ]),
 };
 
