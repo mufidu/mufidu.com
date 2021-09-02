@@ -631,7 +631,6 @@ h1 {
 }
 h1,
 h2 {
-  line-height: 2.4rem;
   margin-bottom: 1.36rem;
 }
 h2 {
@@ -673,6 +672,7 @@ ul {
     /* font-size: 4.3978rem;
     line-height: 4.4rem; */
     font-size: 3.5rem;
+    line-height: 3.5rem;
   }
   h1,
   h2 {
@@ -689,7 +689,7 @@ ul {
     line-height: 2.64rem;
     margin-bottom: 1.496rem; */
     font-size: 1.728rem;
-    line-height: 1.6rem;
+    line-height: 1.125;
     margin-bottom: 1.36rem;
   }
   h4 {
@@ -756,7 +756,7 @@ ul {
     line-height: 2.88rem;
     margin-bottom: 1.632rem; */
     font-size: 1.728rem;
-    line-height: 1.8rem;
+    line-height: 1.125rem;
     margin-bottom: 1.496rem;
     /* font-size: 2.1rem;
     line-height: 1.6rem;
@@ -1399,6 +1399,12 @@ h6:hover > .direct-link {
   padding: 0;
 }
 
+/* @media (max-width: 700px) {
+  .posts-list {
+    width: 95%;
+  }
+} */
+
 .posts-list > li {
   display: flex;
   align-items: center;
@@ -1413,6 +1419,7 @@ h6:hover > .direct-link {
   opacity: 0.8;
   display: block;
   margin-left: auto;
+  text-align: right;
 }
 
 /* .post-title-list {

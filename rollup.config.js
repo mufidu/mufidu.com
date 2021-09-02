@@ -12,15 +12,15 @@ export default [
       },
     ],
   },
-  // {
-  //   input: "src/youtube.js",
-  //   output: [
-  //     {
-  //       file: "js/youtube-min.js",
-  //       format: "iife",
-  //       sourcemap: true,
-  //       plugins: [terser()],
-  //     },
-  //   ],
-  // },
+  {
+    input: "src/bp.js",
+    output: [
+      {
+        file: "js/bp-min.js",
+        format: "iife",
+        sourcemap: true,
+        plugins: [terser()],
+      },
+    ],
+  },
 ];

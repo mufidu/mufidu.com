@@ -4,7 +4,7 @@
   "domain": "mufidu.com",
   "description": "Mufid's personal website",
   "genre": "Personal website",
-  "googleAnalyticsId": "GA ID. Update me. Note, that this is not compatible with the not-yet-commonly used version 4 of Google Analytics",
+  "googleAnalyticsId": "Still using GA?",
   "sendWebVitals": false,
   "feed": {
     "subtitle": "brain dump's feed",

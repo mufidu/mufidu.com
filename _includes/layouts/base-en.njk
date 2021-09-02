@@ -47,7 +47,7 @@
       <script async defer src="{{ "/js/cached.js" | addHash }}"></script>
     {% endif %}
     <!-- Beampipe Analytics -->
-    <script async defer src="https://beampipe.io/js/tracker.js" data-beampipe-domain="mufidu.com"></script>
+    <script async defer src="{{ "/js/bp-min.js" | addHash }}"></script>
     <!-- Notably iOS UAs also contain Mac OS X -->
     <script csp-hash>if (/Mac OS X/.test(navigator.userAgent))document.documentElement.classList.add('apple')
     </script>

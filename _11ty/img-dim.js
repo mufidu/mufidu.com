@@ -119,7 +119,7 @@ async function setSrcset(img, src, format) {
     "sizes",
     img.getAttribute("align")
       ? "(max-width: 608px) 50vw, 187px"
-      : "(max-width: 608px) 100vw, 608px"
+      : "(max-width: 600px) 640, (max-width: 800px) 1280, (max-width: 1200px) 1920"
   );
   return setInfo.fallback;
 }

@@ -37,7 +37,7 @@ However, Notion is still very good if you want many features and collaboration.
 
 ## To-do-list
 
-The to-do-list application is important so that we don't have to think too much about something that must be done but the deadline is still next week. S
+The to-do-list application is important so that we don't have to think too much about something that must be done but the deadline is still next week.
 
 If there is a task like that, we can put it on the to-do-list instead.
 
