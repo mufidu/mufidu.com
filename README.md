@@ -1,70 +1,24 @@
-Repository for my personal website.          
-Template by:           
+# mufidu.com
 
-# eleventy-high-performance-blog
+This is repository for my personal website.  
+Built with [11ty](https://11ty.dev/), based on [this template](https://github.com/google/eleventy-high-performance-blog/), and deployed to [Cloudflare Pages](https://pages.dev).
 
-A starter repository for building a blog with the [Eleventy static site generator](https://www.11ty.dev/) implementing a wide range of performance best practices.
+Another tech stack:
 
-![Screenshot showing that the site achieves 100 points on Lighthouse by default](https://cdn.glitch.com/db98564e-04da-47bf-a3d6-70803c3d0fe7%2FScreen%20Shot%202020-09-04%20at%2012.07.27.png?v=1599214260591)
-
-Based on the awesome [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog).
-
-## Demo
-
-- [Netlify Demo](https://eleventy-high-performance-blog-sample.industrialempathy.com/)
-- [Original site this template was based on](https://www.industrialempathy.com/)
-
-## Getting Started
-
-### 1. Generate a new repository from this repository template
-
-Click the ["Use this template"](https://github.com/google/eleventy-high-performance-blog/generate) button. Alternatively you can clone this repo yourself and push your copy to your favorite git repository.
-
-### 2. Clone your new repository
-
-```
-git clone https://github.com/YOUR_REPO
-```
-
-### 3. Navigate to the directory
-
-```
-cd my-blog-name
-```
-
-### 4. Install dependencies
-
-```
-npm install
-```
-
-### 5. Build, serve, watch and test
-
-```
-npm run watch
-```
-
-### 6. Build and test
-
-```
-npm run build
-```
-
-## Customize
-
-- Search for "Update me" across files in your editor to find all the site specific things you should update.
-- Update the favicons in 'img/favicon/'.
-- Otherwise: Knock yourself out. This is a template repository.
-- For a simple color override, adjust these CSS variables at the top of `css/main.css`.
-
-```css
-:root {
-  --primary: #e7bf60;
-  --primary-dark: #f9c412;
-}
-```
+- Templating Engine: [Nunjucks](https://mozilla.github.io/nunjucks/)
+- CSS Framework: [Bahunya](https://kimeiga.github.io/bahunya/)
 
 ## Features
+
+This is a list of features that this site has. Mostly already come from the template. I added and deleted some features based on my needs. Will grow as I add new features.
+
+### Blog
+
+- Multilingual, all pages have [Indonesian](https://mufidu.com/id/) and [English](https://mufidu.com/) version.
+- Post navigation with [next and previous post](https://11ty.dev/docs/eleventy/navigation/).
+- Optimized YouTube Embed (low effect on performance and with privacy in mind) using [this plugin](https://github.com/gfscott/eleventy-plugin-youtube-embed).
+- Responsive by design.
+- Hamburger menu for mobile.
 
 ### Performance outcomes
 
@@ -102,7 +56,7 @@ npm run build
 - Sets immutable caching headers for images, fonts, and JS (CSS is inlined). Currently implements for Netlify `_headers` file.
 - Minifies HTML and optimizes it for compression. Uses [html-minifier](https://www.npmjs.com/package/html-minifier) with aggressive options.
 - Uses [rollup](https://rollupjs.org/) to bundle JS and minifies it with [terser](https://terser.org/).
-- Prefetches same-origin navigations when a navigation is likely.
+- Prefetches same-origin navigations when a navigation is likely (when hovered).
 - If an AMP files is present, [optimizes it](https://amp.dev/documentation/guides-and-tutorials/optimize-and-measure/optimize_amp/).
 
 #### Fonts
@@ -116,11 +70,10 @@ npm run build
 - Supports sending [Core Web Vitals](https://web.dev/vitals/) metrics to Google Analytics as [events](https://github.com/GoogleChrome/web-vitals#send-the-results-to-google-analytics).
 - Support for noscript hit requests.
 - Avoids blocking onload on analytics requests.
-- To turn this on, specify `googleAnalyticsId` in `metadata.json`. (Note, that this is not compatible with the not-yet-commonly used version 4 of Google Analytics.)
+- Support Beampipe (privacy-focused Google Analytics), and serve it locally to avoid block by adblockers.
 
 ### DX features
 
-- Uses 🚨 as favicon during local development.
 - Supports a range of default tests.
 - Runs build and tests on `git push`.
 - Sourcemap generated for JS.
@@ -133,12 +86,6 @@ npm run build
 - Support for schema.org JSON-LD.
 - Sitemap.xml generation.
 
-### Largely useless glitter
-
-- Read time estimate.
-- Animated scroll progress bar…
-- …with an optimized implementation that should never cause a layout.
-
 ### Security
 
 Generates a strong CSP for the base template.
@@ -146,14 +93,10 @@ Generates a strong CSP for the base template.
 - Default-src is self.
 - Disallows plugins.
 - Generates hash based CSP for the JS used on the site.
-- To extend the CSP with new rules, see [CSP.js](https://github.com/google/eleventy-high-performance-blog/blob/main/_data/csp.js#L22)
+- Extended CSP for Twitter, YouTube, and Instagram embedding. Also for Beampipe and Cloudflare analytics.
 
 ### Build performance
 
 - Downloaded remote images, and generated sizes are cached in the local filesystem…
 - …and SHOULD be committed to git.
 - `.persistimages.sh` helps with this.
-
-## Disclaimer
-
-This is not an officially supported Google product, but rather [Malte's](https://twitter.com/cramforce) private best-effort open-source project.

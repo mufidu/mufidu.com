@@ -46,6 +46,8 @@ const CSP = {
       "https://beampipe.io",
       "https://static.cloudflareinsights.com",
       "https://ajax.cloudflare.com",
+      "https://unpkg.com",
+      "https://utteranc.es/",
     ],
     // Inline CSS is allowed.
     ["style-src", quote("unsafe-inline"), "https://cdn.jsdelivr.net/"],
@@ -62,8 +64,16 @@ const CSP = {
       "https://open.spotify.com/",
       "https://www.instagram.com/",
       "https://platform.twitter.com/",
+      "https://utteranc.es/",
+      // "http://localhost:8080/",
     ],
-    ["connect-src", "https://cloudflareinsights.com", "https://beampipe.io/"],
+    [
+      "connect-src",
+      "https://cloudflareinsights.com",
+      "https://beampipe.io/",
+      "http://localhost:8080",
+      "ws://localhost:8080",
+    ],
   ]),
 };
 

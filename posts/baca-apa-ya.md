@@ -4,6 +4,7 @@ date: "2021-01-27"
 category: "thoughts"
 tags:
   - "reading"
+  - "productivity"
 coverImage: "/img/2aa91-pexels-ma25c325abl-balland-3457273.jpg"
 layout: layouts/post-en.njk
 permalink: /what-to-read/

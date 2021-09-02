@@ -9,9 +9,12 @@ layout: layouts/post-en.njk
 permalink: /wordpress-optimization/
 lang: en
 translation: /optimasi-wordpress/
+featured: true
 ---
 
 ![wordpress](/img/stephen-phillips-hostreviews-co-uk-sSPzmL7fpWc-unsplash.jpg)
+
+> This post is written when I was still using Wordpress. I'm no longer using it, but I think the experience is still worth sharing and still relevant.
 
 It's been about a year since I've hosted my blog on Blogger. All I need to do is just write and publish. I don't need to worry about the configuration because it's all done for me. There is not much we can customize in Blogger either.
 

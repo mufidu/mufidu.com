@@ -1,5 +1,5 @@
 ---
-title: "Bored Is Good"
+title: "The Good Part of Being Bored"
 date: "2021-06-21"
 category: "thoughts"
 tags:
@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=Hu4Yvq-g7_Y&t=261s
 
 It explains that,
 
-> <mark>**Our brain will come up with cool ideas and plans when we relax and aren't thinking about anything**</mark>
+> Our brain will come up with cool ideas and plans when we relax and aren't thinking about anything.
 
 "Not thinking about anything" is a condition that we usually know as "bored". Yeah, it sounds quiet negative. It doesn't feel very productive, because we think there must be something we can do instead of being idle and just lying on the sofa.
 

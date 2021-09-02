@@ -11,6 +11,7 @@ layout: layouts/post-en.njk
 permalink: /human-vs-ai/
 lang: en
 translation: /manusia-vs-ai/
+featured: true
 ---
 
 ![robot](/img/pexels-alex-knight-2599244.jpg)

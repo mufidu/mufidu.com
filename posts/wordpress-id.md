@@ -9,9 +9,12 @@ layout: layouts/post-id.njk
 permalink: /optimasi-wordpress/
 lang: id
 translation: /wordpress-optimization/
+featured: true
 ---
 
 ![wordpress](https://images.unsplash.com/photo-1560472354-0088b5dc9d8d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1916&q=80)
+
+> Tulisan ini ditulis pas saya masih pakai Wordpress. Sekarang saya udah gapakai lagi, tapi tulisan ini masih tetap relevan buat yang masih atau baru pakai Wordpress.
 
 Udah sekitar setaun lah saya host blog saya di Blogger, saya cuman tinggal nulis upload nulis upload, gausah setting apa-apa karena emang gabisa juga.
 

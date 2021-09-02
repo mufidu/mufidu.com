@@ -1,0 +1,19 @@
+---
+title: "Semua Tulisan"
+layout: layouts/home-id.njk
+permalink: /id/posts/
+translation: /posts/
+---
+
+<h2>Thoughts</h2>
+{% set postslist = collections.categories["thoughts"].slice(-8) | languageFilter("id") %}
+{% include "postslist.njk" %}
+<a href="/id/categories/thoughts/">Lihat lainnya...</a>
+
+<h2>Devs</h2>
+{# LIMIT NANTI! #}
+{% set postslist = collections.categories["devs"] | languageFilter("id") %}
+{% include "postslist.njk" %}
+<a href="/id/categories/devs/">Lihat lainnya...</a>
+
+

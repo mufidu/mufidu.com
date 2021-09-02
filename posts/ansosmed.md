@@ -11,6 +11,7 @@ layout: layouts/post-en.njk
 permalink: /antisocial/
 lang: en
 translation: /ansosmed/
+featured: true
 ---
 
 ![antisocial](/img/pexels-pietro-jeng-360622.jpg)

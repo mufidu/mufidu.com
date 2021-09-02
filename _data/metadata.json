@@ -4,7 +4,7 @@
   "domain": "mufidu.com",
   "description": "Mufid's personal website",
   "genre": "Personal website",
-  "googleAnalyticsId": "Still using GA?",
+  "googleAnalyticsId": false,
   "sendWebVitals": false,
   "feed": {
     "subtitle": "brain dump's feed",

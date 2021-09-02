@@ -1,7 +1,14 @@
 /* Color customization */
 :root {
+  /* yellow */
   --primary: #f9c412;
   --primary-dark: #e7bf60;
+  /* green */
+  /* --primary: #b3ff38; */
+  /* --primary-dark: #92e60b; */
+  /* blueish green */
+  /* --primary: #5eff71;
+  --primary-dark: #ff6b3d; */
 }
 
 .test-dead-code-elimination-sentinel {
@@ -683,6 +690,10 @@ ul {
     /* font-size: 3.1097rem;
     line-height: 3.52rem; */
     font-size: 2.4rem;
+  }
+  .smallh2 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
   }
   h3 {
     /* font-size: 2.1989rem;
@@ -1464,6 +1475,19 @@ h6:hover > .direct-link {
 
 .post-navigation > div > a {
   max-width: 75%;
+}
+
+.tags {
+  color: black;
+  font-size: 80%;
+  padding: 0.3rem;
+  border-radius: 0.3rem;
+  background: var(--primary);
+  margin-right: 0.5rem;
+}
+
+.tags:hover {
+  opacity: 0.85;
 }
 
 @media (max-width: 768px) {

@@ -114,7 +114,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(require("./_11ty/apply-csp.js"));
 
   eleventyConfig.setDataDeepMerge(true);
-  eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
+  eleventyConfig.addLayoutAlias("post-id", "layouts/post-id.njk");
+  eleventyConfig.addLayoutAlias("post-en", "layouts/post-en.njk");
   eleventyConfig.addNunjucksAsyncFilter(
     "addHash",
     function (absolutePath, callback) {
@@ -169,6 +170,11 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addFilter("languageFilter", function (collection, languageID) {
     const filtered = collection.filter((item) => item.data.lang == languageID);
+    return filtered;
+  });
+
+  eleventyConfig.addFilter("featuredFilter", function (collection) {
+    const filtered = collection.filter((item) => item.data.featured == true);
     return filtered;
   });
 

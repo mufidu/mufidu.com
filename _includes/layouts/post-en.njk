@@ -22,10 +22,9 @@ templateClass: tmpl-post
   <a href="https://twitter.com/{{ metadata.author.twitterHandle }}" target="_blank" rel="noopener">ping me on Twitter</a>.
 </p>
 <p>
-  Tags: 
   {% for tag in tags %}
     {% if tag != "posts" %}
-    <a href="/tags/{{ tag }}/">{{ tag }}</a> /
+    <a class="tags" href="/tags/{{ tag }}/">{{ tag }}</a>
     {% endif %}
   {% endfor %}
 </p>
@@ -56,6 +55,16 @@ templateClass: tmpl-post
   <div></div>
 {% endif %}
 </div>
+
+<br>
+<script src="https://utteranc.es/client.js"
+        repo="mufidu/utteranc.es"
+        issue-term="pathname"
+        theme="github-dark-orange"
+        crossorigin="anonymous"
+        defer
+        async>
+</script>
 
 <share-widget>
   <button on-click="share" aria-label="Share" href="{{ shareUrl | safe }}">

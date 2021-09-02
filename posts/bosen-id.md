@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=Hu4Yvq-g7_Y&t=261s
 
 Di situ dijelasin kalo,
 
-> <mark>**Otak kita emang bakal ngehasilin ide dan rencana-rencana keren kalo kita lagi santai dan ga mikirin apa-apa**</mark>
+> Otak kita emang bakal ngehasilin ide dan rencana-rencana keren kalo kita lagi santai dan ga mikirin apa-apa.
 
 Kondisi "ga mikirin apa-apa" itu yang biasa kita kenal dengan nama "bosen". Ya emang keliatannya negatif ya bosen itu. Rasanya ga produktif banget, karena kita mikirnya pasti ada sesuatu yang bisa dikerjain daripada nganggur liatin jalan.
 

@@ -10,10 +10,10 @@
       location.hostname
     ) || location.protocol === "file:";
   var ele =
-    document.querySelector("[mufidu.com]") ||
+    document.querySelector("[data-beampipe-domain]") ||
     document.querySelector("[data-alysis-domain]");
   var domain =
-    ele.getAttribute("mufidu.com") ||
+    ele.getAttribute("data-beampipe-domain") ||
     ele.getAttribute("data-alysis-domain") ||
     (isLocal ? "localhost" : location.host);
   var track = function (event) {

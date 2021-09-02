@@ -2,7 +2,6 @@
 title: brain dump
 layout: layouts/home-en.njk
 description: Mufid's personal website
-image: https://upload.wikimedia.org/wikipedia/en/a/a9/Example.jpg
 date: Last Modified
 translation: /id/
 ---
@@ -11,15 +10,7 @@ translation: /id/
   Hello! Welcome to my site. Here is the place I dump some of my thoughts that I think worth sharing. Please see more <a href="about">about me and this site</a>.
 </p>
 
-<h2>Writings</h2>
-
-<h3>Thoughts</h3>
-{% set postslist = collections.categories["thoughts"].slice(-7) | languageFilter('en') %}
+<h2 class="smallh2">Best posts</h2>
+{% set postslist = collections.posts | languageFilter('en') | featuredFilter %}
 {% include "postslist.njk" %}
-<a href="/categories/thoughts/">See more...</a>
-
-<h3>Devs</h3>
-{# LIMIT NANTI! #}
-{% set postslist = collections.categories["devs"] | languageFilter("en") %}
-{% include "postslist.njk" %}
-<a href="/categories/devs/">See more...</a>
+<a href="/posts/">See more...</a>

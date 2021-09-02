@@ -4,6 +4,7 @@ date: "2021-01-05"
 category: "devs"
 tags:
   - "tools"
+  - "productivity"
 coverImage: "/img/pexels-pixabay-38544.jpg"
 layout: layouts/post-en.njk
 permalink: /apps/

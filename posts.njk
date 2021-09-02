@@ -1,0 +1,17 @@
+---
+title: All Posts
+layout: layouts/home-en.njk
+permalink: /posts/
+translation: /id/posts/
+---
+
+<h2>Thoughts</h2>
+{% set postslist = collections.categories["thoughts"].slice(-7) | languageFilter('en') %}
+{% include "postslist.njk" %}
+<a href="/categories/thoughts/">See more...</a>
+
+<h2>Devs</h2>
+{# LIMIT NANTI! #}
+{% set postslist = collections.categories["devs"] | languageFilter("en") %}
+{% include "postslist.njk" %}
+<a href="/categories/devs/">See more...</a>

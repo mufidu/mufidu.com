@@ -20,10 +20,9 @@ templateClass: tmpl-post
   <a href="https://twitter.com/{{ metadata.author.twitterHandle }}" target="_blank" rel="noopener">DM di Twitter</a> aja ya!
 </p>
 <p>
-  Tags: 
   {% for tag in tags %}
     {% if tag != "posts" %}
-    <a href="/tags/{{ tag }}/">{{ tag }}</a> /
+    <a class="tags" href="/tags/{{ tag }}/">{{ tag }}</a>
     {% endif %}
   {% endfor %}
 </p>

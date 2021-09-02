@@ -14,7 +14,7 @@ translation: /baik/
 
 ![humble](/img/hands-people-friends-communication-45842.jpg)
 
-We sometime meet people who need help but have bad attitudes; an ojek who asking for direction without greeting first, or beggars who beg rudely. It indeed makes us feel uncomfortable afterwards so we then don't bother to help them.
+Sometimes, we meet people who need help but have bad attitudes; an ojek who asking for direction without greeting first, or beggars who beg rudely. It indeed makes us feel uncomfortable afterwards so we then don't bother to help them.
 
 I used to be like that too, especially since I often read books about self improvement that emphasizing attitude, so I know generally what is good and polite, and what isn't.
 
