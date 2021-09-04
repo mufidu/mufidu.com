@@ -222,7 +222,7 @@ addEventListener("click", (e) => {
 // - it only means potentially more costly layouts for that image.
 // - And so it isn't worth the querySelectorAll it would cost to synchronously check
 //   load state.
-document.body.addEventListener(
+window.addEventListener(
   "load",
   (e) => {
     if (e.target.tagName != "IMG") {
