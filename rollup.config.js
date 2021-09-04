@@ -23,4 +23,15 @@ export default [
       },
     ],
   },
+  {
+    input: "src/um.js",
+    output: [
+      {
+        file: "js/um-min.js",
+        format: "iife",
+        sourcemap: true,
+        plugins: [terser()],
+      },
+    ],
+  },
 ];
