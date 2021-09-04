@@ -48,6 +48,7 @@ const CSP = {
       "https://ajax.cloudflare.com",
       "https://unpkg.com",
       "https://utteranc.es/",
+      "https://um.mufidu.com",
     ],
     // Inline CSS is allowed.
     ["style-src", quote("unsafe-inline"), "https://cdn.jsdelivr.net/"],
@@ -65,15 +66,13 @@ const CSP = {
       "https://www.instagram.com/",
       "https://platform.twitter.com/",
       "https://utteranc.es/",
-      // "http://localhost:8080/",
     ],
     [
       "connect-src",
       "https://cloudflareinsights.com",
       "https://beampipe.io/",
       "https://mufidu.com",
-      "http://localhost:8080",
-      "ws://localhost:8080",
+      "https://um.mufidu.com",
     ],
   ]),
 };
