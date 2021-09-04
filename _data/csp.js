@@ -71,6 +71,7 @@ const CSP = {
       "connect-src",
       "https://cloudflareinsights.com",
       "https://beampipe.io/",
+      "https://mufidu.com",
       "http://localhost:8080",
       "ws://localhost:8080",
     ],
