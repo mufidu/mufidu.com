@@ -49,9 +49,17 @@ const CSP = {
       "https://unpkg.com",
       "https://utteranc.es/",
       "https://um.mufidu.com",
+      "https://cd.mufidu.com",
+      quote("sha256-8xVbZ9dOz8kUtzrktuRM3EsC/Demb4/K2T2lYgN5WQs="),
+      // quote("unsafe-inline"),
     ],
     // Inline CSS is allowed.
-    ["style-src", quote("unsafe-inline"), "https://cdn.jsdelivr.net/"],
+    [
+      "style-src",
+      quote("unsafe-inline"),
+      "https://cdn.jsdelivr.net/",
+      "https://cd.mufidu.com",
+    ],
     // Images may also come from data-URIs.
     ["img-src", SELF, "data:", "https://i.ytimg.com/"],
 
@@ -66,6 +74,7 @@ const CSP = {
       "https://www.instagram.com/",
       "https://platform.twitter.com/",
       "https://utteranc.es/",
+      "https://cd.mufidu.com",
     ],
     [
       "connect-src",

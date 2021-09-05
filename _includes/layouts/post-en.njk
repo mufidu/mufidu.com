@@ -57,14 +57,23 @@ templateClass: tmpl-post
 </div>
 
 <br>
-<script src="https://utteranc.es/client.js"
+{# <script src="https://utteranc.es/client.js"
         repo="{{ metadata.utterancesGithubRepo }}"
         issue-term="pathname"
         theme="{{ metadata.utterancesTheme }}"
         crossorigin="anonymous"
         defer
         async>
-</script>
+</script> #}
+
+<div id="cusdis_thread"
+        data-host="https://cd.mufidu.com"
+        data-app-id="41b3aa17-aa39-4fab-8521-1de18aed5eb7"
+        data-page-id="{{ page.date }}"
+        data-page-url="{{ page.url }}"
+        data-page-title="{{ page.data.title }}"
+      ></div>
+<script async defer src="https://cd.mufidu.com/js/cusdis.es.js"></script>
 
 <share-widget>
   <button on-click="share" aria-label="Share" href="{{ shareUrl | safe }}">
