@@ -24,6 +24,7 @@
  */
 main img {
   content-visibility: auto;
+  border-radius: 0.75rem;
 }
 
 /* Avoid the header hiding the content on anchor scroll. */
@@ -589,7 +590,7 @@ template {
 }
 h1 {
   font-size: 3em;
-  line-height: 1.25;
+  line-height: 1;
   margin-bottom: 0.5em;
 }
 h2 {
@@ -1410,11 +1411,9 @@ h6:hover > .direct-link {
   padding: 0;
 }
 
-/* @media (max-width: 700px) {
-  .posts-list {
-    width: 95%;
-  }
-} */
+.cover-image-list > picture > img {
+  border-radius: 0.25rem;
+}
 
 .posts-list > li {
   display: flex;
@@ -1453,28 +1452,33 @@ h6:hover > .direct-link {
 
 .post-navigation {
   display: flex;
-  align-items: center;
+  align-items: stretch;
   margin-bottom: 1.5em;
   justify-content: space-between;
 }
 
 .post-navigation > div {
   width: 50%;
+  display: flex;
+  flex-direction: column;
 }
 
 .post-navigation > div:first-child {
   border-right: 1px solid var(--primary);
-}
-
-.post-navigation > div:first-child {
   text-align: left;
 }
+
 .post-navigation > div:last-child {
   text-align: right;
 }
 
+.post-navigation > div:last-child > a {
+  align-self: flex-end;
+}
+
 .post-navigation > div > a {
-  max-width: 75%;
+  margin: auto 0;
+  max-width: 90%;
 }
 
 .tags {

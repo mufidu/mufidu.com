@@ -54,6 +54,7 @@ templateClass: tmpl-post
 {% endif %}
 </div>
 
+{% if metadata.utterancesGithubRepo %}
 <br>
 <script src="https://utteranc.es/client.js"
         repo="{{ metadata.utterancesGithubRepo }}"
@@ -63,6 +64,7 @@ templateClass: tmpl-post
         defer
         async>
 </script>
+{% endif %}
 
 <share-widget>
   <button on-click="share" aria-label="Share" href="{{ shareUrl | safe }}">

@@ -49,7 +49,9 @@
     <!-- Beampipe Analytics -->
     {# <script async defer src="{{ "/js/bp-min.js" | addHash }}" data-beampipe-domain="{{ metadata.domain }}"></script> #}
     <!-- Umami Analytics -->
-    <script async defer data-website-id="124407e8-63a6-4494-bb0b-e8281670d632" src="https://um.mufidu.com/umami.js"></script>
+    {% if not isdevelopment %}
+    <script async defer data-website-id="124407e8-63a6-4494-bb0b-e8281670d632" src="/js/um-min.js"></script>
+    {% endif %}
     <!-- Notably iOS UAs also contain Mac OS X -->
     <script csp-hash>if (/Mac OS X/.test(navigator.userAgent))document.documentElement.classList.add('apple')
     </script>
