@@ -76,6 +76,7 @@ const CSP = {
       "https://beampipe.io/",
       "https://mufidu.com",
       "https://um.mufidu.com",
+      "um.js",
     ],
   ]),
 };
