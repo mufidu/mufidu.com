@@ -36,15 +36,17 @@ article * {
   background: var(--primary);
   color: #181818;
 }
-h1 > mark {
+/* h1 > mark {
   color: #181818;
 }
 h1 > mark::selection {
   background: #181818;
   color: var(--primary);
-}
+} */
 p > mark {
-  font-weight: bold;
+  padding: 0.25rem 0.25rem;
+  background-color: var(--primary-dark);
+  font-weight: semi-bold;
 }
 /* "Content-visibility: auto" move the images over the other elements
    Set z-index to keep the nav over the rasterized images */
@@ -758,16 +760,16 @@ ul {
   h2 {
     /* font-size: 4.05rem;
     line-height: 4.8rem; */
-    font-size: 3.1097rem;
-    line-height: 3.52rem;
-    /* font-size: 2.4rem;
-    line-height: 2.64rem; */
+    /* font-size: 3rem;
+    line-height: 3.52rem; */
+    font-size: 2.4rem;
+    line-height: 2.64rem;
   }
   h3 {
     /* font-size: 2.7rem;
     line-height: 2.88rem;
     margin-bottom: 1.632rem; */
-    font-size: 1.728rem;
+    font-size: 1.85rem;
     line-height: 1.125rem;
     margin-bottom: 1.496rem;
     /* font-size: 2.1rem;
@@ -1198,7 +1200,7 @@ footer p {
 article {
   max-width: 100%;
   padding: 1.5em;
-  width: 37.5em;
+  width: 40em;
   margin: 0 auto;
 }
 ol,

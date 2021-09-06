@@ -23,6 +23,6 @@
   "publisher": {
     "name": "Mufid"
   },
-  "utterancesGithubRepo": "mufidu/utteranc.es",
-  "utterancesTheme": "github-dark-orange"
+  "utterancesGithubRepo": false,
+  "utterancesTheme": false
 }
