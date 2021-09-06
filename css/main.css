@@ -1,14 +1,16 @@
 /* Color customization */
 :root {
   /* yellow */
-  --primary: #f9c412;
-  --primary-dark: #e7bf60;
+  /* --primary: #f9c412;
+  --primary-dark: #e7bf60; */
   /* green */
   /* --primary: #b3ff38; */
   /* --primary-dark: #92e60b; */
   /* blueish green */
   /* --primary: #5eff71;
   --primary-dark: #ff6b3d; */
+  --primary: #2a2;
+  --primary-dark: #080;
 }
 
 .test-dead-code-elimination-sentinel {
@@ -45,7 +47,7 @@ h1 > mark::selection {
 } */
 p > mark {
   padding: 0.25rem 0.25rem;
-  background-color: var(--primary-dark);
+  background-color: var(--primary);
   font-weight: semi-bold;
 }
 /* "Content-visibility: auto" move the images over the other elements
@@ -682,7 +684,7 @@ ul {
     /* font-size: 4.3978rem;
     line-height: 4.4rem; */
     font-size: 3.5rem;
-    line-height: 3.5rem;
+    line-height: 1;
   }
   h1,
   h2 {
@@ -1013,18 +1015,6 @@ input[type="submit"][disabled] {
   color: #404040;
   cursor: not-allowed;
 }
-button:not([disabled]),
-button[type="submit"],
-input[type="submit"] {
-  background: #f9c412;
-  color: #181818;
-}
-button:not([disabled]):hover,
-button[type="submit"]:hover,
-input[type="submit"]:hover {
-  background: #ba9005;
-  color: #000;
-}
 input[type="color"],
 input[type="date"],
 input[type="datetime-local"],
@@ -1070,8 +1060,8 @@ video {
 }
 body {
   font-family: var(--font-family);
-  background: #181818;
-  color: #eee;
+  background: #000;
+  color: #ccc;
 }
 section {
   margin-left: auto;
@@ -1145,7 +1135,7 @@ header nav {
   left: 0;
   width: 100vw;
   padding: 0.375em 1.5em;
-  background: hsla(0, 0%, 100%, 0.85);
+  background: rgba(20, 20, 20, 0.85);
   font-weight: 200;
   text-align: right;
 }
@@ -1160,7 +1150,7 @@ header nav a {
   font-weight: 700;
   text-decoration: none;
   font-family: var(--font-family);
-  color: #181818;
+  color: #ccc;
   margin-left: 1.5em;
 }
 header nav a:first-of-type {
@@ -1170,7 +1160,7 @@ header nav a:last-of-type {
   margin-right: 1.5em;
 }
 header nav label {
-  color: #000;
+  color: #ccc;
   cursor: pointer;
   margin: 0;
   font-style: normal;
@@ -1488,12 +1478,12 @@ h6:hover > .direct-link {
   font-size: 80%;
   padding: 0.3rem;
   border-radius: 0.3rem;
-  background: var(--primary);
+  background: var(--primary-dark);
   margin-right: 0.5rem;
 }
 
 .tags:hover {
-  opacity: 0.85;
+  background: var(--primary);
 }
 
 @media (max-width: 768px) {
