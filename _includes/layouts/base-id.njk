@@ -50,7 +50,7 @@
     {# <script async defer src="{{ "/js/bp-min.js" | addHash }}" data-beampipe-domain="{{ metadata.domain }}"></script> #}
     <!-- Umami Analytics -->
     {% if not isdevelopment %}
-    <script async defer data-website-id="124407e8-63a6-4494-bb0b-e8281670d632" src="/js/um-min.js" data-host-url="https://um.mufidu.com"></script>
+    <script async defer data-website-id="124407e8-63a6-4494-bb0b-e8281670d632" src="/js/um-min.js" data-host-url="https://um.mufidu.com" data-domains="mufidu.com"></script>
     {% endif %}
     <!-- Notably iOS UAs also contain Mac OS X -->
     <script csp-hash>if (/Mac OS X/.test(navigator.userAgent))document.documentElement.classList.add('apple')

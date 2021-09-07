@@ -50,7 +50,6 @@ const CSP = {
       "https://utteranc.es/",
       "https://um.mufidu.com",
       "https://cd.mufidu.com",
-      quote("sha256-8xVbZ9dOz8kUtzrktuRM3EsC/Demb4/K2T2lYgN5WQs="),
       // quote("unsafe-inline"),
     ],
     // Inline CSS is allowed.

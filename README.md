@@ -46,7 +46,7 @@ This is a list of features that this site has. Mostly already come from the temp
 #### CSS
 
 - Defaults to the compact "classless" [Bahunya CSS framework](https://kimeiga.github.io/bahunya/).
-  - Converted back to SCSS and divided per components.
+  - Converted back to SCSS and divided per components (so to speak).
 - Inlines CSS.
 - Dead-code-eliminates / tree-shakes / purges (pick your favorite word) unused CSS on a per-page basis with [PurgeCSS](https://purgecss.com/).
 - Minified CSS with [csso](https://www.npmjs.com/package/csso).
