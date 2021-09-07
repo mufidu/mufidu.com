@@ -1,0 +1,25 @@
+a {
+  color: var(--primary);
+  background-color: transparent;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.direct-link {
+  font-size: 80%;
+  opacity: 0;
+  transition: all 0.2s ease-in-out;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  &:hover > .direct-link {
+    opacity: 1;
+  }
+}

@@ -1,0 +1,17 @@
+// Highlighting the title
+/* h1 > mark {
+  color: #181818;
+}
+h1 > mark::selection {
+  background: #181818;
+  color: var(--primary);
+} */
+
+p > mark {
+  padding: 0.25rem 0.25rem;
+  background-color: var(--primary);
+}
+
+mark {
+  background: var(--primary);
+}

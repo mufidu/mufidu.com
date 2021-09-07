@@ -1,0 +1,15 @@
+body::-webkit-scrollbar {
+  width: 0.7em;
+
+  &-track {
+    background: grey;
+  }
+
+  &-thumb {
+    background: var(--primary-dark);
+
+    &:hover {
+      background: var(--primary);
+    }
+  }
+}

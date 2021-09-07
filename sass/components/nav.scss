@@ -1,0 +1,30 @@
+.post-navigation {
+  display: flex;
+  align-items: stretch;
+  margin-bottom: 1.5em;
+  justify-content: space-between;
+
+  & > div {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+
+    &:first-child {
+      border-right: 1px solid var(--primary);
+      text-align: left;
+    }
+
+    &:last-child {
+      text-align: right;
+
+      a {
+        align-self: flex-end;
+      }
+    }
+
+    & > a {
+      margin: auto 0;
+      max-width: 90%;
+    }
+  }
+}

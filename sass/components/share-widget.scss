@@ -1,0 +1,27 @@
+share-widget {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  opacity: 0.9;
+
+  div {
+    width: 30px;
+    height: 30px;
+    background-image: url("/img/share.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  button {
+    margin: 0;
+    transition: all cubic-bezier(0.075, 0.82, 0.165, 2);
+
+    &:active {
+      transform: scale(1.2);
+    }
+  }
+}
+
+.apple share-widget div {
+  background-image: url("/img/share-apple.svg");
+}

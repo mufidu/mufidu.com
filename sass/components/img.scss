@@ -1,0 +1,42 @@
+/*
+  Make image rasterization lazy. This means that e.g. the cost of the
+  blurry placeholder is never paid if images load before entering
+  the viewport.
+  Context
+  - https://web.dev/content-visibility/#skipping-rendering-work-with-content-visibility
+  
+  Also make them rounded!
+ */
+
+/* "Content-visibility: auto" move the images over the other elements
+   Set z-index to keep the nav over the rasterized images */
+main img {
+  content-visibility: auto;
+  border-radius: 0.75rem;
+}
+
+img {
+  border-style: none;
+
+  &[align="left"] {
+    width: auto;
+    height: 16rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  &,
+  video {
+    height: auto;
+    margin: 0 auto;
+    max-width: 100%;
+  }
+}
+
+figure {
+  margin: 1.5em;
+
+  img {
+    display: block;
+  }
+}

@@ -1,0 +1,52 @@
+/* Color customization */
+:root {
+  /* yellow */
+  /* --primary: #f9c412;
+  --primary-dark: #e7bf60; */
+  --primary: #2a2;
+  --primary-dark: #080;
+}
+
+/*! purgecss start ignore */
+:root {
+  --main-width: calc(100vw - 3em);
+}
+
+@media (min-width: 37.5em) {
+  :root {
+    --main-width: calc(37.5em - 3em);
+  }
+}
+/*! purgecss end ignore */
+
+html {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+  quotes: "“" "”" "‘" "’";
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: #000;
+  color: #ccc;
+}
+
+main {
+  max-width: 70rem;
+  margin: 0 auto;
+  border-top: 0.5px solid #ccc;
+}
+
+*::selection {
+  background: var(--primary);
+  color: #000;
+}
+
+/* Avoid the header hiding the content on anchor scroll. */
+article * {
+  scroll-margin-top: 50px;
+}

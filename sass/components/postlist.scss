@@ -1,0 +1,41 @@
+.posts-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+  li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.5em;
+  }
+}
+
+.post-date {
+  font-size: 80%;
+  opacity: 0.8;
+
+  &-list {
+    font-size: 80%;
+    opacity: 0.8;
+    display: block;
+    margin-left: auto;
+    text-align: right;
+  }
+}
+
+.cover-image-list {
+  min-width: 25%;
+  max-width: 25%;
+  height: min-content;
+  margin-right: 1.5em;
+
+  > picture > img {
+    border-radius: 0.25rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .cover-image-list {
+    margin-right: 0.5em;
+  }
+}

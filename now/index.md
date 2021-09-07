@@ -34,7 +34,7 @@ These are things I'm doing at the moment. Part of [/now movement](https://nownow
 
 - [My personal website](https://mufidu.com)
 
-  This is the very website you are visiting now. I just started rebuilding this website, using 11ty and [this theme](https://github.com/google/eleventy-high-performance-blog). Hope it can be ready to be deployed by tomorrow (while being developed).
+  This is the very website you are visiting now. I just started rebuilding this website, using 11ty and [this theme](https://github.com/google/eleventy-high-performance-blog). Just started to customizing it.
 
 > See [my finished work](https://mufidu.com/projects)
 

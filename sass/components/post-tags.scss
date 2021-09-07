@@ -1,0 +1,12 @@
+.tags {
+  color: black;
+  font-size: 80%;
+  padding: 0.3rem;
+  border-radius: 0.3rem;
+  background: var(--primary-dark);
+  margin-right: 0.5rem;
+
+  &:hover {
+    background: var(--primary);
+  }
+}

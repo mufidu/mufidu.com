@@ -1,0 +1,109 @@
+header {
+  padding: 4.5em 1.5em 3em;
+  width: 50em;
+  margin: 0 auto;
+  text-align: center;
+  max-width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  nav {
+    z-index: 1;
+  }
+
+  aside {
+    font-style: italic;
+  }
+
+  p {
+    margin-top: 0;
+  }
+
+  nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    padding: 0.375em 1.5em;
+    background: rgba(20, 20, 20, 0.85);
+    font-weight: 200;
+    text-align: right;
+
+    #nav {
+      z-index: 2;
+      position: relative;
+    }
+
+    h1 {
+      float: left;
+      font-size: inherit;
+      line-height: inherit;
+      margin: 0;
+      text-align: left;
+    }
+
+    a {
+      font-weight: 700;
+      text-decoration: none;
+      font-family: var(--font-family);
+      color: #ccc;
+      margin-left: 1.5em;
+
+      &:first-of-type {
+        margin-left: auto;
+      }
+
+      &:last-of-type {
+        margin-right: 1.5em;
+      }
+    }
+
+    label {
+      color: #ccc;
+      cursor: pointer;
+      margin: 0;
+      font-style: normal;
+      text-align: right;
+    }
+  }
+
+  input,
+  label {
+    display: none;
+  }
+}
+
+// With hamburger menu if on mobile
+@media (max-width: 767px) {
+  header input {
+    display: inline;
+  }
+  header label {
+    display: inline-block;
+  }
+  #menu-toggle {
+    display: none;
+  }
+  header label {
+    display: block;
+  }
+  #menu-toggle:checked ~ a {
+    display: block;
+    padding: 0.75em 0;
+    margin: 0 1.5em;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+  }
+  #menu-toggle:checked ~ a:last-of-type {
+    padding-bottom: 0;
+    border: 0;
+  }
+  #menu-toggle:checked ~ label {
+    border-bottom: 1px solid #aaa;
+    padding-bottom: 0.75em;
+  }
+  #menu-toggle:not(:checked) ~ a {
+    display: none;
+  }
+}

@@ -4,8 +4,10 @@
   "license": "MIT",
   "description": "A starter repository for a blog web site using the Eleventy static site generator.",
   "scripts": {
-    "build": "npm run js-build && eleventy",
-    "start": "concurrently \"eleventy --serve\" \"npm run js-build-watch\"",
+    "watch:sass": "npx sass --watch --style=compressed sass/main.scss css/main.css",
+    "build:sass": "npx sass --style=compressed sass/main.scss css/main.css",
+    "build": "npm run js-build && npm run build:sass && eleventy",
+    "start": "concurrently \"npm run watch:sass\" \"eleventy --serve\" \"npm run js-build-watch\"",
     "serve": "DEBUG=Eleventy:Benchmark* npx @11ty/eleventy --serve",
     "js-build": "rollup -c rollup.config.js",
     "js-build-watch": "rollup -c rollup.config.js -w",
@@ -43,6 +45,7 @@
     "pre-push": "^0.1.1",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-terser": "^6.1.0",
+    "sass": "^1.39.0",
     "shorthash": "0.0.2"
   },
   "dependencies": {
