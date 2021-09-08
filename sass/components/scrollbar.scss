@@ -6,10 +6,10 @@ body::-webkit-scrollbar {
   }
 
   &-thumb {
-    background: var(--primary-dark);
+    background: var(--primary);
 
     &:hover {
-      background: var(--primary);
+      background: var(--primary--dark);
     }
   }
 }
