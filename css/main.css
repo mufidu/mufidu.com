@@ -319,6 +319,10 @@ footer p {
   text-align: center;
 }
 
+.eleventy-plugin-youtube-embed {
+  margin: 1.5rem 0;
+}
+
 .tags {
   color: black;
   font-size: 80%;
@@ -906,7 +910,7 @@ a {
   text-decoration: none;
   position: relative;
 }
-a:after {
+a:not(.tags)::after {
   content: "";
   position: absolute;
   width: 100%;
@@ -917,9 +921,8 @@ a:after {
   background-color: var(--primary);
   transform-origin: bottom right;
   transition: transform 0.25s ease-out;
-  animation-fill-mode: forwards;
 }
-a:hover:after {
+a:not(.tags):hover:after {
   transform: scaleX(1);
   transform-origin: bottom left;
 }

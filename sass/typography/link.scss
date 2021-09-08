@@ -4,7 +4,7 @@ a {
   text-decoration: none;
   position: relative;
 
-  &:after {
+  &:not(.tags)::after {
     content: "";
     position: absolute;
     width: 100%;
@@ -15,10 +15,9 @@ a {
     background-color: var(--primary);
     transform-origin: bottom right;
     transition: transform 0.25s ease-out;
-    animation-fill-mode: forwards;
   }
 
-  &:hover:after {
+  &:not(.tags):hover:after {
     transform: scaleX(1);
     transform-origin: bottom left;
   }
