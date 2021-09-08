@@ -4,14 +4,14 @@
 }
 h1 > mark::selection {
   background: #181818;
-  color: var(--primary);
+  color: var(--selection);
 } */
 
 p > mark {
   padding: 0.25rem 0.25rem;
-  background-color: var(--primary);
 }
 
 mark {
-  background: var(--primary);
+  background: var(--selection);
+  color: var(--font-color);
 }

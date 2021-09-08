@@ -135,18 +135,22 @@ form {
   padding: 1.5em 1.5em 0;
   border: 0.2rem solid #202020;
   margin-bottom: 1.5em;
+
+  small {
+    font-style: italic;
+  }
 }
-form small {
-  font-style: italic;
-}
+
 fieldset {
   padding: 0;
   margin: 0;
+
+  legend {
+    font-size: 150%;
+    margin-bottom: 0.75em;
+  }
 }
-fieldset legend {
-  font-size: 150%;
-  margin-bottom: 0.75em;
-}
+
 button,
 input,
 select,
@@ -206,20 +210,19 @@ input[type="submit"] {
   padding: 0.75em 1.5em;
   text-align: center;
   margin: 0 0.75em 1.5em 0;
+
+  &:hover {
+    background: #d9d9d9;
+    color: #000;
+  }
+
+  &[disabled] {
+    background: #e6e6e6;
+    color: #404040;
+    cursor: not-allowed;
+  }
 }
-button:hover,
-input[type="reset"]:hover,
-input[type="submit"]:hover {
-  background: #d9d9d9;
-  color: #000;
-}
-button[disabled],
-input[type="reset"][disabled],
-input[type="submit"][disabled] {
-  background: #e6e6e6;
-  color: #404040;
-  cursor: not-allowed;
-}
+
 input[type="color"],
 input[type="date"],
 input[type="datetime-local"],
@@ -255,10 +258,6 @@ input[type="radio"] + label {
 select[multiple] {
   min-width: 15em;
 }
-* {
-  border: 0;
-  box-sizing: border-box;
-}
 
 section {
   margin-left: auto;
@@ -271,6 +270,11 @@ article {
   padding: 1.5em;
   width: 40em;
   margin: 0 auto;
+
+  /* Avoid the header hiding the content on anchor scroll. */
+  * {
+    scroll-margin-top: 50px;
+  }
 }
 ol,
 ul {
@@ -332,8 +336,4 @@ dd + dt {
 
 blockquote {
   border-left: 1px solid var(--primary);
-}
-
-.test-dead-code-elimination-sentinel {
-  color: red;
 }

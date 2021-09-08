@@ -20,7 +20,7 @@ code[class*="language-"] {
 
 code[class*="language-"],
 pre[class*="language-"] {
-  color: #ccc;
+  color: var(--font-color);
   background: #2d2d2d;
   border-radius: 0.3em;
   font-family: Consolas, Monaco, Andale Mono, Ubuntu Mono, monospace;
@@ -37,6 +37,10 @@ pre[class*="language-"] {
   -moz-hyphens: none;
   -ms-hyphens: none;
   hyphens: none;
+
+  ::selection {
+    background: var(--selection);
+  }
 }
 
 :not(pre) > code[class*="language-"] {
@@ -69,4 +73,8 @@ samp {
 
 kbd {
   color: #7ec699;
+}
+
+.test-dead-code-elimination-sentinel {
+  color: red;
 }

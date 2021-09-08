@@ -6,6 +6,8 @@
   --primary-dark: #e7bf60; */
   --primary: #2a2;
   --primary-dark: #080;
+  --selection: #1a1a1a;
+  --font-color: #ccc;
 }
 
 /*! purgecss start ignore */
@@ -32,23 +34,22 @@ html {
 body {
   margin: 0;
   background: #000;
-  color: #ccc;
+  color: var(--font-color);
 }
 
 main {
   max-width: 70rem;
   margin: 0 auto;
-  border-top: 0.5px solid #ccc;
+  border-top: 0.5px solid var(--font-color);
 }
 
+* {
+  border: 0;
+  box-sizing: border-box;
+}
 *::selection {
-  background: var(--primary);
-  color: #000;
-}
-
-/* Avoid the header hiding the content on anchor scroll. */
-article * {
-  scroll-margin-top: 50px;
+  background: var(--selection);
+  color: var(--font-color);
 }
 
 /*
@@ -437,7 +438,7 @@ code[class*=language-] {
 
 code[class*=language-],
 pre[class*=language-] {
-  color: #ccc;
+  color: var(--font-color);
   background: #2d2d2d;
   border-radius: 0.3em;
   font-family: Consolas, Monaco, Andale Mono, Ubuntu Mono, monospace;
@@ -454,6 +455,10 @@ pre[class*=language-] {
   -moz-hyphens: none;
   -ms-hyphens: none;
   hyphens: none;
+}
+code[class*=language-] ::selection,
+pre[class*=language-] ::selection {
+  background: var(--selection);
 }
 
 :not(pre) > code[class*=language-] {
@@ -485,6 +490,10 @@ samp {
 
 kbd {
   color: #7ec699;
+}
+
+.test-dead-code-elimination-sentinel {
+  color: red;
 }
 
 button,
@@ -650,7 +659,6 @@ form {
   border: 0.2rem solid #202020;
   margin-bottom: 1.5em;
 }
-
 form small {
   font-style: italic;
 }
@@ -659,7 +667,6 @@ fieldset {
   padding: 0;
   margin: 0;
 }
-
 fieldset legend {
   font-size: 150%;
   margin-bottom: 0.75em;
@@ -734,14 +741,12 @@ input[type=submit] {
   text-align: center;
   margin: 0 0.75em 1.5em 0;
 }
-
 button:hover,
 input[type=reset]:hover,
 input[type=submit]:hover {
   background: #d9d9d9;
   color: #000;
 }
-
 button[disabled],
 input[type=reset][disabled],
 input[type=submit][disabled] {
@@ -789,11 +794,6 @@ select[multiple] {
   min-width: 15em;
 }
 
-* {
-  border: 0;
-  box-sizing: border-box;
-}
-
 section {
   margin-left: auto;
   margin-right: auto;
@@ -805,6 +805,10 @@ article {
   padding: 1.5em;
   width: 40em;
   margin: 0 auto;
+  /* Avoid the header hiding the content on anchor scroll. */
+}
+article * {
+  scroll-margin-top: 50px;
 }
 
 ol,
@@ -878,24 +882,20 @@ blockquote {
   border-left: 1px solid var(--primary);
 }
 
-.test-dead-code-elimination-sentinel {
-  color: red;
-}
-
 /* h1 > mark {
   color: #181818;
 }
 h1 > mark::selection {
   background: #181818;
-  color: var(--primary);
+  color: var(--selection);
 } */
 p > mark {
   padding: 0.25rem 0.25rem;
-  background-color: var(--primary);
 }
 
 mark {
-  background: var(--primary);
+  background: var(--selection);
+  color: var(--font-color);
 }
 
 a {

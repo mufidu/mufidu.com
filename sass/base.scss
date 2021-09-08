@@ -5,6 +5,8 @@
   --primary-dark: #e7bf60; */
   --primary: #2a2;
   --primary-dark: #080;
+  --selection: #1a1a1a;
+  --font-color: #ccc;
 }
 
 /*! purgecss start ignore */
@@ -32,21 +34,21 @@ html {
 body {
   margin: 0;
   background: #000;
-  color: #ccc;
+  color: var(--font-color);
 }
 
 main {
   max-width: 70rem;
   margin: 0 auto;
-  border-top: 0.5px solid #ccc;
+  border-top: 0.5px solid var(--font-color);
 }
 
-*::selection {
-  background: var(--primary);
-  color: #000;
-}
+* {
+  border: 0;
+  box-sizing: border-box;
 
-/* Avoid the header hiding the content on anchor scroll. */
-article * {
-  scroll-margin-top: 50px;
+  &::selection {
+    background: var(--selection);
+    color: var(--font-color);
+  }
 }

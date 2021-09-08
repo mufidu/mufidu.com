@@ -1,5 +1,5 @@
 ---
-title: "Wordpress' Optimization for Blog"
+title: "Getting Perfect Score with Wordpress"
 date: "2021-05-23"
 category: "devs"
 tags:

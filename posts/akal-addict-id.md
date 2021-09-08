@@ -11,6 +11,19 @@ lang: id
 translation: /mind-stucked/
 ---
 
+```js
+const { get, set, del, has } = require("idb-keyval");
+async function main() {
+  const key = "my-key";
+  const value = "my-value";
+  await set(key, value);
+  const result = await get(key);
+  console.log(result);
+  await del(key);
+}
+main();
+```
+
 ![debat](/img/sebastian-herrmann-mkQsoiskWSg-unsplash.jpg)
 
 Salah satu yang paling bikin males main _socmed_ adalah banyak ributnya. Apa aja diributin. Semua hal ada aja yang bahas. Tiap ada yang bahas ada aja yang bantah. Bahas, bantah, repeat. Kenapa pada ribut gini?
