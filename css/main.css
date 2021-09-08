@@ -159,6 +159,15 @@ dialog {
   align-items: center;
   margin-bottom: 0.5em;
 }
+.posts-list picture {
+  min-width: 25%;
+  max-width: 25%;
+  height: min-content;
+  margin-right: 1.5em;
+}
+.posts-list picture img {
+  border-radius: 0.25rem;
+}
 
 .post-date {
   font-size: 80%;
@@ -170,16 +179,6 @@ dialog {
   display: block;
   margin-left: auto;
   text-align: right;
-}
-
-.cover-image-list {
-  min-width: 25%;
-  max-width: 25%;
-  height: min-content;
-  margin-right: 1.5em;
-}
-.cover-image-list > picture > img {
-  border-radius: 0.25rem;
 }
 
 @media (max-width: 600px) {

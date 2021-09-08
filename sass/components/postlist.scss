@@ -8,6 +8,17 @@
     align-items: center;
     margin-bottom: 0.5em;
   }
+
+  picture {
+    min-width: 25%;
+    max-width: 25%;
+    height: min-content;
+    margin-right: 1.5em;
+
+    img {
+      border-radius: 0.25rem;
+    }
+  }
 }
 
 .post-date {
@@ -20,17 +31,6 @@
     display: block;
     margin-left: auto;
     text-align: right;
-  }
-}
-
-.cover-image-list {
-  min-width: 25%;
-  max-width: 25%;
-  height: min-content;
-  margin-right: 1.5em;
-
-  > picture > img {
-    border-radius: 0.25rem;
   }
 }
 
