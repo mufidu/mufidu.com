@@ -12,6 +12,10 @@
     &:first-child {
       border-right: 1px solid var(--primary);
       text-align: left;
+
+      a {
+        align-self: flex-start;
+      }
     }
 
     &:last-child {

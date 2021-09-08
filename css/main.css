@@ -138,6 +138,9 @@ dialog {
   border-right: 1px solid var(--primary);
   text-align: left;
 }
+.post-navigation > div:first-child a {
+  align-self: flex-start;
+}
 .post-navigation > div:last-child {
   text-align: right;
 }
