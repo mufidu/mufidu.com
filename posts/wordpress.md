@@ -1,5 +1,5 @@
 ---
-title: "Getting Perfect Score with Wordpress"
+title: "Getting The Perfect Score with Wordpress"
 date: "2021-05-23"
 category: "devs"
 tags:
@@ -64,9 +64,9 @@ For blogs, I will give some recommendations for plugins, that I use here. I grou
 
 ### Caching
 
-By default if we access the web using Wordpress, the browser will render the web from scratch. Now this cache provides the finished web version, so the browser doesn't have to render from scratch every time we open the web.
+By default if we access a web that use Wordpress, the server will build the web from scratch, each visit. Now this cache provides the finished web version, so the server doesn't have to build from scratch every time we open the web.
 
-This also reduce the load on our servers because there are not many processes to go through to display the web in the browser.
+This of course reduces the load on our servers because it doesn't have to do many process to display the web in the browser.
 
 For caching, I've tried a lot of plugins, first I tried [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/) because they say it has the most complete features. Then I moved to [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/) because the settings are simpler, so it minimizes the possibility of conflicts with other plugins.
 

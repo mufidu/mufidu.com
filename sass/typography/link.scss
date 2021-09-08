@@ -2,9 +2,25 @@ a {
   color: var(--primary);
   background-color: transparent;
   text-decoration: none;
+  position: relative;
 
-  &:hover {
-    text-decoration: underline;
+  &:after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: var(--primary);
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+    animation-fill-mode: forwards;
+  }
+
+  &:hover:after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
   }
 }
 

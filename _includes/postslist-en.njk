@@ -2,7 +2,7 @@
 {% for post in postslist | reverse %}
 {% if post.data.lang == "en" %}
   <li>
-    <a class="cover-image-list" href="{{ post.url | url }}"><img src="{{ post.data.coverImage }}" alt="{{ post.data.title }}"></a>
+    <img class="cover-image-list" src="{{ post.data.coverImage }}" alt="{{ post.data.title }}">
     <a href="{{ post.url | url }}" class="post-title-list">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a><time class="post-date-list"  datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
   </li>
 {% endif %}

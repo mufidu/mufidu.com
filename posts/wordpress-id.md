@@ -64,9 +64,9 @@ Buat blog, saya bakal kasih beberapa rekomendasi plugins, apa aja semua yang say
 
 ### Caching
 
-Secara default kalo kita ngakses web yang pakai Wordpress, browser bakal ngerender webnya dari awal. Nah cache ini nyediain versi web yang udah jadinya, jadi browser ga harus ngerender dari awal tiap kita buka web itu.
+Secara default kalo kita ngakses web yang pakai Wordpress, server bakal ngerender webnya dari awal. Nah cache ini nyediain versi web yang udah jadinya, jadi server ga harus ngerender dari awal tiap kita buka web itu.
 
-Ini juga ngeringanin beban server kita soalnya jadi gabanyak proses yang harus dijalanin buat nampilin web di browser.
+Ini pastinya ngeringanin beban server kita soalnya jadi gabanyak proses yang harus dijalanin buat nampilin web di browser.
 
 Buat caching, saya udah nyoba banyak plugins, pertama saya coba [W3 Total Cache](https://id.wordpress.org/plugins/w3-total-cache/) soalnya katanya fiturnya paling lengkap. Lalu, saya pindah ke [WP Super Cache](https://id.wordpress.org/plugins/wp-super-cache/) karena settingannya lebih simpel, jadi ngecilin kemungkinan bentrok sama plugin lain.
 

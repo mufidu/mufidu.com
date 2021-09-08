@@ -231,7 +231,7 @@ header nav a {
   font-weight: 700;
   text-decoration: none;
   font-family: var(--font-family);
-  color: #ccc;
+  color: var(---font-color);
   margin-left: 1.5em;
 }
 header nav a:first-of-type {
@@ -902,9 +902,24 @@ a {
   color: var(--primary);
   background-color: transparent;
   text-decoration: none;
+  position: relative;
 }
-a:hover {
-  text-decoration: underline;
+a:after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: var(--primary);
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+  animation-fill-mode: forwards;
+}
+a:hover:after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
 }
 
 .direct-link {
