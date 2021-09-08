@@ -162,15 +162,6 @@ dialog {
   align-items: center;
   margin-bottom: 0.5em;
 }
-.posts-list picture {
-  min-width: 25%;
-  max-width: 25%;
-  height: min-content;
-  margin-right: 1.5em;
-}
-.posts-list picture img {
-  border-radius: 0.25rem;
-}
 
 .post-date {
   font-size: 80%;
@@ -182,6 +173,16 @@ dialog {
   display: block;
   margin-left: auto;
   text-align: right;
+}
+
+.cover-image-list {
+  min-width: 25%;
+  max-width: 25%;
+  height: min-content;
+  margin-right: 1em;
+}
+.cover-image-list > picture > img {
+  border-radius: 0.25rem;
 }
 
 @media (max-width: 600px) {
@@ -910,7 +911,7 @@ a {
   text-decoration: none;
   position: relative;
 }
-a:not(.tags)::after {
+a:not(.cover-image-list):not(.tags)::after {
   content: "";
   position: absolute;
   width: 100%;
@@ -922,7 +923,7 @@ a:not(.tags)::after {
   transform-origin: bottom right;
   transition: transform 0.25s ease-out;
 }
-a:not(.tags):hover:after {
+a:not(.cover-image-list):not(.tags):hover:after {
   transform: scaleX(1);
   transform-origin: bottom left;
 }

@@ -12,7 +12,7 @@ translation: /wordpress-optimization/
 featured: true
 ---
 
-![wordpress](https://images.unsplash.com/photo-1560472354-0088b5dc9d8d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1916&q=80)
+![wordpress](/img/stephen-phillips-hostreviews-co-uk-sSPzmL7fpWc-unsplash.jpg)
 
 > Tulisan ini ditulis pas saya masih pakai Wordpress. Sekarang saya udah gapakai lagi, tapi tulisan ini masih tetap relevan buat yang masih atau baru pakai Wordpress.
 

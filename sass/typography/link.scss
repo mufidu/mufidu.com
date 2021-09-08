@@ -4,7 +4,7 @@ a {
   text-decoration: none;
   position: relative;
 
-  &:not(.tags)::after {
+  &:not(.cover-image-list):not(.tags)::after {
     content: "";
     position: absolute;
     width: 100%;
@@ -17,7 +17,7 @@ a {
     transition: transform 0.25s ease-out;
   }
 
-  &:not(.tags):hover:after {
+  &:not(.cover-image-list):not(.tags):hover:after {
     transform: scaleX(1);
     transform-origin: bottom left;
   }
