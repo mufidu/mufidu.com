@@ -47,7 +47,3 @@ These are things I'm doing at the moment. Part of [/now movement](https://nownow
 - [Agent Carter](https://www.imdb.com/title/tt3475734/)
 
   I like her.
-
-- [Rick and Morty](https://www.imdb.com/title/tt2861424/)
-
-  Wabba labba dub dub!

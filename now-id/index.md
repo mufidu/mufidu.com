@@ -48,7 +48,3 @@ Ini beberapa hal yang lagi saya lakuin sekarang. Bagian dari [/now movement](htt
 - [Agent Carter](https://www.imdb.com/title/tt3475734/)
 
   Ceritanya abis ditinggal Steve Rogers :(
-
-- [Rick and Morty](https://www.imdb.com/title/tt2861424/)
-
-  Wabba labba dub dub!
