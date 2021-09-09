@@ -28,7 +28,7 @@ One way that I think is the most effective is to use apps against apps. There ar
 
 ## 1. [Digital Wellbeing](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing&hl=en_US&gl=US) (Android)
 
-![](/img/Pasted-image-20210705172129-1.png)
+![](/img/Pasted-image-20210705172129-1.webp)
 
 This is usually already installed by default on Android version Pie and above. I use this to limit my phone usage. This app can give you a look at the total hours of our phone usage, and it is divided per application. So we can see at a glance which applications are taking up the most of our time.
 
@@ -40,7 +40,7 @@ There is also a Bedtime Mode feature, so the phone automatically enters Do Not D
 
 ## 2. [RescueTime](https://rescuetime.com/) (Android, PC)
 
-![](/img/Pasted-image-20210705171815-1-1024x442.png)
+![](/img/Pasted-image-20210705171815-1-1024x442.webp)
 
 This application also can record the time we spend per application, but it can be synchronized on a phone and on a laptop.
 
@@ -48,7 +48,7 @@ For those who often use laptops, we can know the total time we spend on laptops 
 
 ## 3. [Limit](https://chrome.google.com/webstore/detail/limit-set-limits-for-dist/blcdfhbibkkjpfdddnmnmhfgjlicebba?hl=en) (Chrome extension)
 
-![](/img/Pasted-image-20210705172824-1-1024x510.png)
+![](/img/Pasted-image-20210705172824-1-1024x510.webp)
 
 This is an extension that can help us limit the time on a website we visit in Chrome. Similar to Digital Wellbeing earlier, but for Chrome in desktop.
 

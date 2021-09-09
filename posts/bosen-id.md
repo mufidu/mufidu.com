@@ -4,14 +4,14 @@ date: "2021-06-21"
 category: "thoughts"
 tags:
   - "productivity"
-coverImage: "/img/pexels-photo-4114905.jpeg"
+coverImage: "/img/pexels-photo-4114905.webp"
 layout: layouts/post-id.njk
 permalink: /bosen/
 lang: id
 translation: /bored/
 ---
 
-![bored](/img/pexels-photo-4114905.jpeg)
+![bored](/img/pexels-photo-4114905.webp)
 
 Semua orang kayanya pernah tiba-tiba kepikiran ide atau rencana yang keren banget pas lagi mandi, jalan santai, atau kapan pun pas otak lagi ga fokus.
 

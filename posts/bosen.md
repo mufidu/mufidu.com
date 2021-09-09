@@ -4,14 +4,14 @@ date: "2021-06-21"
 category: "thoughts"
 tags:
   - "productivity"
-coverImage: "/img/pexels-photo-4114905.jpeg"
+coverImage: "/img/pexels-photo-4114905.webp"
 layout: layouts/post-en.njk
 permalink: /bored/
 lang: en
 translation: /bosen/
 ---
 
-![bored](/img/pexels-photo-4114905.jpeg)
+![bored](/img/pexels-photo-4114905.webp)
 
 It seems like everyone have experienced suddenly thought of a really cool idea or plan when they were taking a shower, taking a relaxing walk, or whenever the brain was not in the focus state.
 

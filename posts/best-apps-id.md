@@ -98,7 +98,7 @@ Kalo cuman di versi gratisan aja, rata-rata ngebatesin game-game yang bisa kita 
 
 Kalau buat versi berbayarnya itu yang paling worth it menurut saya [Peak](https://play.google.com/store/apps/details?id=com.brainbow.peak.app&hl=en&gl=US), dengan harga 250rb per orang atau 500rb untuk 5 orang, dua-duanya lifetime.
 
-## Lansayage learning
+## Language learning
 
 Saya baru coba dua, Duolingo dan Memrise. Tapi kayanya udah jelas banget ya yang menang [Duolingo](https://play.google.com/store/apps/details?id=com.duolingo&hl=en&gl=US).
 

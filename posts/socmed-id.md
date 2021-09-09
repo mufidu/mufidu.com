@@ -28,7 +28,7 @@ Salah satu cara yang menurut gua paling efektif adalah dengan menggunakan apps u
 
 ## 1. [Digital Wellbeing](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing&hl=en_US&gl=US) (Android)
 
-![](/img/Pasted-image-20210705172129-1.png)
+![](/img/Pasted-image-20210705172129-1.webp)
 
 Ini biasanya udah terinstall default di Android versi Pie ke atas. Gua pake ini buat ngebatesin pemakaian HP gua. Apps ini bisa ngasih liat total jam penggunaan HP kita, dan dibagi per aplikasi. Jadi kita bisa liat secara sekilas aplikasi mana yang paling nyedot waktu kita.
 
@@ -40,7 +40,7 @@ Ada juga fitur Bedtime Mode, jadi HP otomatis masuk mode Do Not Disturb dan laya
 
 ## 2. [RescueTime](https://rescuetime.com/) (Android, PC)
 
-![](/img/Pasted-image-20210705171815-1-1024x442.png)
+![](/img/Pasted-image-20210705171815-1-1024x442.webp)
 
 Aplikasi ini juga fitur utamanya ngerekam waktu yang kita habisin per aplikasi, tapi bisa sinkron buat di HP sama di laptop.
 
@@ -48,7 +48,7 @@ Buat yang sering pake laptop, kita jadi bisa tau total waktu yang kita habisin d
 
 ## 3. [Limit](https://chrome.google.com/webstore/detail/limit-set-limits-for-dist/blcdfhbibkkjpfdddnmnmhfgjlicebba?hl=en) (Chrome extension)
 
-![](/img/Pasted-image-20210705172824-1-1024x510.png)
+![](/img/Pasted-image-20210705172824-1-1024x510.webp)
 
 Kalau ini extension yang bisa bantu kita limit waktu di suatu website yang dibuka di Chrome. Mirip kaya Digital Wellbeing tadi.
 
