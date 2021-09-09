@@ -5,14 +5,14 @@ category: "thoughts"
 tags:
   - "social"
   - "humanity"
-coverImage: "/img/hands-people-friends-communication-45842.jpg"
+coverImage: "/img/hands-people-friends-communication-45842.webp"
 layout: layouts/post-en.njk
 permalink: /humble/
 lang: en
 translation: /baik/
 ---
 
-![humble](/img/hands-people-friends-communication-45842.jpg)
+![humble](/img/hands-people-friends-communication-45842.webp)
 
 Sometimes, we meet people who need help but have bad attitudes; an ojek who asking for direction without greeting first, or beggars who beg rudely. It indeed makes us feel uncomfortable afterwards so we then don't bother to help them.
 

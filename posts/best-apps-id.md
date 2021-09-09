@@ -5,14 +5,14 @@ category: "devs"
 tags:
   - "tools"
   - "productivity"
-coverImage: "/img/pexels-pixabay-38544.jpg"
+coverImage: "/img/pexels-pixabay-38544.webp"
 layout: layouts/post-id.njk
 permalink: /aplikasi/
 lang: id
 translation: /apps/
 ---
 
-![aplikasi](/img/pexels-pixabay-38544.jpg)
+![aplikasi](/img/pexels-pixabay-38544.webp)
 
 Dalam keseharian, saya selalu memakai berbagai macam aplikasi untuk menunjang produktivitas saya. Banyak sekali aplikasi dari berbagai yang dikembangkan developer dan tersedia untuk kita pakai, dan saya selalu ingin memakai aplikasi terbaik untuk setiap tugasnya. Saya bahkan rela menghabiskan beberapa jam untuk memastikan mana aplikasi yang terbaik bagi saya.
 

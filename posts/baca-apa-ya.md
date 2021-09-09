@@ -5,14 +5,14 @@ category: "thoughts"
 tags:
   - "reading"
   - "productivity"
-coverImage: "/img/2aa91-pexels-ma25c325abl-balland-3457273.jpg"
+coverImage: "/img/2aa91-pexels-ma25c325abl-balland-3457273.webp"
 layout: layouts/post-en.njk
 permalink: /what-to-read/
 lang: en
 translation: /baca-apa-ya/
 ---
 
-![kid-reading](/img/2aa91-pexels-ma25c325abl-balland-3457273.jpg)
+![kid-reading](/img/2aa91-pexels-ma25c325abl-balland-3457273.webp)
 
 We can be whatever we want if we read a lot. Elon Musk, founder of SpaceX who is now [the richest person in the world](https://www.bbc.com/news/technology-55578403#:~:text=Elon%20Musk%20has%20become%20the,had%20held%20it%20since%202017.), when asked how he understood the world of rocketry, his answer was, "I read books".
 

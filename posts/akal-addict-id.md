@@ -4,7 +4,7 @@ date: "2020-07-09"
 category: "thoughts"
 tags:
   - "thinking"
-coverImage: /img/sebastian-herrmann-mkQsoiskWSg-unsplash.jpg
+coverImage: /img/sebastian-herrmann-mkQsoiskWSg-unsplash.webp
 layout: layouts/post-id.njk
 permalink: /akal-addict/
 lang: id
@@ -24,7 +24,7 @@ async function main() {
 main();
 ```
 
-![debat](/img/sebastian-herrmann-mkQsoiskWSg-unsplash.jpg)
+![debat](/img/sebastian-herrmann-mkQsoiskWSg-unsplash.webp)
 
 Salah satu yang paling bikin males main _socmed_ adalah banyak ributnya. Apa aja diributin. Semua hal ada aja yang bahas. Tiap ada yang bahas ada aja yang bantah. Bahas, bantah, repeat. Kenapa pada ribut gini?
 

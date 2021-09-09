@@ -5,14 +5,14 @@ category: "thoughts"
 tags:
   - "career"
   - "advice"
-coverImage: "/img/neonbrand-y_6rqStQBYQ-unsplash.jpg"
+coverImage: "/img/neonbrand-y_6rqStQBYQ-unsplash.webp"
 permalink: /saran/
 layout: layouts/post-id.njk
 lang: id
 translation: /advice/
 ---
 
-![](/img/neonbrand-y_6rqStQBYQ-unsplash.jpg)
+![](/img/neonbrand-y_6rqStQBYQ-unsplash.webp)
 
 Buat orang yang lagi ngegelutin bidang baru, cara paling efektif buat berkembang adalah dengan minta saran ke orang yang udah dianggep jago di bidang itu, katanya.
 

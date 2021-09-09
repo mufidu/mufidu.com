@@ -6,7 +6,7 @@ tags:
   - "tech"
   - "social"
   - "online life"
-coverImage: "/img/pexels-pietro-jeng-360622.jpg"
+coverImage: "/img/pexels-pietro-jeng-360622.webp"
 layout: layouts/post-en.njk
 permalink: /antisocial/
 lang: en
@@ -14,7 +14,7 @@ translation: /ansosmed/
 featured: true
 ---
 
-![antisocial](/img/pexels-pietro-jeng-360622.jpg)
+![antisocial](/img/pexels-pietro-jeng-360622.webp)
 
 After buying a new cellphone yesterday, the first thing I did was to set the cellphone in such a way so that it could help me become a more productive person, not the other way around.
 

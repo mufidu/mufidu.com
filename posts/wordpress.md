@@ -4,7 +4,7 @@ date: "2021-05-23"
 category: "devs"
 tags:
   - "tutorial"
-coverImage: "/img/stephen-phillips-hostreviews-co-uk-sSPzmL7fpWc-unsplash.jpg"
+coverImage: "/img/stephen-phillips-hostreviews-co-uk-sSPzmL7fpWc-unsplash.webp"
 layout: layouts/post-en.njk
 permalink: /wordpress-optimization/
 lang: en
@@ -12,7 +12,7 @@ translation: /optimasi-wordpress/
 featured: true
 ---
 
-![wordpress](/img/stephen-phillips-hostreviews-co-uk-sSPzmL7fpWc-unsplash.jpg)
+![wordpress](/img/stephen-phillips-hostreviews-co-uk-sSPzmL7fpWc-unsplash.webp)
 
 > This post is written when I was still using Wordpress. I'm no longer using it, but I think the experience is still worth sharing and still relevant.
 

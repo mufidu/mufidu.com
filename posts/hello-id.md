@@ -4,14 +4,14 @@ date: "2020-10-16"
 category: "thoughts"
 tags:
   - "story"
-coverImage: "/img/pexels-moose-photos-1036627.jpg"
+coverImage: "/img/pexels-moose-photos-1036627.webp"
 permalink: /halo/
 layout: layouts/post-id.njk
 lang: id
 translation: /hello/
 ---
 
-![](/img/pexels-moose-photos-1036627.jpg)
+![](/img/pexels-moose-photos-1036627.webp)
 
 Beberapa bulan lalu pas pertama kali mulai niat aktif lagi nulis disini, saya bisa post tulisan sehari sekali, tulisan yang ga dipost bahkan bisa ada sampai tiga kali sehari. Saya rajin banget nulis waktu itu karena abis lulus SMA, saya ngerasa alhamdulillah banyak banget pelajaran yang saya dapet dan sayang kalo ilang begitu aja, jadi saya tulis dan saya post disini.
 

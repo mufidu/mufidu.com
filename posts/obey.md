@@ -5,14 +5,14 @@ category: "thoughts"
 tags:
   - "productivity"
   - "advice"
-coverImage: "/img/shallow-focus-photo-of-road-sign-on-pole-3162073.jpg"
+coverImage: "/img/shallow-focus-photo-of-road-sign-on-pole-3162073.webp"
 permalink: /obey/
 layout: layouts/post-en.njk
 lang: en
 translation: /patuh/
 ---
 
-![](/img/shallow-focus-photo-of-road-sign-on-pole-3162073.jpg)
+![](/img/shallow-focus-photo-of-road-sign-on-pole-3162073.webp)
 
 To make it easier for humans to achieve a goal, we made rules. So that it will be clear what should and should not be done in order to achieve the goal. Rules also distinguish humans from animals who simply live according to the laws of nature.
 

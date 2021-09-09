@@ -6,14 +6,14 @@ tags:
   - "social"
   - "humanity"
   - "knowledge"
-coverImage: "/img/man-wearing-black-and-teal-tuxedo-883362.jpg"
+coverImage: "/img/man-wearing-black-and-teal-tuxedo-883362.webp"
 permalink: /halo-effect/
 layout: layouts/post-en.njk
 lang: en
 translation: /efek-halo/
 ---
 
-![](/img/man-wearing-black-and-teal-tuxedo-883362.jpg)
+![](/img/man-wearing-black-and-teal-tuxedo-883362.webp)
 
 If we look at people whose clothes are neat, fragrant, polite, it is very likely that we will think of that person as someone who is intelligent, rich, and friendly. On the other hand, when we see people who are not good looking and dress carelessly, we will think that people are stupid, poor, and even mean.
 

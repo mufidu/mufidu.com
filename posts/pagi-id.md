@@ -4,14 +4,14 @@ date: "2020-07-14"
 category: "thoughts"
 tags:
   - "productivity"
-coverImage: "/img/photo-of-person-holding-alarm-clock-1028741.jpg"
+coverImage: "/img/photo-of-person-holding-alarm-clock-1028741.webp"
 permalink: /pagi/
 layout: layouts/post-id.njk
 lang: id
 translation: /morning/
 ---
 
-![](/img/photo-of-person-holding-alarm-clock-1028741.jpg)
+![](/img/photo-of-person-holding-alarm-clock-1028741.webp)
 
 Pepatah bilang,
 

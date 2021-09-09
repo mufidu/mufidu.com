@@ -6,7 +6,7 @@ tags:
   - "tech"
   - "thinking"
   - "humanity"
-coverImage: "/img/pexels-alex-knight-2599244.jpg"
+coverImage: "/img/pexels-alex-knight-2599244.webp"
 layout: layouts/post-en.njk
 permalink: /human-vs-ai/
 lang: en
@@ -14,7 +14,7 @@ translation: /manusia-vs-ai/
 featured: true
 ---
 
-![robot](/img/pexels-alex-knight-2599244.jpg)
+![robot](/img/pexels-alex-knight-2599244.webp)
 
 > Everything that exists or happens on earth, is judged to be good or bad depending on its effect on humans, not on animals, plants, nor even the earth itself.
 

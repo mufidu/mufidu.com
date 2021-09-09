@@ -7,14 +7,14 @@ tags:
   - "social"
   - "productivity"
   - "tutorial"
-coverImage: "/img/pexels-ready-made-3850250.jpg"
+coverImage: "/img/pexels-ready-made-3850250.webp"
 layout: layouts/post-id.njk
 permalink: /lepas-dari-socmed/
 lang: id
 translation: /get-rid-of-socmed/
 ---
 
-![](/img/pexels-ready-made-3850250.jpg)
+![](/img/pexels-ready-made-3850250.webp)
 
 Kebanyakan aktif di social media bisa bikin kita overwhelmed karena FOMO (fear of missing out). Kita jadi ngerasa harus buka Instagram terus karena takut banget ketinggalan story terakhir temen-temen kita.
 

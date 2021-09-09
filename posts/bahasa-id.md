@@ -5,14 +5,14 @@ category: "thoughts"
 tags:
   - "social"
   - "knowledge"
-coverImage: /img/pexels-pixabay-267669.jpg
+coverImage: /img/pexels-pixabay-267669.webp
 layout: layouts/post-id.njk
 permalink: /bahasa/
 lang: id
 translation: /language/
 ---
 
-![bahasa](/img/pexels-pixabay-267669.jpg)
+![bahasa](/img/pexels-pixabay-267669.webp)
 
 Kita semua perlu komunikasi dengan orang lain untuk mendapatkan apa-apa yang ga bisa kita dapatkan sendiri. Untuk itu, kita memerlukan suatu alat yang bisa menghubungkan kita semua. Dan kita punya satu, namanya <mark>**bahasa**</mark>. Namun, ternyata bahasa bukan cuma buat itu.
 

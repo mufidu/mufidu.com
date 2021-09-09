@@ -5,14 +5,14 @@ category: "thoughts"
 tags:
   - "career"
   - "advice"
-coverImage: "/img/neonbrand-y_6rqStQBYQ-unsplash.jpg"
+coverImage: "/img/neonbrand-y_6rqStQBYQ-unsplash.webp"
 permalink: /advice/
 layout: layouts/post-en.njk
 lang: en
 translation: /saran/
 ---
 
-![](/img/neonbrand-y_6rqStQBYQ-unsplash.jpg)
+![](/img/neonbrand-y_6rqStQBYQ-unsplash.webp)
 
 For people who are new in a field, the most effective way to grow is to ask for advice from people who are already considered good at that field, as many said.
 

@@ -4,14 +4,14 @@ date: "2020-07-20"
 category: "thoughts"
 tags:
   - "productivity"
-coverImage: "/img/blades-conservation-ecology-efficiency-213798.jpg"
+coverImage: "/img/blades-conservation-ecology-efficiency-213798.webp"
 layout: layouts/post-id.njk
 permalink: /efisien/
 lang: id
 translation: /efficient/
 ---
 
-![efficient](/img/blades-conservation-ecology-efficiency-213798.jpg)
+![efficient](/img/blades-conservation-ecology-efficiency-213798.webp)
 
 Kadang ada beberapa waktu dimana kita pengen banget ngelakuin sesuatu dan disibukin sama hal itu, kita punya waktu dan tenaga yang pengen kita salurin ke sesuatu, tapi kita gatau kemana, karena kita gamau waktu dan tenaga kita kebuang sia-sia, tersalur tapi ke suatu hal yang kecil manfaatnya, atau malah gaada. Untuk itu, ada satu prinsip yang harus kita tau.
 

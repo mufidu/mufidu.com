@@ -5,14 +5,14 @@ category: "thoughts"
 tags:
   - "social"
   - "online life"
-coverImage: "/img/pexels-pixabay-371924.jpg"
+coverImage: "/img/pexels-pixabay-371924.webp"
 permalink: /detox/
 layout: layouts/post-en.njk
 lang: en
 translation: /detoks/
 ---
 
-![](/img/pexels-pixabay-371924.jpg)
+![](/img/pexels-pixabay-371924.webp)
 
 According to [Halodoc](https://www.halodoc.com/jangan-salah-inilah-pencepatan-about-dopamine), Dopamine is a chemical in the brain that increases when a person experiences pleasant sensations. But it turns out that this substance also makes us lazy. How come?
 

@@ -5,14 +5,14 @@ category: "thoughts"
 tags:
   - "reading"
   - "productivity"
-coverImage: "/img/2aa91-pexels-ma25c325abl-balland-3457273.jpg"
+coverImage: "/img/2aa91-pexels-ma25c325abl-balland-3457273.webp"
 layout: layouts/post-id.njk
 permalink: /baca-apa-ya/
 lang: id
 translation: /what-to-read/
 ---
 
-![anak-baca-buku](/img/2aa91-pexels-ma25c325abl-balland-3457273.jpg)
+![anak-baca-buku](/img/2aa91-pexels-ma25c325abl-balland-3457273.webp)
 
 Kita bisa jadi apa aja yang kita mau kalo banyak baca. Elon Musk, founder SpaceX yang sekarang adalah [orang terkaya di dunia](https://www.bbc.com/news/technology-55578403#:~:text=Elon%20Musk%20has%20become%20the,had%20held%20it%20since%202017.), ketika ditanya gimana dia bisa paham dunia peroketan, jawabannya, "I read books".
 

@@ -5,14 +5,14 @@ category: "thoughts"
 tags:
   - "productivity"
   - "tutorial"
-coverImage: "/img/pexels-jessica-lewis-2381853.jpg"
+coverImage: "/img/pexels-jessica-lewis-2381853.webp"
 layout: layouts/post-id.njk
 permalink: /fokus/
 lang: id
 translation: /focus/
 ---
 
-![](/img/pexels-jessica-lewis-2381853.jpg)
+![](/img/pexels-jessica-lewis-2381853.webp)
 
 Menjadi fokus ketika mengerjakan sesuatu, apapun itu, akan sangat membantu kita dalam menyelesaikannya. Waktu dan tenaga yang dibutuhkan jadi lebih sedikit dibanding melakukannya secara multitasking atau pindah-pindah, ga fokus. Itu karena setiap kita mau mulai ngerjain itu lagi, bakal ada energi lebih yang dibutuhinn buat mulai lagi dari awal, beda kalo misalnya kita fokus, selesain dalam sekali mulai, maka energi aktivasinya cuma dibutuhin sekali aja.
 

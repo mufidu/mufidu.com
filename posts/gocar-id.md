@@ -4,14 +4,14 @@ date: "2019-06-28"
 category: "thoughts"
 tags:
   - "story"
-coverImage: "/img/photo-of-yellow-taxi-parked-near-sidewalk-2399254.jpg"
+coverImage: "/img/photo-of-yellow-taxi-parked-near-sidewalk-2399254.webp"
 permalink: /gocar-ngobrol/
 layout: layouts/post-id.njk
 lang: id
 translation: /gocar-convo/
 ---
 
-![](/img/photo-of-yellow-taxi-parked-near-sidewalk-2399254.jpg)
+![](/img/photo-of-yellow-taxi-parked-near-sidewalk-2399254.webp)
 
 ## one day,
 

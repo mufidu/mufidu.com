@@ -5,14 +5,14 @@ category: "thoughts"
 tags:
   - "productivity"
   - "story"
-coverImage: "/img/pexels-jeshootscom-442576.jpg"
+coverImage: "/img/pexels-jeshootscom-442576.webp"
 permalink: /main/
 layout: layouts/post-id.njk
 lang: id
 translation: /game/
 ---
 
-![](/img/pexels-jeshootscom-442576.jpg)
+![](/img/pexels-jeshootscom-442576.webp)
 
 Pagi tadi gua baru install PES 2017 di laptop gua. Ya walaupun 2017 tapi udah di mod jadi mirip-mirip lah ama yang 2020. Pemainnya juga udah ditransfer. Terus gua keasikan. Gila padahal gua udah ada jadwal kuliah hari ini. Rasa nyesel sih ada.
 

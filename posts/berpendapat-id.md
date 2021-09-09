@@ -5,14 +5,14 @@ category: "thoughts"
 tags:
   - "social"
   - "online life"
-coverImage: "/img/news-typewritten-on-white-paper-4057663.jpg"
+coverImage: "/img/news-typewritten-on-white-paper-4057663.webp"
 layout: layouts/post-id.njk
 permalink: /ribut/
 lang: id
 translation: /noise/
 ---
 
-![noise](/img/news-typewritten-on-white-paper-4057663.jpg)
+![noise](/img/news-typewritten-on-white-paper-4057663.webp)
 
 Belakangan ini kalo liat di Twitter, lagi banyak banget yang diributin. Banyak. Karena gua lagi mau ngadepin UTBK, gua rasa gua harus banyakin positive vibes, jadi gua pindahin region explore ke US, yang trendingnya keren-keren dan gada ributnya, damai.
 

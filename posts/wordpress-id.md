@@ -4,7 +4,7 @@ date: "2021-05-23"
 category: "devs"
 tags:
   - "tutorial"
-coverImage: "/img/stephen-phillips-hostreviews-co-uk-sSPzmL7fpWc-unsplash.jpg"
+coverImage: "/img/stephen-phillips-hostreviews-co-uk-sSPzmL7fpWc-unsplash.webp"
 layout: layouts/post-id.njk
 permalink: /optimasi-wordpress/
 lang: id
@@ -12,7 +12,7 @@ translation: /wordpress-optimization/
 featured: true
 ---
 
-![wordpress](/img/stephen-phillips-hostreviews-co-uk-sSPzmL7fpWc-unsplash.jpg)
+![wordpress](/img/stephen-phillips-hostreviews-co-uk-sSPzmL7fpWc-unsplash.webp)
 
 > Tulisan ini ditulis pas saya masih pakai Wordpress. Sekarang saya udah gapakai lagi, tapi tulisan ini masih tetap relevan buat yang masih atau baru pakai Wordpress.
 

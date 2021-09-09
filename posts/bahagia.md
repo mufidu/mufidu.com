@@ -4,14 +4,14 @@ date: "2020-07-30"
 category: "thoughts"
 tags:
   - "happiness"
-coverImage: "/img/child-jumping-into-body-of-water-2387702.jpg"
+coverImage: "/img/child-jumping-into-body-of-water-2387702.webp"
 layout: layouts/post-en.njk
 permalink: /happiness/
 lang: en
 translation: /bahagia/
 ---
 
-![happy](/img/child-jumping-into-body-of-water-2387702.jpg)
+![happy](/img/child-jumping-into-body-of-water-2387702.webp)
 
 Our happiness standard is indeed different. So don't be surprised that even if we are richer, more handsome, smarter than someone, and we see how he look really happier than us even though they are less rich, less handsome, and less smarter than us.
 

@@ -4,14 +4,14 @@ date: "2020-07-14"
 category: "thoughts"
 tags:
   - "productivity"
-coverImage: "/img/photo-of-person-holding-alarm-clock-1028741.jpg"
+coverImage: "/img/photo-of-person-holding-alarm-clock-1028741.webp"
 permalink: /morning/
 layout: layouts/post-en.njk
 lang: en
 translation: /pagi/
 ---
 
-![](/img/photo-of-person-holding-alarm-clock-1028741.jpg)
+![](/img/photo-of-person-holding-alarm-clock-1028741.webp)
 
 The saying goes,
 

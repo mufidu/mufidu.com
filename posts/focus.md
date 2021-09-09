@@ -5,14 +5,14 @@ category: "thoughts"
 tags:
   - "productivity"
   - "tutorial"
-coverImage: "/img/pexels-jessica-lewis-2381853.jpg"
+coverImage: "/img/pexels-jessica-lewis-2381853.webp"
 layout: layouts/post-en.njk
 permalink: /focus/
 lang: en
 translation: /fokus/
 ---
 
-![](/img/pexels-jessica-lewis-2381853.jpg)
+![](/img/pexels-jessica-lewis-2381853.webp)
 
 Being focused when doing something whatever it is, will really help us in getting it done. The time and energy required is less than doing it while multitasking. That's because every time we start doing it again, there will be more energy needed to start again from the beginning. If we focus and finish in one start, then the activation energy is only needed once.
 

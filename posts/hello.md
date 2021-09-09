@@ -4,14 +4,14 @@ date: "2020-10-16"
 category: "thoughts"
 tags:
   - "story"
-coverImage: "/img/pexels-moose-photos-1036627.jpg"
+coverImage: "/img/pexels-moose-photos-1036627.webp"
 permalink: /hello/
 layout: layouts/post-en.njk
 lang: en
 translation: /halo/
 ---
 
-![](/img/pexels-moose-photos-1036627.jpg)
+![](/img/pexels-moose-photos-1036627.webp)
 
 A few months ago, when I started writing here, I was able to write a post once a day, writings that weren't posted could even be up to three times a day. I was very diligent in writing at that time because after graduating from high school, I feel that I have learned a lot of lessons, thank God. I will regret if they just disappear, so I wrote it down and posted it here.
 

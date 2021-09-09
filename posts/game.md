@@ -5,14 +5,14 @@ category: "thoughts"
 tags:
   - "productivity"
   - "story"
-coverImage: "/img/pexels-jeshootscom-442576.jpg"
+coverImage: "/img/pexels-jeshootscom-442576.webp"
 permalink: /game/
 layout: layouts/post-en.njk
 lang: en
 translation: /main/
 ---
 
-![](/img/pexels-jeshootscom-442576.jpg)
+![](/img/pexels-jeshootscom-442576.webp)
 
 This morning I just installed PES 2017 on my laptop. Yea, even though it's 2017 but it's been modded so it's similar to the 2020 one. The players have also been transferred. It was so fun. But then I spent too much time on it. I'm little bit panicked because I already have a class schedule today. I regret.
 

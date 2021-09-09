@@ -7,14 +7,14 @@ tags:
   - "social"
   - "productivity"
   - "tutorial"
-coverImage: "/img/pexels-ready-made-3850250.jpg"
+coverImage: "/img/pexels-ready-made-3850250.webp"
 layout: layouts/post-en.njk
 permalink: /get-rid-of-socmed/
 lang: en
 translation: /lepas-dari-socmed/
 ---
 
-![](/img/pexels-ready-made-3850250.jpg)
+![](/img/pexels-ready-made-3850250.webp)
 
 Being active on social media can overwhelm us, but we continue using it because of FOMO (fear of missing out). We feel like we have to open Instagram all the time because we are really afraid to miss the last Story from our friends.
 

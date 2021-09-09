@@ -5,14 +5,14 @@ category: "thoughts"
 tags:
   - "social"
   - "humanity"
-coverImage: "/img/hands-people-friends-communication-45842.jpg"
+coverImage: "/img/hands-people-friends-communication-45842.webp"
 layout: layouts/post-id.njk
 permalink: /baik/
 lang: id
 translation: /humble/
 ---
 
-![humble](/img/hands-people-friends-communication-45842.jpg)
+![humble](/img/hands-people-friends-communication-45842.webp)
 
 Sering ketika kita ketemu ato ngadepin orang yang bad attitude, kaya misalnya nanya jalan ga permisi dulu, ketemu pengemis yang mintanya ga sopan, kita bakal risih dan bahkan ga bantuin.
 

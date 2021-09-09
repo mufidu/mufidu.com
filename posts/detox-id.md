@@ -5,14 +5,14 @@ category: "thoughts"
 tags:
   - "social"
   - "online life"
-coverImage: "/img/pexels-pixabay-371924.jpg"
+coverImage: "/img/pexels-pixabay-371924.webp"
 permalink: /detoks/
 layout: layouts/post-id.njk
 lang: id
 translation: /detox/
 ---
 
-![](/img/pexels-pixabay-371924.jpg)
+![](/img/pexels-pixabay-371924.webp)
 
 Menurut [Halodoc](https://www.halodoc.com/jangan-salah-inilah-penjelasan-tentang-dopamin), Dopamine adalah zat kimia di dalam otak yang bisa meningkat kadarnya saat seseorang mengalami sensasi yang menyenangkan. Tapi ternyata zat ini yang bikin kita males. Kok bisa?
 

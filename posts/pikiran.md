@@ -5,14 +5,14 @@ category: "thoughts"
 tags:
   - "thinking"
   - "tutorial"
-coverImage: "/img/pexels-martin-pechy-594610.jpg"
+coverImage: "/img/pexels-martin-pechy-594610.webp"
 permalink: /overthink/
 lang: en
 layout: layouts/post-en.njk
 translation: /pikir/
 ---
 
-![](/img/pexels-martin-pechy-594610.jpg)
+![](/img/pexels-martin-pechy-594610.webp)
 
 I think we all have experienced this. When we are lying down, going to sleep, suddenly our brains think about something heavy or things that are not comfortable to think about so that it becomes difficult for us to sleep. But when it's time to learn, it can't even think.
 

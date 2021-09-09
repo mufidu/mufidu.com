@@ -4,14 +4,14 @@ date: "2020-07-09"
 category: "thoughts"
 tags:
   - "thinking"
-coverImage: /img/sebastian-herrmann-mkQsoiskWSg-unsplash.jpg
+coverImage: /img/sebastian-herrmann-mkQsoiskWSg-unsplash.webp
 layout: layouts/post-en.njk
 permalink: /mind-stucked/
 lang: en
 translation: /akal-addict/
 ---
 
-![debate](/img/sebastian-herrmann-mkQsoiskWSg-unsplash.jpg)
+![debate](/img/sebastian-herrmann-mkQsoiskWSg-unsplash.webp)
 
 One of the things that makes we hate _socmed_ is a lot of noise in that place. There is a discussion for any single thing. Every time someone talks about it, chance are someone will deny it. Discuss, deny, repeat. Why would we waste our time like that?
 

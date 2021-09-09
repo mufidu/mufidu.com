@@ -5,14 +5,14 @@ category: "thoughts"
 tags:
   - "thinking"
   - "tutorial"
-coverImage: "/img/pexels-martin-pechy-594610.jpg"
+coverImage: "/img/pexels-martin-pechy-594610.webp"
 permalink: /pikir/
 lang: id
 layout: layouts/post-id.njk
 translation: /overthink/
 ---
 
-![](/img/pexels-martin-pechy-594610.jpg)
+![](/img/pexels-martin-pechy-594610.webp)
 
 Ga jarang pas kita udah rebahan pengen tidur, tapi tiba-tiba otak kita malah mikirin sesuatu yang berat atau hal-hal yang ga nyaman dipikirin sehingga kita jadi susah tidur. Giliran pengen belajar, gabisa mikir.
 

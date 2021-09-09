@@ -6,7 +6,7 @@ tags:
   - "tech"
   - "thinking"
   - "humanity"
-coverImage: "/img/pexels-alex-knight-2599244.jpg"
+coverImage: "/img/pexels-alex-knight-2599244.webp"
 layout: layouts/post-id.njk
 permalink: /manusia-vs-ai/
 lang: id
@@ -14,7 +14,7 @@ translation: /human-vs-ai/
 featured: true
 ---
 
-![robot](/img/pexels-alex-knight-2599244.jpg)
+![robot](/img/pexels-alex-knight-2599244.webp)
 
 > Segala sesuatu yang ada atau yang terjadi di bumi, dinilai baik atau buruknya tergantung dari efeknya bagi manusia, bukan bagi para hewan, tumbuhan, bahkan bumi itu sendiri.
 

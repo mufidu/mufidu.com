@@ -6,7 +6,7 @@ tags:
   - "tech"
   - "social"
   - "online life"
-coverImage: "/img/pexels-pietro-jeng-360622.jpg"
+coverImage: "/img/pexels-pietro-jeng-360622.webp"
 layout: layouts/post-id.njk
 permalink: /ansosmed/
 lang: id
@@ -14,7 +14,7 @@ translation: /antisocial/
 featured: true
 ---
 
-![ansosmed](/img/pexels-pietro-jeng-360622.jpg)
+![ansosmed](/img/pexels-pietro-jeng-360622.webp)
 
 Setelah beli hp baru kemarin, hal pertama yang saya lakuin adalah setting itu hp sedemikian rupa biar bisa bantu saya jadi orang yang lebih produktif, bukan sebaliknya.
 

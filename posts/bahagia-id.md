@@ -4,14 +4,14 @@ date: "2020-07-30"
 category: "thoughts"
 tags:
   - "happiness"
-coverImage: "/img/child-jumping-into-body-of-water-2387702.jpg"
+coverImage: "/img/child-jumping-into-body-of-water-2387702.webp"
 layout: layouts/post-id.njk
 permalink: /bahagia/
 lang: id
 translation: /happiness/
 ---
 
-![bahagia](/img/child-jumping-into-body-of-water-2387702.jpg)
+![bahagia](/img/child-jumping-into-body-of-water-2387702.webp)
 
 Standar kebahagiaan manusia emang beda-beda. Jadi walaupun misalnya kita lebih kaya, lebih ganteng, lebih pintar dari seseorang atau dari sekelompok orang, dan kita liat kok mereka keliatannya malah bahagia banget padahal kalah kaya, kalah pinter dari kita, ya jangan heran.
 

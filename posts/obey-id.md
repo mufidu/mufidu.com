@@ -5,14 +5,14 @@ category: "thoughts"
 tags:
   - "productivity"
   - "advice"
-coverImage: "/img/shallow-focus-photo-of-road-sign-on-pole-3162073.jpg"
+coverImage: "/img/shallow-focus-photo-of-road-sign-on-pole-3162073.webp"
 permalink: /patuh/
 layout: layouts/post-id.njk
 lang: id
 translation: /obey/
 ---
 
-![](/img/shallow-focus-photo-of-road-sign-on-pole-3162073.jpg)
+![](/img/shallow-focus-photo-of-road-sign-on-pole-3162073.webp)
 
 Untuk mempermudah manusia mencapai suatu tujuan, dibuatlah aturan sehingga jelas apa saja yang harus dan jangan dilakukan demi tujuan tercapai. Aturan juga membedakan manusia dengan hewan yang sekedar hidup berdasarkan hukum alam.
 

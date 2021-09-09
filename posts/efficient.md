@@ -4,14 +4,14 @@ date: "2020-07-20"
 category: "thoughts"
 tags:
   - "productivity"
-coverImage: "/img/blades-conservation-ecology-efficiency-213798.jpg"
+coverImage: "/img/blades-conservation-ecology-efficiency-213798.webp"
 layout: layouts/post-en.njk
 permalink: /efficient/
 lang: en
 translation: /efisien/
 ---
 
-![efficient](/img/blades-conservation-ecology-efficiency-213798.jpg)
+![efficient](/img/blades-conservation-ecology-efficiency-213798.webp)
 
 Sometimes there are times when we really want to do something and be busy be doing it. We have time and energy that we want to give into something, but we don't know what, because we don't want our time and energy to be wasted; doing something which has little to no benefit for us. To avoid that, there is one principle that we must know.
 

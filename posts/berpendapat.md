@@ -5,14 +5,14 @@ category: "thoughts"
 tags:
   - "social"
   - "online life"
-coverImage: "/img/news-typewritten-on-white-paper-4057663.jpg"
+coverImage: "/img/news-typewritten-on-white-paper-4057663.webp"
 layout: layouts/post-en.njk
 permalink: /noise/
 lang: en
 translation: /ribut/
 ---
 
-![noise](/img/news-typewritten-on-white-paper-4057663.jpg)
+![noise](/img/news-typewritten-on-white-paper-4057663.webp)
 
 Lately, if you take a look at Twitter, there's a lot of fuss. Lots. Because I will take the college exam, I think I need to do more positive vibes, so I move my Explore's region to the US, where the trending is cooler and there is little to no fuss.
 

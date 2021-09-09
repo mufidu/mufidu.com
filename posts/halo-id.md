@@ -6,14 +6,14 @@ tags:
   - "social"
   - "humanity"
   - "knowledge"
-coverImage: "/img/man-wearing-black-and-teal-tuxedo-883362.jpg"
+coverImage: "/img/man-wearing-black-and-teal-tuxedo-883362.webp"
 permalink: /efek-halo/
 layout: layouts/post-id.njk
 lang: id
 translation: /halo-effect/
 ---
 
-![](/img/man-wearing-black-and-teal-tuxedo-883362.jpg)
+![](/img/man-wearing-black-and-teal-tuxedo-883362.webp)
 
 Kalo kita liat orang yang bajunya rapih, wangi, sopan, gede kemungkinannya kita bakal nganggep orang itu termasuk orang yang cerdas, kaya, dan ramah. Sebaliknya, ngeliat orang yang ga rapih dan bajunya asal-asalan, kita bakal nganggep orang itu bodoh, miskin, dan jahat.
 

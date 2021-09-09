@@ -5,14 +5,14 @@ category: "devs"
 tags:
   - "tools"
   - "productivity"
-coverImage: "/img/pexels-pixabay-38544.jpg"
+coverImage: "/img/pexels-pixabay-38544.webp"
 layout: layouts/post-en.njk
 permalink: /apps/
 lang: en
 translation: /aplikasi/
 ---
 
-![apps](/img/pexels-pixabay-38544.jpg)
+![apps](/img/pexels-pixabay-38544.webp)
 
 In my daily life, I always use various applications to support my productivity. There are so many different apps developed and available for us to use, and I always want to use the best apps for each task. I'm even willing to spend a few hours trying to figure out which app is the best for me.
 

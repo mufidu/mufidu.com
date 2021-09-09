@@ -5,14 +5,14 @@ category: "thoughts"
 tags:
   - "social"
   - "knowledge"
-coverImage: /img/pexels-pixabay-267669.jpg
+coverImage: /img/pexels-pixabay-267669.webp
 layout: layouts/post-en.njk
 permalink: /language/
 lang: en
 translation: /bahasa/
 ---
 
-![language](/img/pexels-pixabay-267669.jpg)
+![language](/img/pexels-pixabay-267669.webp)
 
 We all need to communicate with other people for getting what we can't get ourselves. For that, we need a tool that can connect us all. And we have already have that, its name is <mark>**language**</mark>. However, it turns out that language is not just for that.
 
