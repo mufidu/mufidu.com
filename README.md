@@ -8,6 +8,32 @@ Another tech stack:
 - Templating Engine: [Nunjucks](https://mozilla.github.io/nunjucks/)
 - CSS Framework: [Bahunya](https://kimeiga.github.io/bahunya/)
 
+## Guides
+
+### Running locally
+
+```bash
+npm start
+```
+
+It will serve the `_site` directory on port 8080.
+
+### Building for production
+
+```bash
+npm run build
+```
+
+It will build the site and copy all generated images before deploying. Please **commit after running this command**.
+
+### Deploying
+
+Just set the build command to
+
+```bash
+npm run deploy
+```
+
 ## Features
 
 This is a list of features that this site has. Mostly already come from the template. I added and deleted some features based on my needs. Will grow as I add new features.
@@ -99,5 +125,5 @@ Generates a strong CSP for the base template.
 ### Build performance
 
 - Downloaded remote images, and generated sizes are cached in the local filesystem…
-- …and SHOULD be committed to git.
-- `.persistimages.sh` helps with this.
+- Build script automatically copy the generated images to the `img` folder
+  - ...so the images are not processed again during deployment (and thus the build time is reduced).
