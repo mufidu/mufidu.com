@@ -78,11 +78,11 @@ Tapi biasanya aplikasi yang all-in-one gitu ada iklannya yang lumayan ganggu dan
 
 Aplikasi qur'an yang saya pakai itu [Qur'an for Android](https://play.google.com/store/apps/details?id=com.quran.labs.androidquran&hl=en&gl=US) dari [quran.com](http://quran.com). Disitu qurannya per halaman, bukan per ayat kaya aplikasi lain, dan ada banyak murottalnya juga yang bisa diplay per ayat. Keren banget. Gada iklan lagi.
 
-![quran](https://mufidu.files.wordpress.com/2021/05/fd869-image.png)
+![quran](/img/qurancom.webp)
 
 Buat jadwal solat saya pakai [Prayer Times and Qibla](https://play.google.com/store/apps/details?id=com.reworewo.prayertimes&hl=en&gl=US), fiturnya yang paling saya suka itu widgetnya yang bisa nampilin jadwal solat di home screen yang bisa kita customize nyesuain sama home screen kita.
 
-![prayer-times](https://mufidu.files.wordpress.com/2021/05/26fd8-image.png)
+![prayer-times](/img/prayertimes.webp)
 
 Notifikasinya juga bisa kita setting biar selalu nyala walau lagi di mode Silent atau Do Not Disturb (DND). In App Purchase ga terlalu dibutuhin karena cuman nambah Themes dan bisa play azan dari HP kita.
 

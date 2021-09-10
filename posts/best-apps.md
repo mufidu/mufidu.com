@@ -80,11 +80,11 @@ But usually all-in-one applications have ads that are quite annoying and require
 
 The qur'an application that I use is [Qur'an for Android](https://play.google.com/store/apps/details?id=com.quran.labs.androidquran&hl=en&gl=US) from [quran. com](https://quran.com). In this app, the quran is per page, not per verse like other applications. There are also many murottals that can be played per verse. Very cool. No more ads.
 
-![quran](https://mufidu.files.wordpress.com/2021/05/fd869-image.png)
+![quran](/img/qurancom.webp)
 
 For prayer schedule I'm using [Prayer Times and Qibla](https://play.google.com/store/apps/details?id=com.reworewo.prayertimes&hl=en&gl=US). It can show prayer schedules on the home screen that we can customize according through a widget.
 
-![prayer-times](https://mufidu.files.wordpress.com/2021/05/26fd8-image.png)
+![prayer-times](/img/prayertimes.webp)
 
 We can also set the notification so that it is always on even if our phone is in Silent or Do Not Disturb (DND) mode. In App Purchase is not really needed because it only adds Themes and can play adhan from our phones.
 
