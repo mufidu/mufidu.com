@@ -9,11 +9,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Content-Security-Policy" content="{{ csp.regular | safe }}">
-    <link rel="icon" href="{{ '/img/favicon/favicon-192x192.png' | addHash }}" type="image/png">
+    <link rel="icon" href="{{ '/img/favicon/favicon-32x32.png' | addHash }}" type="image/png">
     <meta name="theme-color" content="#f9c412">
     <meta name="robots" content="max-snippet:-1, max-image-preview: large, max-video-preview: -1">
     <title>{{ renderData.title or title or metadata.title | escape }}</title>
     <meta property="og:title" content="{{ renderData.title or title or metadata.title | escape  }}">
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ page.url | url }}" />
     {% set desc = renderData.description or description %}
     {% if not desc %}
       {% set desc = content | striptags | truncate(140) %}
@@ -27,6 +29,8 @@
     <meta name="twitter:creator" content="@{{ metadata.author.twitterHandle }}">
     {% if image %}
       <meta property="og:image" content="{{ image | absoluteUrl(metadata.url) }}">
+    {% elif page.coverImage %}
+      <meta property="og:image" content="{{ page.coverImage | absoluteUrl(metadata.url) }}">
     {% endif %}
 
     <link rel="canonical" href="{{ metadata.url }}{{ canonicalUrl or page.url }}">
