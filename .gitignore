@@ -142,3 +142,4 @@ js/min.js.map
 .netlify/
 export
 css/
+\_site/
