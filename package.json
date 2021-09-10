@@ -6,7 +6,7 @@
   "scripts": {
     "watch:sass": "npx sass --watch --style=expanded sass/main.scss css/main.css",
     "build:sass": "npx sass --style=expanded sass/main.scss css/main.css",
-    "build": "npm run js-build && npm run build:sass && eleventy",
+    "build": "npm run js-build && npm run build:sass && eleventy && ./.persistimages.sh",
     "start": "concurrently \"npm run watch:sass\" \"eleventy --serve\" \"npm run js-build-watch\"",
     "serve": "DEBUG=Eleventy:Benchmark* npx @11ty/eleventy --serve",
     "js-build": "rollup -c rollup.config.js",
