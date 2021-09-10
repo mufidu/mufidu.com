@@ -5,7 +5,7 @@ category: "thoughts"
 tags:
   - "productivity"
 coverImage: "/img/blades-conservation-ecology-efficiency-213798.webp"
-layout: layouts/post-en.njk
+layout: post-en
 permalink: /efficient/
 lang: en
 translation: /efisien/

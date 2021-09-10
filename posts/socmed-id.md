@@ -8,7 +8,7 @@ tags:
   - "productivity"
   - "tutorial"
 coverImage: "/img/pexels-ready-made-3850250.webp"
-layout: layouts/post-id.njk
+layout: post-id
 permalink: /lepas-dari-socmed/
 lang: id
 translation: /get-rid-of-socmed/

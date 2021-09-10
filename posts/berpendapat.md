@@ -6,7 +6,7 @@ tags:
   - "social"
   - "online life"
 coverImage: "/img/news-typewritten-on-white-paper-4057663.webp"
-layout: layouts/post-en.njk
+layout: post-en
 permalink: /noise/
 lang: en
 translation: /ribut/

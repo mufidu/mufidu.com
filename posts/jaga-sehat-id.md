@@ -6,7 +6,7 @@ tags:
   - "advice"
 coverImage: "/img/pexels-pixabay-276517.webp"
 permalink: /jaga-kesehatan/
-layout: layouts/post-id.njk
+layout: post-id
 lang: id
 translation: /stay-safe/
 ---

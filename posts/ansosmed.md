@@ -7,7 +7,7 @@ tags:
   - "social"
   - "online life"
 coverImage: "/img/pexels-pietro-jeng-360622.webp"
-layout: layouts/post-en.njk
+layout: post-en
 permalink: /antisocial/
 lang: en
 translation: /ansosmed/

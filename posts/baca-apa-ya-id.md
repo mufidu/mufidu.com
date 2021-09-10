@@ -6,7 +6,7 @@ tags:
   - "reading"
   - "productivity"
 coverImage: "/img/2aa91-pexels-ma25c325abl-balland-3457273.webp"
-layout: layouts/post-id.njk
+layout: post-id
 permalink: /baca-apa-ya/
 lang: id
 translation: /what-to-read/

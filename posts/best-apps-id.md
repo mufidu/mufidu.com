@@ -6,7 +6,7 @@ tags:
   - "tools"
   - "productivity"
 coverImage: "/img/pexels-pixabay-38544.webp"
-layout: layouts/post-id.njk
+layout: post-id
 permalink: /aplikasi/
 lang: id
 translation: /apps/

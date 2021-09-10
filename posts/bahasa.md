@@ -6,7 +6,7 @@ tags:
   - "social"
   - "knowledge"
 coverImage: /img/pexels-pixabay-267669.webp
-layout: layouts/post-en.njk
+layout: post-en
 permalink: /language/
 lang: en
 translation: /bahasa/

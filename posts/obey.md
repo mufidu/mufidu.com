@@ -7,7 +7,7 @@ tags:
   - "advice"
 coverImage: "/img/shallow-focus-photo-of-road-sign-on-pole-3162073.webp"
 permalink: /obey/
-layout: layouts/post-en.njk
+layout: post-en
 lang: en
 translation: /patuh/
 ---

@@ -8,7 +8,7 @@ tags:
   - "knowledge"
 coverImage: "/img/man-wearing-black-and-teal-tuxedo-883362.webp"
 permalink: /efek-halo/
-layout: layouts/post-id.njk
+layout: post-id
 lang: id
 translation: /halo-effect/
 ---

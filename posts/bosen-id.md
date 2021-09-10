@@ -5,7 +5,7 @@ category: "thoughts"
 tags:
   - "productivity"
 coverImage: "/img/pexels-photo-4114905.webp"
-layout: layouts/post-id.njk
+layout: post-id
 permalink: /bosen/
 lang: id
 translation: /bored/

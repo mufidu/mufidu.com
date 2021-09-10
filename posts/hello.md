@@ -6,7 +6,7 @@ tags:
   - "story"
 coverImage: "/img/pexels-moose-photos-1036627.webp"
 permalink: /hello/
-layout: layouts/post-en.njk
+layout: post-en
 lang: en
 translation: /halo/
 ---

@@ -7,7 +7,7 @@ tags:
   - "story"
 coverImage: "/img/pexels-jeshootscom-442576.webp"
 permalink: /game/
-layout: layouts/post-en.njk
+layout: post-en
 lang: en
 translation: /main/
 ---

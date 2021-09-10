@@ -7,7 +7,7 @@ tags:
   - "thinking"
   - "humanity"
 coverImage: "/img/pexels-alex-knight-2599244.webp"
-layout: layouts/post-id.njk
+layout: post-id
 permalink: /manusia-vs-ai/
 lang: id
 translation: /human-vs-ai/

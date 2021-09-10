@@ -7,7 +7,7 @@ tags:
   - "advice"
 coverImage: "/img/neonbrand-y_6rqStQBYQ-unsplash.webp"
 permalink: /saran/
-layout: layouts/post-id.njk
+layout: post-id
 lang: id
 translation: /advice/
 ---

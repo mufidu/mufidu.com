@@ -5,7 +5,7 @@ category: "thoughts"
 tags:
   - "happiness"
 coverImage: "/img/child-jumping-into-body-of-water-2387702.webp"
-layout: layouts/post-id.njk
+layout: post-id
 permalink: /bahagia/
 lang: id
 translation: /happiness/

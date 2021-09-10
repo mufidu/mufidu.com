@@ -5,7 +5,7 @@ category: "thoughts"
 tags:
   - "thinking"
 coverImage: /img/sebastian-herrmann-mkQsoiskWSg-unsplash.webp
-layout: layouts/post-id.njk
+layout: post-id
 permalink: /akal-addict/
 lang: id
 translation: /mind-stucked/

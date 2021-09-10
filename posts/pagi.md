@@ -6,7 +6,7 @@ tags:
   - "productivity"
 coverImage: "/img/photo-of-person-holding-alarm-clock-1028741.webp"
 permalink: /morning/
-layout: layouts/post-en.njk
+layout: post-en
 lang: en
 translation: /pagi/
 ---

@@ -6,7 +6,7 @@ tags:
   - "advice"
 coverImage: "/img/pexels-pixabay-276517.webp"
 permalink: /stay-safe/
-layout: layouts/post-en.njk
+layout: post-en
 lang: en
 translation: /stay-safe/
 ---

@@ -5,7 +5,7 @@ category: "devs"
 tags:
   - "tutorial"
 coverImage: "/img/stephen-phillips-hostreviews-co-uk-sSPzmL7fpWc-unsplash.webp"
-layout: layouts/post-en.njk
+layout: post-en
 permalink: /wordpress-optimization/
 lang: en
 translation: /optimasi-wordpress/

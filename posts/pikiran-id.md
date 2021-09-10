@@ -8,7 +8,7 @@ tags:
 coverImage: "/img/pexels-martin-pechy-594610.webp"
 permalink: /pikir/
 lang: id
-layout: layouts/post-id.njk
+layout: post-id
 translation: /overthink/
 ---
 

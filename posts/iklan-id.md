@@ -10,7 +10,7 @@ tags:
   - "advice"
 coverImage: "/img/pexels-artem-beliaikin-1114376.webp"
 permalink: /iklan/
-layout: layouts/post-id.njk
+layout: post-id
 lang: id
 translation: /ads/
 ---

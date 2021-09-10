@@ -6,7 +6,7 @@ tags:
   - "productivity"
   - "tutorial"
 coverImage: "/img/pexels-jessica-lewis-2381853.webp"
-layout: layouts/post-id.njk
+layout: post-id
 permalink: /fokus/
 lang: id
 translation: /focus/

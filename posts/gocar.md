@@ -6,7 +6,7 @@ tags:
   - "story"
 coverImage: "/img/photo-of-yellow-taxi-parked-near-sidewalk-2399254.webp"
 permalink: /gocar-convo/
-layout: layouts/post-en.njk
+layout: post-en
 lang: en
 translation: /gocar-ngobrol/
 ---

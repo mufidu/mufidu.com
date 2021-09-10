@@ -8,7 +8,7 @@ tags:
   - "business"
 coverImage: "/img/pexels-aline-viana-prado-2465877.webp"
 permalink: /lean-startup-id/
-layout: layouts/post-id.njk
+layout: post-id
 lang: id
 translation: /lean-startup/
 ---

@@ -6,16 +6,18 @@ tags:
   - "advice"
   - "productivity"
 coverImage: "/img/pexels-kindel-media-8172588.webp"
-permalink: /rugi/
-layout: post-id
-lang: id
-translation: /loss/
+permalink: /loss/
+layout: post-en
+lang: en
+translation: /rugi/
 ---
 
-Kita semua tau kalo waktu kita itu terbatas banget. Jadi mungkin lebih baik kita gausah terlalu berharap bakal bisa nyelesain semua yang kita mau.
+![](/img/pexels-kindel-media-8172588.webp)
 
-Secara ga sadar, kalo kita bilang "iya" ke satu hal, sebenernya kita juga bilang "ngga" ke hal lain.
+We all know that our time is very limited. So maybe it's better if we don't expect too much that we will be able to finish everything we want.
 
-Pilih satu [tujuan](https://blog.mufidu.com/tentang-tujuan/), dan [jangan iyain](https://blog.mufidu.com/say-no) apa-apa yang ga sejalan sama tujuan itu.
+Subconsciously, when we say "yes" to one thing, we actually say "no" to another thing.
 
-Setiap beberapa hari, luangin sedikit aja waktu buat ngecek apa semua yang kita kerjain itu ngefek ke tujuan kita. Kalo ngga, jangan dilanjutin lagi sejauh apapun kita udah jalanin itu. Biar ga usah nyasar lebih jauh.
+Choose one [goal](/goal/), and [don't say yes](/say-no/) to anything that is not in line with that goal.
+
+Every few days, take a little time to check whether everything we do is having an effect on our goals. If not, don't do it again no matter how far we've gone. Let's not stray any further.

@@ -7,7 +7,7 @@ tags:
   - "online life"
 coverImage: "/img/pexels-pixabay-371924.webp"
 permalink: /detoks/
-layout: layouts/post-id.njk
+layout: post-id
 lang: id
 translation: /detox/
 ---

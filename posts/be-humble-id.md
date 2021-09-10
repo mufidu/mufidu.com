@@ -6,7 +6,7 @@ tags:
   - "social"
   - "humanity"
 coverImage: "/img/hands-people-friends-communication-45842.webp"
-layout: layouts/post-id.njk
+layout: post-id
 permalink: /baik/
 lang: id
 translation: /humble/
