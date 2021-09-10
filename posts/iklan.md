@@ -1,5 +1,5 @@
 ---
-title: "Jangan Kemakan Iklan"
+title: "Run from Ads!"
 date: "2021-06-23"
 category: "thoughts"
 tags:
