@@ -1,12 +1,13 @@
 body::-webkit-scrollbar {
-  width: 0.7em;
+  width: 0.5em;
 
   &-track {
-    background: grey;
+    background: #424040;
   }
 
   &-thumb {
     background: var(--primary);
+    border-radius: 0.5em;
 
     &:hover {
       background: var(--primary-dark);
