@@ -9,6 +9,7 @@ permalink: /halo/
 layout: post-id
 lang: id
 translation: /hello/
+featured: true
 ---
 
 ![](/img/pexels-moose-photos-1036627.webp)
