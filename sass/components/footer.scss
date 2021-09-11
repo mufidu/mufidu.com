@@ -1,19 +1,11 @@
 footer {
-  background: rgba(0, 0, 0, 0.8);
-  color: #fff;
-  padding: 3em;
+  background: rgb(10, 10, 10);
+  color: rgb(187, 180, 180);
+  padding: 1.5em;
+  font-size: 85%;
   text-align: center;
 
   > * {
     margin: 1.5em;
-  }
-
-  nav a img {
-    vertical-align: middle;
-  }
-
-  nav,
-  p {
-    font-size: 90%;
   }
 }
