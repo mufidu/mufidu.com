@@ -1,5 +1,5 @@
 ---
-title: "Halo lagi"
+title: "Halo!"
 date: "2020-10-16"
 category: "thoughts"
 tags:
