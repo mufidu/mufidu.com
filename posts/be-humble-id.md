@@ -18,7 +18,7 @@ Sering ketika kita ketemu ato ngadepin orang yang bad attitude, kaya misalnya na
 
 Dulu saya juga gitu, apalagi saya termasuk sering baca-baca buku tentang self improvement yang sangat mengedepankan attitude jadi saya tau lah garis besarnya gimana yang baik, sopan, mana yang ngga.
 
-Risih juga liat orang-orang yang ga mikirin attitude. Tapi lama kelamaan cara pandang saya mulai berubah. Saya sadar bahwa ternyata <mark>ga semua orang diberi kesempatan membaca buku-buku yang saya baca</mark> dan banyak orang yang memang gede dan tinggal di lingkungan yang ga mentingin self improvement, dimana kebutuhan untuk bisa hidup jauh lebih mendesak.
+Risih juga liat orang-orang yang ga mikirin attitude. Tapi lama kelamaan cara pandang saya mulai berubah. Saya sadar bahwa ternyata ==ga semua orang diberi kesempatan membaca buku-buku yang saya baca== dan banyak orang yang memang gede dan tinggal di lingkungan yang ga mentingin self improvement, dimana kebutuhan untuk bisa hidup jauh lebih mendesak.
 
 Tukang ojek, pengemis, mana mungkin baca buku-bukunya Dale Carnegie. Kalau mereka pernah baca itu, kecil banget kemungkinannya mereka bakal jadi tukang ojek dan pengemis.
 

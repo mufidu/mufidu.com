@@ -32,7 +32,7 @@ Dan ada sebuah perkataan yang cukup jelas ngejawab pertanyaan itu,
 
 Mereka menjual dan bahkan melelang perhatian kita kepada pengiklan yang membayar terbesar. Semakin lama kita natap layar di layanan mereka, semakin menguntungkan juga buat mereka.
 
-Penyebab terbesar adiksi kita terhadap social media bukan kita yang gabisa ngontrol diri, tapi <mark>karena para insinyur memang ngedesainnya untuk itu, secara sengaja</mark>. Mereka tau kalo mereka sebenernya memanipulasi psikologis kita dan mereka tetep ngelanjutin itu. Karena gimanapun, bisnis harus tetep jalan dan pemegang saham harus tetap puas.
+Penyebab terbesar adiksi kita terhadap social media bukan kita yang gabisa ngontrol diri, tapi ==karena para insinyur memang ngedesainnya untuk itu, secara sengaja==. Mereka tau kalo mereka sebenernya memanipulasi psikologis kita dan mereka tetep ngelanjutin itu. Karena gimanapun, bisnis harus tetep jalan dan pemegang saham harus tetap puas.
 
 Semua yang ada dan muncul sebagai rekomendasi di sosmed itu bukan kebetulan, melainkan emang hasil rancangan para insinyur biar kita ngeklik lagi dan lagi, agar lebih banyak iklan yang bisa di jual. Sosmed kaya pesulap yang seolah-olah ngasih kita kebebasan milih mau buka apa padahal sebenernya semua udah diatur.
 

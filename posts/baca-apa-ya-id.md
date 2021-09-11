@@ -20,7 +20,7 @@ Hampir semua biliuner adalah orang yang rajin banget baca buku. Warren Buffet me
 
 Banyak banget ya. Kayanya udah waktunya kita rajin baca juga. Apalagi di zaman ini, hampir semua buku udah ada versi digitalnya dan bisa kita baca kapanpun dimanapun selama pegang HP. Bukan cuman buku, ada banyak juga artikel-artikel keren yang bisa kita temuin di internet, tinggal kitanya aja yang mau baca apa ngga.
 
-Tapi, pasti ada satu alesan yang jadi excuse buat kita semua, <mark>**"Ga punya waktu luang"**</mark>. Emang bener sih, selain kitanya aja yang gamau luangin waktu, mau gimanapun waktu kita di dunia emang terbatas. Ga semua buku dan artikel bisa kita baca.
+Tapi, pasti ada satu alesan yang jadi excuse buat kita semua, ==**"Ga punya waktu luang"**==. Emang bener sih, selain kitanya aja yang gamau luangin waktu, mau gimanapun waktu kita di dunia emang terbatas. Ga semua buku dan artikel bisa kita baca.
 
 Jadi kita harus manfaatin waktu yang kita punya sebaik mungkin dengan membaca apa-apa yang emang kita butuhin, di waktu sekarang, bukan nanti. Jangan kemakan judul artikel yang keren dan mikir "Siapa tau butuh nih nanti, baca ah."
 
@@ -40,6 +40,6 @@ Tapi, ada orang bilang kalau kita hanya baca buku yang dibaca kebanyakan orang, 
 
 Bukan "ga semua bisa kita baca". Tapi **"ga semua bisa kita tamatin"**. Bakal jadi keuntungan buat kita kalo kita bisa tau bukan cum satu, tapi dari banyak sudut pandang. Dan kita juga perlu menyaring bacaan kita biar waktu kita ga sia-sia.
 
-<mark>Perbanyak input, perkuat filter.</mark>
+==Perbanyak input, perkuat filter.==
 
 Artikel ini dibuat dengan ide awal dari [sini](https://www.samuelthomasdavies.com/words-into-works/june-25-2020/) dan [sini](http://www.collaborativefund.com/blog/how-to-read-lots-of-inputs-and-a-strong-filter/).

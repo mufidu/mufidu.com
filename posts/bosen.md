@@ -27,7 +27,7 @@ It explains that,
 
 So we keep being busy, keep on opening the laptop, scrolling Twitter for fear of missing out on information, and a myriad of other activities that keep our brains working to avoid being "bored".
 
-Even though in fact, if our brains are forced to be busy and work continuously, <mark>it will not have the opportunity to process the inputs that we have received</mark>, and produce ideas and plans that can be useful for us.
+Even though in fact, if our brains are forced to be busy and work continuously, ==it will not have the opportunity to process the inputs that we have received==, and produce ideas and plans that can be useful for us.
 
 I myself really feel the effects of this boredom. Actually, almost all of my writings come from my brain when I'm not using it for hard task, and then suddenly thoughts-that-are-a-pity-to-be-forgotten come, which I finally write and share here.
 
@@ -39,8 +39,8 @@ Also try to complete our work as much as possible, so that we can set aside time
 
 But why are we so easily tempted to open our phone? Because our brains really like things that are fun and easy to do. That's our natural behavior. But we can try to break free from our phone every now and then to get rid of the reflex habit of opening your phone when your hands are empty.
 
-There is a term <mark>scatter focus</mark>, which means "bored" on purpose. We can do this instead of keep scrolling our phone, letting our brains wander while generating ideas for us. See also [dopamine detox](/dopamine/).
+There is a term ==scatter focus==, which means "bored" on purpose. We can do this instead of keep scrolling our phone, letting our brains wander while generating ideas for us. See also [dopamine detox](/dopamine/).
 
 If you're stuck doing something, try forcing yourself to go for a walk, so that your brain can also go for a walk, see your problem from another point of view and ✨, suddenly the solution is found for you.
 
-<mark>Embrace the boredom!</mark>
+==Embrace the boredom!==

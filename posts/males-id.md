@@ -22,7 +22,7 @@ Nah, gua udah baca dan nonton semua artikel dan video-video tentang procrastinat
 
 Jadi manusia emang suka ngerencanain suatu hal dan ngebayangin apa aja yang bisa didapet dari hal yang kita rencanain, misalnya dengan masukin banyak course ke Udemy gua bisa bayangin diri gua di masa depan yang jago banget programming setelah nyelesain semua coursenya.
 
-Tapi setelah semua bayangan dan rencana udah selesai, sekarang tinggal sisa actionnya. Ini yang bikin males. Kita cuman pengen hasil tapi gamau ngejalanin proses, <mark>apalagi kalo udah males bayangin proses yang panjang banget</mark> (nonton course-course yang totalnya ratusan jam, belum prakteknya).
+Tapi setelah semua bayangan dan rencana udah selesai, sekarang tinggal sisa actionnya. Ini yang bikin males. Kita cuman pengen hasil tapi gamau ngejalanin proses, ==apalagi kalo udah males bayangin proses yang panjang banget== (nonton course-course yang totalnya ratusan jam, belum prakteknya).
 
 Semakin kita lama ngebayangin dan ngerencanain sesuatu sebelum mulai actionnya, semakin males kita buat ngejalaninnya karena masa-masa asiknya udah abis. Udah gada yang bisa dibayangin lagi dan bener-bener sisa actionnya doang. Malesin banget kan.
 

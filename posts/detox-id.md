@@ -36,7 +36,7 @@ Nyari tujuan kaya gini emang susah, sih. Tapi begitu udah nemu tujuan kita, baka
 
 Buat sekarang, lagi tren banget yang namanya Dopamine Detox, atau detoksifikasi dopamine, yang ngebuat kita nurunin standar dopamine kita yang biasanya udah tinggi.
 
-Konsepnya gini, tiap hari kita udah buka social media segala macem, dan kita ngerasa ga puas-puas walau udah scrolling berjam-jam. <mark>Itu karena standar dopamine kita udah tinggi, dan ngebuat kita susah puas</mark>.
+Konsepnya gini, tiap hari kita udah buka social media segala macem, dan kita ngerasa ga puas-puas walau udah scrolling berjam-jam. ==Itu karena standar dopamine kita udah tinggi, dan ngebuat kita susah puas==.
 
 Apalagi emang udah jadi kodrat manusia kita gabisa puas. Jadi kita harus nurunin standar itu biar ga terlalu addict sama hal-hal itu.
 

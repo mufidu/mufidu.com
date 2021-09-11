@@ -20,7 +20,7 @@ At that time, I watched Hutata's video, the content was really good, even though
 
 It's true, if we do things that aren't really important first (like playing, chatting, etc.) we won't have time to do things that are really important.
 
-But if we do things that are important first, <mark>we will still have time to do things that are not essential</mark>.
+But if we do things that are important first, ==we will still have time to do things that are not essential==.
 
 In fact, there will be a sense of pride because we feel successful in carrying out our obligations. On the other hand, if we just keep playing, we will end up with regret.
 

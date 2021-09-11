@@ -11,7 +11,7 @@ permalink: /id/projects/
 
 Ini adalah beberapa hal yang pernah saya buat. Bisa dibilang portofolio kali ya.
 
-- <mark>Front-end Intro</mark>
+- ==Front-end Intro==
 
   [Live site](https://mufidu.github.io/frontend-intro) | [GitHub](https://github.com/mufidu/frontend-intro)
 
@@ -19,7 +19,7 @@ Ini adalah beberapa hal yang pernah saya buat. Bisa dibilang portofolio kali ya.
 
 ---
 
-- <mark>Lecture Web Player</mark>
+- ==Lecture Web Player==
 
   [Live site](https://mufidu.github.io/kajian-ufa) | [GitHub](https://github.com/mufidu/kajian-ufa)
 
@@ -27,7 +27,7 @@ Ini adalah beberapa hal yang pernah saya buat. Bisa dibilang portofolio kali ya.
 
 ---
 
-- <mark>Cari di Qur'an</mark>
+- ==Cari di Qur'an==
 
   [Live site](https://mufidu.github.io/caridiquran) | [GitHub](https://github.com/mufidu/caridiquran)
 
@@ -35,7 +35,7 @@ Ini adalah beberapa hal yang pernah saya buat. Bisa dibilang portofolio kali ya.
 
 ---
 
-- <mark>Nexter</mark>
+- ==Nexter==
 
   [Live site](https://mufidu.github.io/nexter) | [GitHub](https://github.com/mufidu/nexter)
 
@@ -43,7 +43,7 @@ Ini adalah beberapa hal yang pernah saya buat. Bisa dibilang portofolio kali ya.
 
 ---
 
-- <mark>Natours</mark>
+- ==Natours==
 
   [Live site](https://mufidu.github.io/natours) | [GitHub](https://github.com/mufidu/natours)
 
@@ -52,7 +52,7 @@ Ini adalah beberapa hal yang pernah saya buat. Bisa dibilang portofolio kali ya.
 
 ---
 
-- <mark>To Do List</mark>
+- ==To Do List==
 
   [Live site](https://mufidu.github.io/todolist/) | [GitHub](https://github.com/mufidu/todolist/)
 
@@ -60,7 +60,7 @@ Ini adalah beberapa hal yang pernah saya buat. Bisa dibilang portofolio kali ya.
 
 ---
 
-- <mark>Tailwind and Sass Starter Template</mark>
+- ==Tailwind and Sass Starter Template==
 
   [Live site](https://mufidu.github.io/tailwind-sass-starter/) | [GitHub](https://github.com/mufidu/tailwind-sass-starter)
 
@@ -68,7 +68,7 @@ Ini adalah beberapa hal yang pernah saya buat. Bisa dibilang portofolio kali ya.
 
 ---
 
-- <mark>MyQeena Landing Page</mark>
+- ==MyQeena Landing Page==
 
   [Live site](https://myqeena.my.id) | [GitHub](https://github.com/mufidu/myqeena.my.id)
 

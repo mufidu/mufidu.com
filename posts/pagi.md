@@ -23,7 +23,7 @@ I always try to write every morning. Write anything. Something to post here, or 
 
 Meanwhile, if I play PES in the morning or scroll through Instagram and Twitter, I'll end up doing nothing that day. Even though I supposed to study all day, because my college entrance exam is near.
 
-We really should maximizing our time in the morning. <mark>At that time our brains are still in its freshest state</mark>, after a full night of rest, they are not used to think about anything.
+We really should maximizing our time in the morning. ==At that time our brains are still in its freshest state==, after a full night of rest, they are not used to think about anything.
 
 It's a shame if you only use it in the morning for playing games and non-productive activities, because we don't take full advantage of our brain's performance.
 

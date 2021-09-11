@@ -27,7 +27,7 @@ Kondisi "ga mikirin apa-apa" itu yang biasa kita kenal dengan nama "bosen". Ya e
 
 Jadilah kita sibuk terus, lanjut buka laptop, scroll Twitter takut ketinggalan info, dan segudang kegiatan lain yang bikin otak kita kerja terus buat ngehindarin "bosen."
 
-Padahal kalo otak kita paksa sibuk dan kerja terus, <mark>otak jadi gapunya kesempatan buat ngolah input yang udah kita terima</mark>, dan ngehasilin ide-ide dan rencana yang bisa guna buat kita.
+Padahal kalo otak kita paksa sibuk dan kerja terus, ==otak jadi gapunya kesempatan buat ngolah input yang udah kita terima==, dan ngehasilin ide-ide dan rencana yang bisa guna buat kita.
 
 Saya sendiri ngerasain banget efek dari bosen ini. Sebenernya hampir semua tulisan saya itu berasal dari otak saya yang lagi gabut, dan tiba-tiba munculin pikiran-pikiran yang sayang kalo dilupain, yang akhirnya saya tulis dan share di sini.
 
@@ -43,4 +43,4 @@ Ada istilah _scatter focus_, yaitu "bosen" dengan sengaja. Kita bisa lakuin ini 
 
 Kalo lagi _stuck_ ngerjain sesuatu, coba paksain buat jalan-jalan dulu, biar otak kita juga bisa jalan-jalan, ngeliat masalah kita dari sudut pandang lain dan ✨, tiba-tiba solusinya ketemu.
 
-<mark>Embrace the boredom!</mark>
+==Embrace the boredom!==

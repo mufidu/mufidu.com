@@ -15,7 +15,7 @@ translation: /efficient/
 
 Kadang ada beberapa waktu dimana kita pengen banget ngelakuin sesuatu dan disibukin sama hal itu, kita punya waktu dan tenaga yang pengen kita salurin ke sesuatu, tapi kita gatau kemana, karena kita gamau waktu dan tenaga kita kebuang sia-sia, tersalur tapi ke suatu hal yang kecil manfaatnya, atau malah gaada. Untuk itu, ada satu prinsip yang harus kita tau.
 
-Namanya _pareto principal,_ bunyinya adalah bahwa <mark>80% hasil datang dari 20% usaha</mark>, dan 80% usaha sisanya hanya memberikan 20% hasil.
+Namanya _pareto principal,_ bunyinya adalah bahwa ==80% hasil datang dari 20% usaha==, dan 80% usaha sisanya hanya memberikan 20% hasil.
 
 Contohnya, 80% isi buku ada di 20% halamannya, sisanya hanya cerita, dan 80% isi film ada di 20% alurnya, sisanya hanya pendalaman karakter, dll.
 

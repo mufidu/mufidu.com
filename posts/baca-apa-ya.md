@@ -20,7 +20,7 @@ Almost all billionaires in the world are people who really love to read books. W
 
 That's a lot. I guess it's time for us to start to love reading, too. Especially in this age, almost all books already have its digital version and we can read it anytime, anywhere, as long as we hold our cellphone. It's not just books, there are also lots of cool articles that we can find on the internet, it's just a matter of whether we want to read it or not.
 
-But, there one common excuse for all of us, which is <mark>**"I don't have the time"**</mark>. It's true, beside that it's just us who don't want to spend the time, no matter what, our time in this world is indeed limited. We can't read all the books or articles in the world.
+But, there one common excuse for all of us, which is ==**"I don't have the time"**==. It's true, beside that it's just us who don't want to spend the time, no matter what, our time in this world is indeed limited. We can't read all the books or articles in the world.
 
 So we have to make the best use of the time we have by reading what we really need, at the present, not later. Don't bait the cool article title and think "Who knows, I might need this later, let's read."
 
@@ -40,6 +40,6 @@ However, some people say that if we only read books that most people read, we wi
 
 It's not "we can't read everything", but **"we can't finish everything"**. It will be an advantage for us if we can know not just one, but from many points of view. And we also need to filter our reading so that our time is not wasted.
 
-<mark>Increase the input, strengthen the filter.</mark>
+==Increase the input, strengthen the filter.==
 
 This article was created with the initial idea from ​​[here](https://www.samuelthomasdavies.com/words-into-works/june-25-2020/) and [here](http://www.collaborativefund.com/blog/how-to-read-lots-of-inputs-and-a-strong-filter/).

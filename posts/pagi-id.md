@@ -23,7 +23,7 @@ Gua selalu usahain nulis setiap pagi. Nulis apa aja. Bisa buat dipost disini, at
 
 Sedangkan kalau pagi gua langsung main PES atau scroll IG dan Twitter, ga jarang seharian itu akhirnya gada yang gua kerjain, malah bisa seharian ga belajar, padahal mau UTBK.
 
-Bener banget pagi hari tu harus dimanfaatin. Sebaik-baiknya. <mark>Di waktu itu otak kita lagi berada di keadaan paling fresh, setelah semaleman penuh istirahat</mark>, ga dipake buat mikir apa-apa.
+Bener banget pagi hari tu harus dimanfaatin. Sebaik-baiknya. ==Di waktu itu otak kita lagi berada di keadaan paling fresh, setelah semaleman penuh istirahat==, ga dipake buat mikir apa-apa.
 
 Sayang banget kalau pagi cuman dipake buat main-main doang dan kegiatan-kegiatan non produktif karena kita jadi ga manfaatin kinerja maksimal otak.
 

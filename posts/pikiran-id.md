@@ -20,7 +20,7 @@ Sering juga otak kita mikirin hal-hal memalukan dari masa lalu yang ngebikin kit
 
 Pikiran emang suka aneh-aneh, dan kadang susah banget dikendaliin. Tapi untungnya kita bisa biarin aja, lepasin karena emang itu fungsinya. Otak diciptakan untuk berpikir. Ya terima aja, tapi gausah dimasukin ke hati dan dipikirin lebih lanjut lagi. Mungkin ingetan itu cuman muncul karena ga sengaja ketrigger sesuatu yang bikin kita inget itu lagi. Namanya juga ga sengaja, gausah diambil pusing.
 
-Pisahin pikiran kita dari perasaan. Jangan sampe perasaan kita dikendaliin sama pikiran yang tiba-tiba dateng. Itu emang gabisa kita kendaliin dan <mark>ga logis juga kalo perasaan kita bersandar ke pikiran-pikiran random</mark>. Be present.
+Pisahin pikiran kita dari perasaan. Jangan sampe perasaan kita dikendaliin sama pikiran yang tiba-tiba dateng. Itu emang gabisa kita kendaliin dan ==ga logis juga kalo perasaan kita bersandar ke pikiran-pikiran random==. Be present.
 
 Kita bisa ngasih nama pikiran kita buat jadi pembeda dan pembatas dengan perasaan. Misalnya kalo kita tiba-tiba kepikiran kencing di celana pas kelas 2 dan ketauan temen sekelas, kita bisa bilang,
 

@@ -30,6 +30,6 @@ Sayangnya, pembuatnya biasanya udah terlalu nyaman dengan aturan buatannya sehin
 
 Mereka gamau ngorbanin kenyamanan mereka dan aturan mereka yang sudah teruji berhasil, karena takut.
 
-Bila suatu tujuan bisa tercapai dengan lebih efisien tanpa pakai aturan itu, menurut gua gapapa, selama gada yang salah. <mark>Jangan sampai aturan itu justru ngehambat dan ngebuat kita tutup mata dan menolak mengikuti perkembangan-perkembangan yang ada</mark>, khususnya teknologi.
+Bila suatu tujuan bisa tercapai dengan lebih efisien tanpa pakai aturan itu, menurut gua gapapa, selama gada yang salah. ==Jangan sampai aturan itu justru ngehambat dan ngebuat kita tutup mata dan menolak mengikuti perkembangan-perkembangan yang ada==, khususnya teknologi.
 
 Gimanapun, pasti bakal ada yang maju, kalau bukan kita, ya orang lain. Jadi, pilih aja.

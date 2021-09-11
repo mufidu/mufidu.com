@@ -15,7 +15,7 @@ translation: /efisien/
 
 Sometimes there are times when we really want to do something and be busy be doing it. We have time and energy that we want to give into something, but we don't know what, because we don't want our time and energy to be wasted; doing something which has little to no benefit for us. To avoid that, there is one principle that we must know.
 
-It is the _pareto principal_, which says that <mark>80% of the results come from 20% of the effort</mark>, and the remaining 80% of the effort only gives 20% of the results.
+It is the _pareto principal_, which says that ==80% of the results come from 20% of the effort==, and the remaining 80% of the effort only gives 20% of the results.
 
 For example, 80% of the book's content is in 20% of the pages, the rest is just the story, and 80% of the movie's main story is in 20% of the plot, the rest is just character development, etc.
 

@@ -18,7 +18,7 @@ Sometimes, we meet people who need help but have bad attitudes; an ojek who aski
 
 I used to be like that too, especially since I often read books about self improvement that emphasizing attitude, so I know generally what is good and polite, and what isn't.
 
-It's also uncomfortable to see people who don't even think about attitude. But over time, my perspective began to change. I realize that <mark>apparently not everyone is given the opportunity to also read the books that I've read</mark> and many people grow and live in an environment that doesn't care about self-improvement, where the need for surviving life is much more important.
+It's also uncomfortable to see people who don't even think about attitude. But over time, my perspective began to change. I realize that ==apparently not everyone is given the opportunity to also read the books that I've read== and many people grow and live in an environment that doesn't care about self-improvement, where the need for surviving life is much more important.
 
 Ojek and beggars are apparently part of them. They most likely don't have time and chance to read Dale Carnegie's books. If they ever read that, then there is very little chance that they will become ojek and beggars.
 

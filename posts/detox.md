@@ -38,7 +38,7 @@ It's really hard to find a goal like this. But once we find our purpose, it will
 
 For now, there is a trend called Dopamine Detox, which makes us lower our dopamine standards which are usually already very high.
 
-Here is the concept, every day we've used all kinds of social media, and we don't feel satisfied even though we've been scrolling for hours. <mark>That's because our dopamine standards are already high, and it makes us hard to be satisfied</mark>.
+Here is the concept, every day we've used all kinds of social media, and we don't feel satisfied even though we've been scrolling for hours. ==That's because our dopamine standards are already high, and it makes us hard to be satisfied==.
 
 Moreover, it's human nature that we can't be satisfied. We have to lower the standard so we don't get too addicted to those things.
 

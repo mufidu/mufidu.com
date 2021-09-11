@@ -18,7 +18,7 @@ Buat orang yang lagi ngegelutin bidang baru, cara paling efektif buat berkembang
 
 Kalau mau mulai bisnis, ya cari-cari nasehat dari Sandiaga Uno atau Erick Thohir. Kalau mau jago nulis, contoh Tere Liye. Kalau mau karier nyanyi, tanya Raisa.
 
-Tapi sebenernya, <mark>saran-saran dari mereka bisa jadi malah ga relevan buat kita</mark>.
+Tapi sebenernya, ==saran-saran dari mereka bisa jadi malah ga relevan buat kita==.
 
 No offense, tapi mereka udah jauh levelnya di atas kita, jadi semua langkah, taktik, strategi yang mereka pake juga levelnya beda sama kita. Ga cocok.
 
@@ -28,7 +28,7 @@ Kalaupun masih tau, biasanya saran dari mereka itu kalo mau dijalanin, harus ada
 
 Sebagai pemula kita harusnya butuh saran yang praktis, bisa dilakuin dan terbukti ngefek ke perkembangan kita.
 
-Saran-saran yang kaya gitu menurut gua cuman bisa didapet dari orang-orang yang ada <mark>sedikit</mark> di atas kita.
+Saran-saran yang kaya gitu menurut gua cuman bisa didapet dari orang-orang yang ada ==sedikit== di atas kita.
 
 Mereka udah ngelewatin apa-apa yang kita jalanin, tapi ga terlalu jauh. Satu atau dua langkah aja di depan kita.
 

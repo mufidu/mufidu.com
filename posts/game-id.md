@@ -20,7 +20,7 @@ Gua waktu itu pernah nonton video Hutata, bagus banget isinya, walaupun gua udah
 
 Ternyata bener, kalo kita ngerjain yang gapenting sama sekali duluan (kaya main, ngobrol, dkk) kita gabakal punya waktu buat ngerjain hal-hal yang bener penting.
 
-Tapi kalo kita ngerjain hal-hal yang penting duluan, <mark>kita bakal tetep punya waktu buat ngerjain hal-hal yang sifatnya hiburan itu</mark>.
+Tapi kalo kita ngerjain hal-hal yang penting duluan, ==kita bakal tetep punya waktu buat ngerjain hal-hal yang sifatnya hiburan itu==.
 
 Malah bakal ada rasa kebanggaan tersendiri karena kita ngerasa sukses ngejalanin kewajiban-kewajiban kita. Kebalikannya kalo kita cuman main terus, pasti ada nyesek di akhir.
 

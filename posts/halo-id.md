@@ -19,7 +19,7 @@ Kalo kita liat orang yang bajunya rapih, wangi, sopan, gede kemungkinannya kita 
 
 Hal ini udah pernah dibahas dari sekitar 100 tahun lalu, dan diberi nama _Halo Effect_.
 
-Ini terjadi ketika <mark>kita menggeneralisasikan seluruh sifat seseorang berdasarkan satu sifatnya saja, biasanya dari kesan pertama</mark>. Contohnya tadi. Kita bisa nganggep seseorang kaya cuman dari pakaiannya aja.
+Ini terjadi ketika ==kita menggeneralisasikan seluruh sifat seseorang berdasarkan satu sifatnya saja, biasanya dari kesan pertama==. Contohnya tadi. Kita bisa nganggep seseorang kaya cuman dari pakaiannya aja.
 
 _Halo effect_ adalah salah satu bias kognitif yang paling gede dan paling sering kita lakuin secara ga sadar. Bahayanya, kalau kita berasumsi bahwa seseorang itu begitu dan begini, kita cenderung bertindak dan melakukan hal-hal yang membuat seseorang itu jadi beneran begitu dan begini.
 

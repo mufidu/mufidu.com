@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=WQWiLZ1M6xw
 
 So, we like planning things and imagining what can be obtained from the things we plan, for example by entering many courses into Udemy I can imagine myself in the future will be really good at programming after completing all the courses.
 
-But after all the pictures and plans have been completed, now only the action remains. This is what makes it worse. We just want results but don't want to go through the process, <mark>especially after we realize that it will be a very long process</mark> (watching courses that total hundreds of hours, not included practicing).
+But after all the pictures and plans have been completed, now only the action remains. This is what makes it worse. We just want results but don't want to go through the process, ==especially after we realize that it will be a very long process== (watching courses that total hundreds of hours, not included practicing).
 
 The longer we imagine and plan something before starting the action, the lazier we are to carry it out because the fun times are over. There is nothing that can be imagined anymore and the rest is **action**.
 

@@ -38,4 +38,4 @@ Dan karena mereka nganggep gua yang bukan siapa-siapa aja bisa komentar bahkan s
 
 Walaupun ga viral juga, tetep mungkin temen-temen kita yang komen, hal-hal yang harusnya dibahas serius jadi bahan becandaan karena kita yang nyampein, atau minimalnya kita dikata sok iye. Gua sih lebih baik gabahas daripada ngundang temen kita becandain hal begituan.
 
-Intinya, kalau kita emang ga nguasain banget suatu hal dan gada karya di bidang itu, ada baiknya kita gausah ikut-ikutan ngebahas biar sekedar edgy. <mark>Mending kita kasih waktu dan tempat buat orang yang emang bener-bener paham bidang itu buat ngejelasin</mark>.
+Intinya, kalau kita emang ga nguasain banget suatu hal dan gada karya di bidang itu, ada baiknya kita gausah ikut-ikutan ngebahas biar sekedar edgy. ==Mending kita kasih waktu dan tempat buat orang yang emang bener-bener paham bidang itu buat ngejelasin==.

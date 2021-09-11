@@ -30,6 +30,6 @@ Unfortunately, the rule makers are usually too comfortable with the rules they m
 
 They don't want to sacrifice their comfort and their battle tested rules, because of fear.
 
-If a goal can be achieved more efficiently without using that rule, in my opinion, that's fine to disobey, as long as nothing goes wrong. <mark>Do not let the rules actually hinder and make us close our eyes and refuse to follow the existing growth</mark>, especially in tech.
+If a goal can be achieved more efficiently without using that rule, in my opinion, that's fine to disobey, as long as nothing goes wrong. ==Do not let the rules actually hinder and make us close our eyes and refuse to follow the existing growth==, especially in tech.
 
 After all, there will definitely someone who comes forward, if not us, then it will be someone else. So, choose wisely.

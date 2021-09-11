@@ -19,7 +19,7 @@ If we look at people whose clothes are neat, fragrant, polite, it is very likely
 
 This effect has been discussed since about 100 years ago, and was given the name **Halo Effect**.
 
-It happens when <mark>we generalize all of a person's traits based on a single trait, usually from first impressions</mark>. Like in the example earlier. We can think of someone as rich just by their clothes.
+It happens when ==we generalize all of a person's traits based on a single trait, usually from first impressions==. Like in the example earlier. We can think of someone as rich just by their clothes.
 
 The **halo effect** is one of the biggest cognitive biases and what we do the most, unconsciously. The bad thing is, if we assume that someone is such and such, we tend to act and do things that make that person really such and such.
 

@@ -32,7 +32,7 @@ And there is a quote that quitely answers this question,
 
 They sell and even auction our attention to the biggest paying advertisers. The longer we stare at our screen, using their service, the more profitable it is for them.
 
-The biggest reason of our addiction to social media is not because we can't control ourselves, but <mark>because engineers designed it indeed to be addicting, intentionally</mark>. They know that they are manipulating us psychologically and they continue to do so. After all, the business must keep going and the shareholders must be satisfied.
+The biggest reason of our addiction to social media is not because we can't control ourselves, but ==because engineers designed it indeed to be addicting, intentionally==. They know that they are manipulating us psychologically and they continue to do so. After all, the business must keep going and the shareholders must be satisfied.
 
 Everything that exists and appears as recommendations on social media is not a coincidence, but is indeed the result of the design made by engineers so that we click again and again, so that more ads can be sold. Social media is like a magician who seems to give us the freedom to choose what we want to see when in fact everything has been arranged.
 

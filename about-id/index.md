@@ -19,7 +19,7 @@ Sebenernya ada dua alasan saya ngebuat website ini.
 
 Beberapa catetan yang bagus bakal diedit dan diterbitin di sini.
 
-Web ini merhatiin banget <mark>performa</mark> sama <mark>speed</mark>, makanya keliatan simpel gini. Yang keren-keren ada di [kerjaan saya yang lain](/id/projects/).
+Web ini merhatiin banget ==performa== sama ==speed==, makanya keliatan simpel gini. Yang keren-keren ada di [kerjaan saya yang lain](/id/projects/).
 
 ## Tentang saya
 

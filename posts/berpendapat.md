@@ -38,4 +38,4 @@ And because I'm a nobody but I can comment and even go viral, they then think th
 
 Even though it's not viral, it's still possible for our friends to comment, and because we are the ones who deliver, things that should be discussed seriously become jokes. I'd rather not to talk about it than invite our friends to joke about things like that.
 
-The point is, if we really don't really know much about something or we even don't have any experience in that field, it's so better if we don't talk about it too much. <mark>We'd better give time and place for the people who really understand the field to explain</mark>.
+The point is, if we really don't really know much about something or we even don't have any experience in that field, it's so better if we don't talk about it too much. ==We'd better give time and place for the people who really understand the field to explain==.
