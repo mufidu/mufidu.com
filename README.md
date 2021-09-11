@@ -127,3 +127,7 @@ Generates a strong CSP for the base template.
 - Downloaded remote images, and generated sizes are cached in the local filesystem…
 - Build script automatically copy the generated images to the `img` folder
   - ...so the images are not processed again during deployment (and thus the build time is reduced).
+
+## License
+
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
