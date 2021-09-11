@@ -1,5 +1,5 @@
 ---
-title: "Jangan Mau Rugi"
+title: "Don't Lose"
 date: "2021-06-09"
 category: "thoughts"
 tags:
