@@ -20,4 +20,4 @@ Subconsciously, when we say "yes" to one thing, we actually say "no" to another 
 
 Choose one [goal](/goal/), and [don't say yes](/say-no/) to anything that is not in line with that goal.
 
-Every few days, take a little time to check whether everything we do is having an effect on our goals. If not, don't do it again no matter how far we've gone. Let's not stray any further.
+Every few days, take a little time to check whether everything we do is having an effect on our goals. If not, don't do it again, no matter how far we've gone. Let's not stray any further.

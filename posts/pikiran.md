@@ -18,9 +18,9 @@ I think we all have experienced this. When we are lying down, going to sleep, su
 
 Our brains often think about embarrassing things from the past that make us nervous, "How can I be like that?" I suddenly remembered that I used to cry in 4th grade just because the teacher called me. Even though now that I have graduated from high school, no one will remember anymore. **But I still think about it!**
 
-Our thoughts sometimes act weirdly and very difficult to be controlled. But luckily we can just leave it alone, let it go because that's what it does. The brain was created to think. Accept it, but don't take it to heart and think about it further. Maybe the memory just appears because we accidentally trigger something that makes us remember it again. It's just an accident, don't worry about it.
+Our thoughts sometimes act weirdly and are very difficult to be controlled. But luckily, we can just leave it alone, let it go because that's what it does. The brain was created to think. Accept it, but don't take it to heart and think about it further. Maybe the memory just appears because we accidentally trigger something that makes us remember it again. It's just an accident, don't worry about it.
 
-Separate our thoughts from our feelings. Don't let your feelings be controlled by thoughts that suddenly come. We can't really control it and ==it's also illogical if our feelings rely on random thoughts==. Be present.
+Separate our thoughts from our feelings. Don't let your feelings be controlled by thoughts that suddenly come. We can't really control it, and ==it's also illogical if our feelings rely on random thoughts==. Be present.
 
 We can give the name of our mind to be a differentiator and limiter with feelings. For example, if we suddenly think of peeing in our pants in second grade and our classmates find out, we can say,
 

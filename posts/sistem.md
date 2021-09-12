@@ -17,9 +17,9 @@ There's nothing wrong with having a goal. We've even discussed [the importance o
 
 We think that when a big goal is achieved, it will be a turning point in our lives. In fact, usually, after that big goal is achieved, according to human nature, we will only be satisfied for a moment, and soon we will look for another goal that is bigger and more ambitious.
 
-So, if we focus on the goal, and we don't achieve that goal, especially the long term one, we will most likely feel like a failure, frustrated, and impatient.
+So, if we focus on the goal and don't achieve that goal, especially the long-term one, we will most likely feel like a failure, frustrated, and impatient.
 
-It would be better if we just focus on the process, enjoy every process and every progress that exists. We can also develop ourselves to be more resilient if we fail, and we can also create our own system. Here is how.
+It would be better if we just focus on the process, enjoy every process and every progress that exists. We can also develop ourselves to be more resilient if we fail and create our own system. Here is how.
 
 ## Find out where we are
 
@@ -31,11 +31,11 @@ After knowing where we are and where we want to go, all we have to do is find a 
 
 ## Try another road
 
-Do not be too comfortable with the way that you are already familiar. There might be road that is faster to arrive. Broaden your horizons, try all the possible things according to what you want.
+Do not be too comfortable with the way that you are already familiar with. There might be a road that is faster to arrive. Broaden your horizons, try all the possible things according to what you want.
 
 ## Evaluate
 
-From that experiment, evaluate which activities that are really suitable for our goals. If it works, go on. If doesn't, throw it away. We want fast results, but we like it or not, we have to be consistent. In order to be consistent, we must like it. Just choose what we like. Make it fun.
+From that experiment, evaluate which activities that are really suitable for our goals. If it works, go on. If it doesn't, throw it away. We want fast results, but we like it or not, we have to be consistent. In order to be consistent, we must like it. So, choose what you like. Make it fun.
 
 ---
 

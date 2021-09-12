@@ -14,7 +14,7 @@ translation: /mulai-aja/
 
 ![](/img/frustrated-ethnic-man-in-casual-wear-on-blue-background-in-3965230.webp)
 
-Many successful people say that they can succeed after going through many failures, but most people only see success. So many people want to be successful but don't want to feel like a failure.
+Many successful people say that they got their success after going through many failures, but most people only see success. So many people want to be successful but don't want to feel a failure.
 
 People say,
 
