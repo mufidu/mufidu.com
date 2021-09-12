@@ -21,7 +21,7 @@ Now in this world, almost everything is always related to money and business.
 
 Especially when it comes to "something for sale". Never believe that we need the item, especially if those who say that are the ones who sell the item.
 
-Of course, they will say that we need it, even though we don't. Because if they don't say that, it could be that their products are forgotten or you don't see the products' benefits (if any).
+Of course, they will say that we need it, even though we don't. Because if they don't say that, it could be that their products are forgotten, or you don't see the products' benefits (if any).
 
 They make us believe, by revealing the facts, if we really need it, and we finally believe if we need it, because the data they give is usually valid.
 
