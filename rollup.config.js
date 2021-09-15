@@ -12,26 +12,26 @@ export default [
       },
     ],
   },
-  // {
-  //   input: "src/bp.js",
-  //   output: [
-  //     {
-  //       file: "js/bp-min.js",
-  //       format: "iife",
-  //       sourcemap: true,
-  //       plugins: [terser()],
-  //     },
-  //   ],
-  // },
   {
-    input: "src/um.js",
+    input: "src/bp.js",
     output: [
       {
-        file: "js/um-min.js",
+        file: "js/bp-min.js",
         format: "iife",
         sourcemap: true,
         plugins: [terser()],
       },
     ],
   },
+  // {
+  //   input: "src/um.js",
+  //   output: [
+  //     {
+  //       file: "js/um-min.js",
+  //       format: "iife",
+  //       sourcemap: true,
+  //       plugins: [terser()],
+  //     },
+  //   ],
+  // },
 ];
