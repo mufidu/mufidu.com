@@ -39,6 +39,35 @@ body {
 }
 
 main {
+  animation: pageload1 0.5s ease-in-out;
+}
+
+header > h1 {
+  animation: pageload2 0.5s ease-in-out;
+}
+
+@keyframes pageload1 {
+  0% {
+    opacity: 0;
+    transform: translateY(100%);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes pageload2 {
+  0% {
+    opacity: 0;
+    transform: translateY(-100%);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+main {
   max-width: 70rem;
   margin: 0 auto;
   border-top: 0.5px solid var(--font-color);
