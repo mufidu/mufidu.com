@@ -79,11 +79,6 @@
           <a href="{{ '/id/projects/' | url }}">Projects</a>
         </div>
       </nav>
-      <h1>{{ title }}</h1>
-      {% if translation %}
-      <p>id / <a href="{{ translation | url }}">en</a></p>
-      {% endif %}
-      {% block extraArticleHeader %}{% endblock %}
       <dialog id="message"></dialog>
       {% if googleanalytics %}
       <noscript>
@@ -94,6 +89,18 @@
     </header>
 
     <main>
+      <div class="post-header">
+        {% if not category %}
+          <h1 class="center">{{ title }}</h1>
+          <p class="center">id / <a href="{{ translation | url }}">en</a></p>
+        {% else %}
+          <h1>{{ title }}</h1>
+          {% if translation %}
+            <p>id / <a href="{{ translation | url }}">en</a></p>
+          {% endif %}
+        {% endif %}
+        {% block extraArticleHeader %}{% endblock %}
+      </div>
       <article>
         {% block article %}
           {{ content | safe }}

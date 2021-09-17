@@ -1,23 +1,8 @@
 header {
-  padding: 4.5em 1.5em 3em;
-  width: 50em;
-  margin: 0 auto;
-  text-align: center;
-  max-width: 100%;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-
-  nav {
-    z-index: 1;
-  }
+  padding: 2em 0;
 
   aside {
     font-style: italic;
-  }
-
-  p {
-    margin-top: 0;
   }
 
   nav {
@@ -60,7 +45,7 @@ header {
     }
 
     label {
-      color: #ccc;
+      color: var(--font-color);
       cursor: pointer;
       margin: 0;
       font-style: normal;
@@ -93,7 +78,7 @@ header {
     padding: 0.75em 0;
     margin: 0 1.5em;
     text-align: center;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid var(--font-color);
   }
   #menu-toggle:checked ~ a:last-of-type {
     padding-bottom: 0;
@@ -106,4 +91,12 @@ header {
   #menu-toggle:not(:checked) ~ a {
     display: none;
   }
+}
+
+.post-header {
+  padding: 0 1.5em;
+}
+
+.center {
+  text-align: center;
 }

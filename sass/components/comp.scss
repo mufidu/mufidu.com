@@ -265,17 +265,6 @@ section {
   width: 900px;
 }
 
-article {
-  max-width: 100%;
-  padding: 1.5em;
-  width: 40em;
-  margin: 0 auto;
-
-  /* Avoid the header hiding the content on anchor scroll. */
-  * {
-    scroll-margin-top: 50px;
-  }
-}
 ol,
 ul {
   margin-top: 0;

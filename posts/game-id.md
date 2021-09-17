@@ -1,5 +1,5 @@
 ---
-title: "Tugas Baru Game"
+title: "Tugas Dulu Baru Game"
 date: "2020-10-23"
 category: "thoughts"
 tags:

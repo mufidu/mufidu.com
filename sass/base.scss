@@ -32,6 +32,16 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 
+* {
+  border: 0;
+  box-sizing: border-box;
+
+  &::selection {
+    background: var(--selection);
+    color: var(--font-color);
+  }
+}
+
 body {
   margin: 0;
   background: #000;
@@ -39,11 +49,25 @@ body {
 }
 
 main {
-  animation: pageload1 0.5s ease-in-out;
+  max-width: 70rem;
+  margin: 0 auto;
 }
 
-header > h1 {
-  animation: pageload2 0.5s ease-in-out;
+article {
+  max-width: 100%;
+  padding: 1.5em;
+  width: 40em;
+  margin: 0 auto;
+  animation: pageload1 0.5s ease-in-out;
+
+  /* Avoid the header hiding the content on anchor scroll. */
+  * {
+    scroll-margin-top: 50px;
+  }
+}
+
+.post-header {
+  animation: pageload2 0.5s ease-in-out !important;
 }
 
 @keyframes pageload1 {
@@ -64,21 +88,5 @@ header > h1 {
   100% {
     opacity: 1;
     transform: translateY(0);
-  }
-}
-
-main {
-  max-width: 70rem;
-  margin: 0 auto;
-  border-top: 0.5px solid var(--font-color);
-}
-
-* {
-  border: 0;
-  box-sizing: border-box;
-
-  &::selection {
-    background: var(--selection);
-    color: var(--font-color);
   }
 }
