@@ -58,35 +58,9 @@ article {
   padding: 1.5em;
   width: 40em;
   margin: 0 auto;
-  animation: pageload1 0.5s ease-in-out;
 
   /* Avoid the header hiding the content on anchor scroll. */
   * {
     scroll-margin-top: 50px;
-  }
-}
-
-.post-header {
-  animation: pageload2 0.5s ease-in-out !important;
-}
-
-@keyframes pageload1 {
-  0% {
-    opacity: 0;
-    transform: translateY(100%);
-  }
-  100% {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-@keyframes pageload2 {
-  0% {
-    opacity: 0;
-    transform: translateY(-100%);
-  }
-  100% {
-    opacity: 1;
-    transform: translateY(0);
   }
 }

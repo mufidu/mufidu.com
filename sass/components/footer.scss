@@ -6,6 +6,17 @@ footer {
   text-align: center;
 
   > * {
-    margin: 1.5em;
+    margin: 0;
+  }
+
+  p:last-child {
+    font-size: 85%;
+    color: rgba(187, 180, 180, 0.7);
+    margin-bottom: 0;
+  }
+
+  p:first-child {
+    margin-bottom: 0em;
+    font-size: 100%;
   }
 }
