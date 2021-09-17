@@ -1,4 +1,4 @@
----
+{# ---
 permalink: /id/categories/
 layout: layouts/home-id.njk
 title: Kategori dan Tags
@@ -12,4 +12,4 @@ Blog ini punya dua kategori, <a href="/id/categories/thoughts">Thoughts</a> dan 
 {% for tag in collections.tagList %}
   {% set tagUrl %}/id/tags/{{ tag | slug }}/{% endset %}
   <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a> /
-{% endfor %}
+{% endfor %} #}

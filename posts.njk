@@ -15,3 +15,12 @@ translation: /id/posts/
 {% set postslist = collections.categories["devs"] | languageFilter("en") %}
 {% include "postslist.njk" %}
 <a href="/categories/devs/">See more...</a>
+
+<br>
+<br>
+<p>Or browse by tags:</p>
+
+{% for tag in collections.tagList %}
+  {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+  <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
+{% endfor %}

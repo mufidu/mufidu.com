@@ -1,4 +1,4 @@
----
+{# ---
 permalink: /categories/
 layout: layouts/home-en.njk
 title: Categories and Tags
@@ -13,4 +13,4 @@ This blog has two categories, <a href="/categories/thoughts">Thoughts</a> and <a
 {% for tag in collections.tagList %}
   {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
   <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a> /
-{% endfor %}
+{% endfor %} #}

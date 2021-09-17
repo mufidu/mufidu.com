@@ -16,4 +16,11 @@ translation: /posts/
 {% include "postslist.njk" %}
 <a href="/id/categories/devs/">Lihat lainnya...</a>
 
+<br>
+<br>
+<p>Atau cari berdasarkan tags:</p>
 
+{% for tag in collections.tagList %}
+  {% set tagUrl %}/id/tags/{{ tag | slug }}/{% endset %}
+  <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
+{% endfor %}
