@@ -18,7 +18,7 @@ Banyak orang-orang sukses yang bilang bahwa mereka bisa sampai di titik kesukses
 
 Padahal, pepatah yang bilang kegagalan adalah kesuksesan yang tertunda bener adanya. Karena setelah kita merasakan kegagalan karena suatu cara, kita gabakal mengulanginya dan bakal terhindar dari kesalahan itu lagi, karena sudah tau apa penyebabnya dan tidak mungkin kita jatuh di lubang yang sama.
 
-Siapa yang cepat memulai dan merasakan kegagalan, dialah yang bakal pertama kali mencapai kemenangan, karena semua jalan udah dia coba, dan dia jadi tau mana yang berujung gagal dan mana yang berujung berhasil.
+==Siapa yang cepat memulai dan merasakan kegagalan, dialah yang bakal pertama kali mencapai kemenangan==, karena semua jalan udah dia coba, dan dia jadi tau mana yang berujung gagal dan mana yang berujung berhasil.
 
 Kalau kitanya ga mulai-mulai dan malah takut gagal, gimana kita mau tau jalan mana yang menuju keberhasilan? Bisa sih sebelum mulai kita mikir dulu, rencanain semuanya biar kita ga jatuh ke kegagalan. Tapi kalau cuma rencana doang ga dicoba, tetep aja kita gabakal tau mana rencana yang berhasil mana yang gagal.
 

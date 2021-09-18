@@ -22,7 +22,7 @@ People say,
 
 And it is true. Because after we experience failure in some way, we will not repeat it and avoid that mistake again because we already know what caused it, and it should be impossible for us to fall into the same hole.
 
-Who starts first and feels failure will be the first to achieve victory because he has tried all the ways, and he knows which ones lead to failure and which ones end to success.
+==Who starts first and feels failure will be the first to achieve victory== because he has tried all the ways, and he knows which ones lead to failure and which ones end to success.
 
 If we don't start and are afraid to fail, how will we know which way will lead to success? Yeah, maybe we can think before we start and plan everything so that we don't fall into failure. But if we don't try the plan, we still won't know which plans worked and which failed.
 
