@@ -6,6 +6,7 @@ tags:
   - "books"
   - "career"
   - "business"
+  - "concept"
 coverImage: "/img/pexels-aline-viana-prado-2465877.webp"
 permalink: /lean-startup/
 layout: post-en

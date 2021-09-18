@@ -6,6 +6,7 @@ tags:
   - "thinking"
   - "tutorial"
   - "knowledge"
+  - "concept"
 coverImage: "/img/pexels-shukhrat-umarov-2425921.webp"
 permalink: /vs-bias/
 layout: post-en

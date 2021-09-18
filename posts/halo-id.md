@@ -6,6 +6,7 @@ tags:
   - "social"
   - "humanity"
   - "knowledge"
+  - "concept"
 coverImage: "/img/man-wearing-black-and-teal-tuxedo-883362.webp"
 permalink: /efek-halo/
 layout: post-id

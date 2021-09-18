@@ -5,6 +5,7 @@ category: "thoughts"
 tags:
   - "career"
   - "advice"
+  - "concept"
 coverImage: "/img/people-doing-marathon-618612.webp"
 permalink: /just-do-it-2/
 layout: post-en

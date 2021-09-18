@@ -4,6 +4,7 @@ date: "2020-07-20"
 category: "thoughts"
 tags:
   - "productivity"
+  - "concept"
 coverImage: "/img/blades-conservation-ecology-efficiency-213798.webp"
 layout: post-en
 permalink: /efficient/

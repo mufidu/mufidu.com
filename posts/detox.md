@@ -5,6 +5,7 @@ category: "thoughts"
 tags:
   - "social"
   - "online life"
+  - "concept"
 coverImage: "/img/pexels-pixabay-371924.webp"
 permalink: /detox/
 layout: post-en

@@ -5,6 +5,7 @@ category: "thoughts"
 tags:
   - "career"
   - "advice"
+  - "concept"
 coverImage: "/img/people-doing-marathon-618612.webp"
 permalink: /mulai-aja-2/
 layout: post-id
