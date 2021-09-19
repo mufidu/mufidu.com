@@ -18,6 +18,6 @@ Kita semua tau kalo waktu kita itu terbatas banget. Jadi mungkin lebih baik kita
 
 Secara ga sadar, kalo kita bilang "iya" ke satu hal, sebenernya kita juga bilang "ngga" ke hal lain.
 
-Pilih satu [tujuan](/tujuan/), dan [jangan iyain](/tidak/) apa-apa yang ga sejalan sama tujuan itu.
+Pilih satu [tujuan](/tujuan/), dan [jangan iyain](/tolak/) apa-apa yang ga sejalan sama tujuan itu.
 
 Setiap beberapa hari, luangin sedikit aja waktu buat ngecek apa semua yang kita kerjain itu ngefek ke tujuan kita. Kalo ngga, jangan dilanjutin lagi sejauh apapun kita udah jalanin itu. Biar ga usah nyasar lebih jauh.

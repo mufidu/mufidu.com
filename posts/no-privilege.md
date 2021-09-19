@@ -6,6 +6,7 @@ tags:
   - "career"
   - "happiness"
   - "business"
+  - "privilege"
 coverImage: "/img/man-jumping-during-sunset-on-a-beach-2041832.webp"
 permalink: /no-privilege/
 layout: post-en

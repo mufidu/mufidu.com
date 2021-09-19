@@ -1,5 +1,5 @@
 ---
-title: "Stay Safe All"
+title: "Stay Safe, All!"
 date: "2020-11-13"
 category: "thoughts"
 tags:
