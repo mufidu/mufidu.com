@@ -1,14 +1,14 @@
 ---
-title: "Behind Complicating Things"
+title: "Don't Make It Complicated"
 date: "2020-07-10"
 category: "thoughts"
 tags:
   - "productivity"
 coverImage: "/img/green-potted-plant-on-white-ceramic-vase-1166644.webp"
-permalink: /complicating-things/
+permalink: /complicated/
 layout: post-en
 lang: en
-translation: /ribetin-simple/
+translation: /ribet/
 ---
 
 ![](/img/green-potted-plant-on-white-ceramic-vase-1166644.webp)

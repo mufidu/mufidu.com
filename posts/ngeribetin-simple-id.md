@@ -5,10 +5,10 @@ category: "thoughts"
 tags:
   - "productivity"
 coverImage: "/img/green-potted-plant-on-white-ceramic-vase-1166644.webp"
-permalink: /ribetin-simple/
+permalink: /ribet/
 layout: post-id
 lang: id
-translation: /complicating-things/
+translation: /complicated/
 ---
 
 ![](/img/green-potted-plant-on-white-ceramic-vase-1166644.webp)
