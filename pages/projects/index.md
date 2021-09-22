@@ -6,6 +6,7 @@ eleventyNavigation:
   key: Projects
   order: 5
 translation: /id/projects
+permalink: /projects/
 ---
 
 Welcome to my (so-called) project showcase!

@@ -6,6 +6,7 @@ eleventyNavigation:
   key: Now
   order: 4
 translation: /id/now/
+permalink: /now/
 ---
 
 These are things I'm doing at the moment. Part of [/now movement](https://nownownow.com).

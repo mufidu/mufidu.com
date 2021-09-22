@@ -6,6 +6,7 @@ eleventyNavigation:
   key: About
   order: 3
 translation: /id/about/
+permalink: /about/
 ---
 
 ## About the site
