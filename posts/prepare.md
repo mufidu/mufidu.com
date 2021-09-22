@@ -14,9 +14,9 @@ translation: /siap-siap/
 
 ![](/img/pexels-anna-shvets-5710904.webp)
 
-At the beginning of studying college test, around March-April, I was really confused about where to start learning, what to study, and what to do. Then, I just learned from everywhere, even from Twitter too. I never set aside time to make a material list.
+At the beginning of studying college test, around March-April, I was confused about where to start learning, what to study, and what to do. Then, I just learned from everywhere, even from Twitter too. I never set aside time to make a material list.
 
-I made a study schedule, but was still confused about what to study. I also did many tryouts but that's it, because there is no new material to be learned.
+I made a study schedule but was still confused about what to study. I also did many tryouts, but that's it, because there is no new material to be learned.
 
 Recently, it's become clear that there's a lot of material that I haven't touched or finished yet. I just realized **the importance of preparing**. If we do a work without preparation, it will not be optimal.
 
