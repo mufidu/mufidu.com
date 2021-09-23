@@ -5,6 +5,7 @@ category: "thoughts"
 tags:
   - "productivity"
   - "advice"
+  - "planning"
 coverImage: "/img/pexels-ylanite-koppens-1809344.webp"
 permalink: /jangan-males/
 layout: post-id

@@ -5,6 +5,7 @@ category: "thoughts"
 tags:
   - "productivity"
   - "advice"
+  - "planning"
 coverImage: "/img/pexels-anna-shvets-5710904.webp"
 permalink: /prepare/
 layout: post-en
