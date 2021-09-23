@@ -23,7 +23,7 @@ Web ini merhatiin banget ==performa== sama ==speed==, makanya keliatan simpel gi
 
 ## Tentang saya
 
-Sekarang saya adalah mahasiswa Informatika, dan lagi suka ngoding-ngoding karena hobi aja. Ini beberapa hal yang [udah saya buat](/id/projects).
+Nama lengkap saya Muhammad Mufid Utomo. Sekarang saya adalah mahasiswa Informatika, dan lagi suka ngoding-ngoding karena hobi aja. Ini beberapa hal yang [udah saya buat](/id/projects).
 
 Saya juga sering ngabisin waktu buat belajar sama nyoba hal baru, bisa diliat apa yang lagi saya kerjain [sekarang](/id/now/).
 

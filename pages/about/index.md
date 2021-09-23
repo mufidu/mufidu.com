@@ -23,7 +23,7 @@ This site is built with performance as a priority, so it's pretty simple. All th
 
 ## About me
 
-I am currently an Informatics student. I just code as a hobby, at least for now. Have also been busy learning and trying some things, see [what I'm doing now](/now).
+My name is Muhammad Mufid Utomo. I am currently an Informatics student. I just code as a hobby, at least for now. Have also been busy learning and trying some things, see [what I'm doing now](/now).
 
 Check out my online presences:
 
