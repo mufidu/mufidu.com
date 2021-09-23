@@ -19,7 +19,7 @@ But besides erasing thousands of jobs, technology also creates millions of new j
 
 It's just a matter of how we can develop ourselves and follow the existing developments, so that we can also take advantage of this technological progress, and not be displaced.
 
-To not be left behind, we have to be someone who learns continuously, even though we are no longer a student, and we already have a comfortable routine.
+To not be left behind, we must learn continuously, even though we are no longer a student, and we already have a comfortable routine.
 
 Thanks to technology, there are many new things that are very exciting, because technology certainly makes everything more efficient and effective.
 
