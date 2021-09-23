@@ -4,6 +4,7 @@ date: "2021-06-09"
 category: "thoughts"
 tags:
   - "advice"
+  - "time management"
   - "productivity"
 coverImage: "/img/pexels-kindel-media-8172588.webp"
 permalink: /rugi/

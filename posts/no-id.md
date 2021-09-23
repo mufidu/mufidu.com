@@ -5,6 +5,7 @@ category: "thoughts"
 tags:
   - "advice"
   - "productivity"
+  - "time management"
 coverImage: "/img/pexels-cottonbro-3826681.webp"
 permalink: /tolak/
 layout: post-id

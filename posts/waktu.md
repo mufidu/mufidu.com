@@ -4,6 +4,7 @@ date: "2020-07-09"
 category: "thoughts"
 tags:
   - "productivity"
+  - "time management"
 coverImage: "/img/wall-clock-at-5-50-707582.webp"
 permalink: /time/
 layout: post-en

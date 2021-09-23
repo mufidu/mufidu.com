@@ -4,6 +4,7 @@ date: "2020-12-13"
 category: "thoughts"
 tags:
   - "productivity"
+  - "time management"
 coverImage: "/img/pexels-pixabay-275033.webp"
 permalink: /menunda/
 layout: post-id

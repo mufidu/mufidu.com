@@ -4,6 +4,7 @@ date: "2020-07-14"
 category: "thoughts"
 tags:
   - "productivity"
+  - "time management"
 coverImage: "/img/photo-of-person-holding-alarm-clock-1028741.webp"
 permalink: /morning/
 layout: post-en

@@ -5,6 +5,7 @@ category: "thoughts"
 tags:
   - "productivity"
   - "concept"
+  - "time management"
 coverImage: "/img/blades-conservation-ecology-efficiency-213798.webp"
 layout: post-en
 permalink: /efficient/

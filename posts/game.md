@@ -5,6 +5,7 @@ category: "thoughts"
 tags:
   - "productivity"
   - "story"
+  - "time management"
 coverImage: "/img/pexels-jeshootscom-442576.webp"
 permalink: /game/
 layout: post-en
