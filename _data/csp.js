@@ -55,7 +55,7 @@ const CSP = {
     // Inline CSS is allowed.
     ["style-src", quote("unsafe-inline"), "https://cdn.jsdelivr.net/"],
     // Images may also come from data-URIs.
-    ["img-src", SELF, "data:", "https://i.ytimg.com/"],
+    ["img-src", SELF, "data:", "https://i.ytimg.com/", "https://mufidu.goatcounter.com/count"],
 
     // To add new rules, add new array literals here or extend those above with
     // additional allowed elements.
