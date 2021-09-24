@@ -97,7 +97,7 @@ This is a list of features that this site has. Mostly already come from the temp
 - Supports sending [Core Web Vitals](https://web.dev/vitals/) metrics to Google Analytics as [events](https://github.com/GoogleChrome/web-vitals#send-the-results-to-google-analytics).
 - Support for noscript hit requests.
 - Avoids blocking onload on analytics requests.
-- Support Beampipe (privacy-focused Google Analytics), and serve it locally to avoid block by adblockers.
+- Support Beampipe, Umami, GoatCounter, and serve it locally to avoid block by adblockers.
 
 ### DX features
 

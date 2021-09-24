@@ -12,17 +12,17 @@ export default [
       },
     ],
   },
-  {
-    input: "src/bp.js",
-    output: [
-      {
-        file: "js/bp-min.js",
-        format: "iife",
-        sourcemap: true,
-        plugins: [terser()],
-      },
-    ],
-  },
+  // {
+  //   input: "src/bp.js",
+  //   output: [
+  //     {
+  //       file: "js/bp-min.js",
+  //       format: "iife",
+  //       sourcemap: true,
+  //       plugins: [terser()],
+  //     },
+  //   ],
+  // },
   // {
   //   input: "src/um.js",
   //   output: [
@@ -34,4 +34,15 @@ export default [
   //     },
   //   ],
   // },
+  {
+    input: "src/go.js",
+    output: [
+      {
+        file: "js/go-min.js",
+        format: "iife",
+        sourcemap: true,
+        plugins: [terser()],
+      },
+    ],
+  },
 ];
