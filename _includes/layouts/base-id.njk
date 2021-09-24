@@ -52,14 +52,14 @@
       <script async defer src="{{ "/js/cached.js" | addHash }}"></script>
     {% endif %}
     <!-- Beampipe Analytics -->
-    {# {% if not isdevelopment %}
+    {% if not isdevelopment %}
     <script async defer src="{{ "/js/bp-min.js" | addHash }}" data-beampipe-domain="{{ metadata.domain }}"></script>
-    {% endif %}  #}
+    {% endif %} 
 
     {# GoatCounter Analytics #}
-    {% if not isdevelopment %}
+    {# {% if not isdevelopment %}
     <script data-goatcounter="https://mufidu.goatcounter.com/count" async src="{{ "/js/go-min.js" | addHash }}"></script>
-    {% endif %} 
+    {% endif %}  #}
 
     <!-- Umami Analytics -->
     {# {% if not isdevelopment %}
