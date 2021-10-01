@@ -71,21 +71,42 @@
     <!-- css is inserted by optimize-html custom plugin -->
   </head>
   <body>
-    <header>
-      <nav>
-        <div id="nav">
-          <h1>🧠 &nbsp;<a href="{{ '/' | url }}" title="Homepage">{{ metadata.title }}</a></h1>
-          {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
-          <input type="checkbox" id="menu-toggle">
-          <label for="menu-toggle">&#9776;</label>
-          {# {%- for entry in collections.all | eleventyNavigation %}
-            <a href="{{ entry.url | url }}">{{ entry }}</a>
-          {%- endfor %} #}
-          <a href="{{ '/about/' | url }}">About</a>
-          <a href="{{ '/now/' | url }}">Now</a>
-          <a href="{{ '/projects/' | url }}">Projects</a>
-        </div>
+    <div class="navigation">
+      <!-- checkbox hack -->
+      <input
+        type="checkbox"
+        class="navigation__checkbox"
+        id="nav-toggle"
+      />
+
+      <!-- nav button -->
+      <label for="nav-toggle" class="navigation__button">
+        <span class="navigation__icon">&nbsp;</span>
+      </label>
+
+      <!-- nav background -->
+      <div class="navigation__background">&nbsp;</div>
+
+      <!-- nav container -->
+      <nav class="navigation__nav">
+        <ul class="navigation__list">
+          <li class="navigation__item">
+            <a href="/" class="navigation__link">Home</a>
+          </li>
+          <li class="navigation__item">
+            <a href="/about" class="navigation__link">About</a>
+          </li>
+          <li class="navigation__item">
+            <a href="/now" class="navigation__link">Now</a>
+          </li>
+          <li class="navigation__item">
+            <a href="/projects" class="navigation__link">Projects</a>
+          </li>
+        </ul>
       </nav>
+    </div>
+    <header>
+      <h1><a class="home" href="{{ '/' | url }}" title="Homepage">🧠 &nbsp;{{ metadata.title }}</a></h1>
       <dialog id="message"></dialog>
       {% if googleanalytics %}
       <noscript>
