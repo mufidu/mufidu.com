@@ -30,8 +30,8 @@ header {
         height: 3.5rem;
         border-radius: 50%;
         position: fixed;
-        top: 3rem;
-        right: 3rem;
+        top: 2rem;
+        right: 2rem;
         z-index: 1002;
         box-shadow: 0 1rem 3rem rgba(0,0,0, 0.1);
         text-align: center;
@@ -40,8 +40,8 @@ header {
         @media (max-width: 767px) {            
             top: 1rem;
             right: 1rem;
-            width: 3rem;
-            height: 3rem;
+            width: 2.5rem;
+            height: 2.5rem;
         }
     }
 
@@ -50,8 +50,8 @@ header {
         height: 2rem;
         border-radius: 50%;
         position: fixed;
-        top: 4rem;
-        right: 4rem;
+        top: 3rem;
+        right: 3rem;
         background-image: radial-gradient(
             var(--nav-color),
             var(--nav-color-dark)
@@ -62,8 +62,8 @@ header {
         @media (max-width: 767px) {            
             top: 1rem;
             right: 1rem;
-            width: 3rem;
-            height: 3rem;
+            width: 2.5rem;
+            height: 2.5rem;
         }
     }
 
@@ -175,7 +175,7 @@ header {
                 background-color: var(--font-color);
                 display: inline-block;
             }
-            margin-top: 1.5rem;
+            margin-top: 1.2rem;
 
             &::before {
                 top: -0.4rem;
