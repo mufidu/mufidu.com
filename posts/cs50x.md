@@ -1,4 +1,4 @@
----
+noopener noreferrer"noopener noreferrer---
 title: "CS50x Summary"
 date: "2021-02-09"
 category: "devs"
