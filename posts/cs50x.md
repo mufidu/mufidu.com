@@ -15,6 +15,6 @@ translation: /cs50x/
 
 ![](/img/this-is-cs50.webp)
 
-I'm sorry but I'm not translating this. For the English version, I think it will be better to go to the <a href="https://cs50.harvard.edu/x/2021/" target="_blank" rel="noopener">original CS50x lectures</a>.
+I'm sorry but I'm not translating this. For the English version, I think it will be better to go to the <a href="https://cs50.harvard.edu/x/2021/" target="_blank" rel="noopener noreferrer">original CS50x lectures</a>.
 
 Cheers!
