@@ -115,7 +115,7 @@ This is a list of features that this site has. Mostly already come from the temp
 
 ### Security
 
-Generates a strong CSP for the base template.
+Generates a strong [Content-Security-Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP) for the base template.
 
 - Default-src is self.
 - Disallows plugins.
