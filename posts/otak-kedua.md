@@ -1,5 +1,5 @@
 ---
-title: "Otak Kedua"
+title: "The Second Brain"
 date: "2020-12-02"
 category: "thoughts"
 tags:

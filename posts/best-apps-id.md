@@ -76,7 +76,7 @@ Banyak banget aplikasi qur'an dan jadwal solat yang ada, dan kebanyakannya itu a
 
 Tapi biasanya aplikasi yang all-in-one gitu ada iklannya yang lumayan ganggu dan ngeharusin kita bayar buat ngilangin iklan itu. Jadi saya sendiri lebih memilih satu aplikasi buat qur'an, satu aplikasi lain buat jadwal solat.
 
-Aplikasi qur'an yang saya pakai itu [Qur'an for Android](https://play.google.com/store/apps/details?id=com.quran.labs.androidquran&hl=en&gl=US) dari [quran.com](http://quran.com). Disitu qurannya per halaman, bukan per ayat kaya aplikasi lain, dan ada banyak murottalnya juga yang bisa diplay per ayat. Keren banget. Gada iklan lagi.
+Aplikasi qur'an yang saya pakai itu [Qur'an for Android](https://play.google.com/store/apps/details?id=com.quran.labs.androidquran&hl=en&gl=US) dari [quran.com](https://quran.com). Disitu qurannya per halaman, bukan per ayat kaya aplikasi lain, dan ada banyak murottalnya juga yang bisa diplay per ayat. Keren banget. Gada iklan lagi.
 
 ![quran](/img/qurancom.webp)
 

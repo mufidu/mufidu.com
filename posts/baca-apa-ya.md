@@ -16,7 +16,7 @@ translation: /baca-apa-ya/
 
 We can be whatever we want if we read a lot. Elon Musk, founder of SpaceX who is now [the richest person in the world](https://www.bbc.com/news/technology-55578403#:~:text=Elon%20Musk%20has%20become%20the,had%20held%20it%20since%202017.), when asked how he understood the world of rocketry, his answer was, "I read books."
 
-Almost all billionaires in the world are people who really love to read books. Warren Buffet claims he reads [500 pages per day](http://www.usatoday.com/story/money/personalfinance/2014/08/24/peculiar-habits-of-successful-people/14447531/), Bill Gates reads [50 books per year](http://www.businessinsider.com/why-bill-gates-reads-50-books-a-year-2015-11), and Mark Zuckerberg finishes [one book per two weeks](http://www.businessinsider.com/end-of-year-mark-zuckerberg-book-recommendations-2015-12/#the-idea-factory-bell-labs-and-the-).
+Almost all billionaires in the world are people who really love to read books. Warren Buffet claims he reads [500 pages per day](https://www.usatoday.com/story/money/personalfinance/2014/08/24/peculiar-habits-of-successful-people/14447531/), Bill Gates reads [50 books per year](https://www.businessinsider.com/why-bill-gates-reads-50-books-a-year-2015-11), and Mark Zuckerberg finishes [one book per two weeks](https://www.businessinsider.com/end-of-year-mark-zuckerberg-book-recommendations-2015-12/#the-idea-factory-bell-labs-and-the-).
 
 That's a lot. I guess it's time for us to start to love reading, too. Especially in this age, almost all books already have their digital version, and we can read it anytime, anywhere, as long as we hold our cellphone. It's not just books. There are also lots of cool articles that we can find on the internet. It's just a matter of whether we want to read them or not.
 
@@ -42,4 +42,4 @@ It's not "we can't read everything," but **"we can't finish everything"**. It wi
 
 ==Increase the input, strengthen the filter.==
 
-This article was written with the initial idea from ​​[here](https://www.samuelthomasdavies.com/words-into-works/june-25-2020/) and [here](http://www.collaborativefund.com/blog/how-to-read-lots-of-inputs-and-a-strong-filter/).
+This article was written with the initial idea from ​​[here](https://www.samuelthomasdavies.com/words-into-works/june-25-2020/) and [here](https://www.collaborativefund.com/blog/how-to-read-lots-of-inputs-and-a-strong-filter/).

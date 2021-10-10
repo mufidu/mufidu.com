@@ -20,7 +20,7 @@ Dulu AI dan robot dianggap cuman bisa gantiin kerjaan yang mudah, berpola, dan b
 
 Terakhir, ada [GPT 3](https://en.wikipedia.org/wiki/GPT-3) yang bisa memproduksi kata-kata yang seolah-olah dibuat oleh manusia. Kata-kata yang dihasilkan mirip banget sama yang beneran dihasilin manusia, soalnya GPT 3 ini dilatih menggunakan 175 miliar parameter, sehingga cukup pintar untuk [membuat sebuah artikel](https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3).
 
-Bukan cuman itu doang, ada beberapa insinyur yang berhasil ngebuat tool-tool keren menggunakan GPT 3 ini, yang paling menarik buat saya adalah React code generator yang dibuat sama [debuild.co](http://debuild.co).
+Bukan cuman itu doang, ada beberapa insinyur yang berhasil ngebuat tool-tool keren menggunakan GPT 3 ini, yang paling menarik buat saya adalah React code generator yang dibuat sama [debuild.co](https://debuild.co).
 
 https://twitter.com/mufidu_/status/1374880370445840384?ref_src=twsrc%5Etfw
 

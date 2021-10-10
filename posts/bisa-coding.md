@@ -20,7 +20,7 @@ In the past, AI and robots were considered to only be able to replace easy, patt
 
 Finally, there is [GPT 3](https://en.wikipedia.org/wiki/GPT-3), which can produce words as if they were made by humans. The words produced are very similar to those actually produced by humans. GPT 3 is trained using 175 billion parameters, so it is smart enough to [create an article](https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3).
 
-Not only that, several engineers have succeeded in making cool tools using GPT 3. The most interesting thing for me is the React code generator made by [debuild.co](http://debuild.co).
+Not only that, several engineers have succeeded in making cool tools using GPT 3. The most interesting thing for me is the React code generator made by [debuild.co](https://debuild.co).
 
 https://twitter.com/mufidu_/status/1374880370445840384?ref_src=twsrc%5Etfw
 
