@@ -78,6 +78,7 @@ const localImages = require("./third_party/eleventy-plugin-local-images/.elevent
 const CleanCSS = require("clean-css");
 const embedEverything = require("eleventy-plugin-embed-everything");
 const GA_ID = require("./_data/metadata.json").googleAnalyticsId;
+const mila = require('markdown-it-link-attributes')
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
@@ -284,7 +285,15 @@ module.exports = function (eleventyConfig) {
       permalinkClass: "direct-link",
       permalinkSymbol: "#",
     })
-    .use(require("markdown-it-mark"));
+    .use(require("markdown-it-mark"))
+    .use(mila, {
+      pattern: /^https:/,
+      attrs: {
+        target: '_blank',
+        rel: 'noopener noreferrer'
+      }
+    });
+  
   eleventyConfig.setLibrary("md", markdownLibrary);
 
   // Browsersync Overrides

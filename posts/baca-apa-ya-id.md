@@ -16,7 +16,7 @@ translation: /what-to-read/
 
 Kita bisa jadi apa aja yang kita mau kalo banyak baca. Elon Musk, founder SpaceX yang sekarang adalah [orang terkaya di dunia](https://www.bbc.com/news/technology-55578403#:~:text=Elon%20Musk%20has%20become%20the,had%20held%20it%20since%202017.), ketika ditanya gimana dia bisa paham dunia peroketan, jawabannya, "I read books".
 
-Hampir semua biliuner adalah orang yang rajin banget baca buku. Warren Buffet mengklaim dia membaca [500 halaman per hari](http://www.usatoday.com/story/money/personalfinance/2014/08/24/peculiar-habits-of-successful-people/14447531/), Bill Gates membaca [50 buku per tahun](http://www.businessinsider.com/why-bill-gates-reads-50-books-a-year-2015-11), dan Mark Zuckerberg menamatkan [satu buku per dua minggu](http://www.businessinsider.com/end-of-year-mark-zuckerberg-book-recommendations-2015-12/#the-idea-factory-bell-labs-and-the-).
+Hampir semua biliuner adalah orang yang rajin banget baca buku. Warren Buffet mengklaim dia membaca [500 halaman per hari](https://www.usatoday.com/story/money/personalfinance/2014/08/24/peculiar-habits-of-successful-people/14447531/), Bill Gates membaca [50 buku per tahun](https://www.businessinsider.com/why-bill-gates-reads-50-books-a-year-2015-11), dan Mark Zuckerberg menamatkan [satu buku per dua minggu](https://www.businessinsider.com/end-of-year-mark-zuckerberg-book-recommendations-2015-12/#the-idea-factory-bell-labs-and-the-).
 
 Banyak banget ya. Kayanya udah waktunya kita rajin baca juga. Apalagi di zaman ini, hampir semua buku udah ada versi digitalnya dan bisa kita baca kapanpun dimanapun selama pegang HP. Bukan cuman buku, ada banyak juga artikel-artikel keren yang bisa kita temuin di internet, tinggal kitanya aja yang mau baca apa ngga.
 
@@ -42,4 +42,4 @@ Bukan "ga semua bisa kita baca". Tapi **"ga semua bisa kita tamatin"**. Bakal ja
 
 ==Perbanyak input, perkuat filter.==
 
-Artikel ini dibuat dengan ide awal dari [sini](https://www.samuelthomasdavies.com/words-into-works/june-25-2020/) dan [sini](http://www.collaborativefund.com/blog/how-to-read-lots-of-inputs-and-a-strong-filter/).
+Artikel ini dibuat dengan ide awal dari [sini](https://www.samuelthomasdavies.com/words-into-works/june-25-2020/) dan [sini](https://www.collaborativefund.com/blog/how-to-read-lots-of-inputs-and-a-strong-filter/).
