@@ -19,7 +19,7 @@ Sebenernya ada dua alasan saya ngebuat website ini.
 
 Beberapa catetan yang bagus bakal diedit dan diterbitin di sini.
 
-Web ini merhatiin banget ==performa== sama ==speed==, makanya keliatan simpel gini. Yang keren-keren ada di [kerjaan saya yang lain](/id/projects/).
+Di setiap website yang saya buat, saya biasanya fokus ke satu aspek. Website ini merhatiin banget ==simplicity== sama ==speed==, makanya keliatan simpel gini. Yang keren-keren ada di [kerjaan saya yang lain](/id/projects/).
 
 ## Tentang saya
 

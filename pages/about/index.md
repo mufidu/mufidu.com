@@ -19,7 +19,7 @@ There are two reasons I build this site:
 
 Some good notes will be edited and published here.
 
-This site is built with performance as a priority, so it's pretty simple. All the cool stuff is in [my other projects](/projects/).
+In every website I wrote, I focus on maximizing one aspect. This site is built with performance as a priority, so it's pretty simple. All the cool stuff is in [my other projects](/projects/).
 
 ## About me
 
