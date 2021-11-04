@@ -9,7 +9,7 @@ translation: /id/projects
 permalink: /projects/
 ---
 
-Welcome to my (so-called) project showcase!
+Welcome to my (so-called) project showcase! As usual, all source codes are available on [my GitHub](https://github.com/mufidu).
 
 Here are some of them:
 

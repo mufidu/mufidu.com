@@ -9,7 +9,7 @@ translation: /projects/
 permalink: /id/projects/
 ---
 
-Ini adalah beberapa hal yang pernah saya buat. Bisa dibilang portofolio kali ya.
+Ini adalah beberapa hal yang pernah saya buat. Bisa dibilang portofolio kali ya. Semua source code ada di [GitHub saya](https://github.com/mufidu).
 
 - ==Front-end Intro==
 
