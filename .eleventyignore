@@ -1,6 +1,7 @@
 .DS_Store
 .github/
-.netlify/
+.vscode/
+.editorconfig
 _site/
 node_modules/
 package-lock.json
@@ -8,5 +9,5 @@ README.md
 _11ty/
 third_party
 functions
-test
+LICENSE
 .oryx_prod_node_modules/

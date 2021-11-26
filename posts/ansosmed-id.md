@@ -18,7 +18,7 @@ featured: true
 
 Setelah beli hp baru kemarin, hal pertama yang saya lakuin adalah setting itu hp sedemikian rupa biar bisa bantu saya jadi orang yang lebih produktif, bukan sebaliknya.
 
-Saya matiin semua notifikasi instagram, twitter, dll dan cuman nyisain notif buat hal-hal penting kaya whatsapp dan gojek (suka ada chat dari drivernya kan). Saya juga batesin pemakaian socmed antara 5 atau 10 menit dan setelah itu aplikasinya bakal pause gabisa dibuka lagi sampe besoknya.
+Saya matiin semua notifikasi Instagram, Twitter, dll dan cuman nyisain notif buat hal-hal penting kaya WhatsApp sama Gojek (suka ada chat dari drivernya kan). Saya juga batesin pemakaian socmed antara 5 atau 10 menit dan setelah itu aplikasinya bakal kepause, gabisa dibuka lagi sampe besok.
 
 Hasilnya? Mungkin buat produktivitas sendiri ga terlalu kerasa karena sekarang lagi libur, tapi buat saya sendiri rasanya jadi jauh lebih tenang. Saya bisa milih apa yang saya mau baca dan tonton tanpa ada rekomendasi dari YouTube atau Google.
 

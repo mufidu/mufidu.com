@@ -51,7 +51,7 @@ const purifyCss = async (rawContent, outputPath) => {
 
     before = before.replace(
       /@font-face {/g,
-      "@font-face {font-display:optional;"
+      "@font-face {font-display:auto;"
     );
 
     const purged = await new PurgeCSS().purge({
