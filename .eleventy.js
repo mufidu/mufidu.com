@@ -77,7 +77,6 @@ const markdownItAnchor = require("markdown-it-anchor");
 const localImages = require("./third_party/eleventy-plugin-local-images/.eleventy.js");
 const CleanCSS = require("clean-css");
 const embedEverything = require("eleventy-plugin-embed-everything");
-const GA_ID = require("./_data/metadata.json").googleAnalyticsId;
 const mila = require('markdown-it-link-attributes')
 
 module.exports = function (eleventyConfig) {
@@ -112,7 +111,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(require("./_11ty/img-dim.js"));
   eleventyConfig.addPlugin(require("./_11ty/json-ld.js"));
   eleventyConfig.addPlugin(require("./_11ty/optimize-html.js"));
-  eleventyConfig.addPlugin(require("./_11ty/apply-csp.js"));
 
   eleventyConfig.setDataDeepMerge(true);
   eleventyConfig.addLayoutAlias("post-id", "layouts/post-id.njk");
@@ -215,7 +213,7 @@ module.exports = function (eleventyConfig) {
     return array.slice(0, n);
   });
 
-  eleventyConfig.addCollection("tagList", require("./_11ty/getTagList"));
+  eleventyConfig.addCollection("tagList", require("./_11ty/get-tags"));
 
   // adding categories
   getCatList = function (collection) {
@@ -261,8 +259,6 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
-  // We need to copy cached.js only if GA is used
-  eleventyConfig.addPassthroughCopy(GA_ID ? "js" : "js/*[!cached].*");
   eleventyConfig.addPassthroughCopy("fonts");
   eleventyConfig.addPassthroughCopy("_headers");
   eleventyConfig.addPassthroughCopy("cv.html");
