@@ -13,13 +13,17 @@ These are things I'm doing at the moment. Part of [/now movement](https://nownow
 
 ## Currently reading
 
-- [The Virgin Way: Everything I Know About Leadership - Richard Branson](https://www.goodreads.com/book/show/22129114-the-virgin-way)
+- [A Mind for Numbers - Barbara Oakley](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers)
 
-  This book is about his stories when building the Virgin Companies. Really love reading it until now.
+  Talking about how to learn effectively, especially in math and science. Nice book.
 
 > See [what I've read](https://www.goodreads.com/review/list/123404048-muhammad-mufid?shelf=read)
 
 ## Currently learning
+
+- [Being A Front-End Web Developer Expert](https://www.dicoding.com/academies/219/)
+
+  I enroll this course as a part of [IDCamp 2021](https://idcamp.indosatooredoo.com/).
 
 - [The Web Developer Bootcamp - Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/)
 
@@ -41,10 +45,10 @@ These are things I'm doing at the moment. Part of [/now movement](https://nownow
 
 ## Currently watching
 
-- [Breaking Bad](https://www.imdb.com/title/tt0903747/)
+- [Narcos](https://www.imdb.com/title/tt2707408/)
 
-  Many people in Quora say that this is the best show airing right now. So, after finishing [Prison Break](https://www.imdb.com/title/tt0455275/), I decided to binge this show. But currently, I have many shits to done so I have to postpone this for later. :(
+  Who've never heard of Pablo Escobar?
 
-- [Agent Carter](https://www.imdb.com/title/tt3475734/)
+- [Hawkeye](https://www.imdb.com/title/tt10160804/)
 
-  I like her.
+  The newest MCU series. Not as good as their movies, but it's still fun to be watched.

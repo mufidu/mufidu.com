@@ -13,13 +13,17 @@ Ini beberapa hal yang lagi saya lakuin sekarang. Bagian dari [/now movement](htt
 
 ## Yang lagi dibaca
 
-- [The Virgin Way: Everything I Know About Leadership - Richard Branson](https://www.goodreads.com/book/show/22129114-the-virgin-way)
+- [A Mind for Numbers - Barbara Oakley](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers)
 
-  Buku tentang cerita Richard Branson pas lagi ngebangun Virgin Companies. Seru sih isinya.
+  Ngebahas tentang gimana caranya belajar yang efektif, terutama di Matematika dan Sains. Seru sih ini.
 
 > Lihat apa aja yang [udah saya baca](https://www.goodreads.com/review/list/123404048-muhammad-mufid?shelf=read)
 
 ## Yang lagi dipelajarin
+
+- [Menjadi Front-End Web Developer Expert](https://www.dicoding.com/academies/219/)
+
+  Dapet kesempatan belajar ini soalnya saya _alhamdulillah_ jadi penerima beasiswa [IDCamp 2021](https://idcamp.indosatooredoo.com/).
 
 - [The Web Developer Bootcamp - Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/)
 
@@ -41,10 +45,10 @@ Ini beberapa hal yang lagi saya lakuin sekarang. Bagian dari [/now movement](htt
 
 ## Yang lagi ditonton
 
-- [Breaking Bad](https://www.imdb.com/title/tt0903747/)
+- [Narcos](https://www.imdb.com/title/tt2707408/)
 
-  Kata orang-orang sih bagus.
+  Ceritanya Pablo Escobar. Baru satu episode sih, tapi keren awalnya.
 
-- [Agent Carter](https://www.imdb.com/title/tt3475734/)
+- [Hawkeye](https://www.imdb.com/title/tt10160804/)
 
-  Ceritanya abis ditinggal Steve Rogers :(
+  Series paling baru dari MCU. Ga sebagus film-filmnya, tapi lumayan lah.
