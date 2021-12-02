@@ -118,9 +118,16 @@ html {
   src: url("/fonts/Inter-3.19.var.woff2") format("woff2");
 }
 
+@font-face {
+    font-family: "Inter-fallback";
+    size-adjust: 107.05%;
+    ascent-override: 82%;
+    src: local("Arial");
+}
+
 html {
-  font-family: Inter UI, sans-serif;
-  --font-family: Inter UI, sans-serif;
+  font-family: Inter UI, Inter-fallback;
+  --font-family: Inter UI, Inter-fallback;
 }
 
 body {
