@@ -29,9 +29,9 @@ Ini beberapa hal yang lagi saya lakuin sekarang. Bagian dari [/now movement](htt
 
   Ini tempat saya mulai belajar ngebangun web. Isinya panjang banget, total 60 jam lebih. Sampe sekarang emang belum tamat haha.
 
-- [Germany - Duolingo](https://www.duolingo.com/course/de/en/Learn-German)
+- [Spanish - Duolingo](https://www.duolingo.com/course/es/en/Learn-Spanish)
 
-  Biar bisa nonton [Dark](https://www.imdb.com/title/tt5753856/) gapake subtitle.
+  Biar bisa nonton [Money Heist](https://www.imdb.com/title/tt6468322/) gapake subtitle.
 
 > Lihat [sertifikasi](https://www.linkedin.com/in/mufidu/) (ga banyak sih)
 

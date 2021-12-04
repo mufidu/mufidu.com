@@ -29,9 +29,9 @@ These are things I'm doing at the moment. Part of [/now movement](https://nownow
 
   It's where my journey to web development began. I did many practices and projects while doing this course, but still haven't finished it yet.
 
-- [Germany - Duolingo](https://www.duolingo.com/course/de/en/Learn-German)
+- [Spanish - Duolingo](https://www.imdb.com/title/tt6468322/)
 
-  It's cool to be a polyglot, right?
+  So I can watch [Money Heist](https://www.imdb.com/title/tt6468322/) without subtitle.
 
 > See [my courses' certificates](https://www.linkedin.com/in/mufidu/)
 

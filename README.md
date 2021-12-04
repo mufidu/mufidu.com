@@ -51,7 +51,7 @@ This is a list of features that this site has. Mostly already come from the temp
 - Perfect score in applicable lighthouse audits (including accessibility).
 - Single HTTP request to [First Contentful Paint](https://web.dev/first-contentful-paint/).
 - Very optimized [Largest Contentful Paint](https://web.dev/lcp/) (score depends on image usage, but images are optimized).
-- 0 [Cumulative Layout Shift](https://web.dev/cls/).
+- ~0 [Cumulative Layout Shift](https://web.dev/cls/).
 - ~0 [First Input Delay](https://web.dev/fid/).
 
 ### Performance optimizations
@@ -80,7 +80,7 @@ This is a list of features that this site has. Mostly already come from the temp
 #### Miscellaneous
 
 - Immutable URLs for JS.
-- Sets immutable caching headers for images, fonts, and JS (CSS is inlined). Currently implements for Netlify `_headers` file.
+- Sets immutable caching headers for images, fonts, and JS (CSS is inlined). Currently implements for Netlify and Cloudflare `_headers` file.
 - Minifies HTML and optimizes it for compression. Uses [html-minifier](https://www.npmjs.com/package/html-minifier) with aggressive options.
 - Uses [rollup](https://rollupjs.org/) to bundle JS and minifies it with [terser](https://terser.org/).
 - Prefetches same-origin navigations when a navigation is likely (when hovered).
@@ -89,7 +89,7 @@ This is a list of features that this site has. Mostly already come from the temp
 #### Fonts
 
 - Serves fonts from same origin.
-- Makes fonts `display:optional`.
+- Makes fonts `display:swap` and use a custom font fallback.
 
 #### Analytics
 
