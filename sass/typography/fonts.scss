@@ -111,6 +111,10 @@ html {
   }
 }
 */
+@import url('https://fonts.googleapis.com/css2?family=Varta&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
 @font-face {
   font-family: "Inter UI";
   font-weight: 100 900;
@@ -126,8 +130,8 @@ html {
 }
 
 html {
-  font-family: Inter UI, Inter-fallback;
-  --font-family: Inter UI, Inter-fallback;
+  font-family: Lora, Inter-fallback;
+  --font-family: Lora, Inter-fallback;
 }
 
 body {
