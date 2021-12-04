@@ -111,6 +111,8 @@ html {
   }
 }
 */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
 @font-face {
   font-family: "Inter UI";
   font-weight: 100 900;
@@ -126,8 +128,8 @@ html {
 }
 
 html {
-  font-family: Inter UI, Inter-fallback;
-  --font-family: Inter UI, Inter-fallback;
+  font-family: 'Open Sans', sans-serif;
+  --font-family: 'Open Sans', sans-serif;
 }
 
 body {
