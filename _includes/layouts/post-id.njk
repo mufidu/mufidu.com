@@ -16,8 +16,7 @@ templateClass: tmpl-post
 <br>
 <hr>
 <p>
-  Terima kasih udah baca sampai selesai! <a href="{{ shareUrl | safe }}" on-click="share">Sharing</a> artikel ini bakal sangat dihargai 💖! Kalo ada masukan, bisa langsung 
-  <a href="https://twitter.com/{{ metadata.author.twitterHandle }}" target="_blank" rel="noopener noreferrer">DM di Twitter</a> aja ya!
+  <a href="{{ shareUrl | safe }}" on-click="share">Share</a> // <a href="mailto:mufidu@outlook.com?subject=Response for {{ title }}">Feedback</a>
 </p>
 <p>
   {% for tag in tags %}

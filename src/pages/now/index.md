@@ -45,10 +45,6 @@ These are things I'm doing at the moment. Part of [/now movement](https://nownow
 
 ## Currently watching
 
-- [Narcos](https://www.imdb.com/title/tt2707408/)
+- [Arcane](https://www.imdb.com/title/tt11126994/)
 
-  Who've never heard of Pablo Escobar?
-
-- [Hawkeye](https://www.imdb.com/title/tt10160804/)
-
-  The newest MCU series. Not as good as their movies, but it's still fun to be watched.
+  The origin story of two legendary League of Legends characters, Jinx and Vy. I don't play the game, but their series is really worth watching.

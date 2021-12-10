@@ -8,7 +8,7 @@ coverImage: "/img/pexels-pixabay-39671.webp"
 permalink: /stop-plan/
 layout: post-en
 lang: en
-translation: /stop-plan-id/
+translation: /id/stop-plan/
 ---
 
 ![](/img/pexels-pixabay-39671.webp)

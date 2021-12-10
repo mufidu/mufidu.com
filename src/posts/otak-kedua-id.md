@@ -15,7 +15,7 @@ translation: /second-brain/
 
 ![](/img/pexels-david-cassolato-818563.webp)
 
-Artikel saya kemarin, [insight buku The Lean Startup](/lean-startup-id/) kayanya ga terlalu bisa dibilang sukses (ga runut, poinnya ga dirangkum sampai selesai). Sebenernya itu mungkin karena saya gamau nulis yang biasa aja si, kaya hal-hal basi yang semua orang udah tau. Jadi cukup yang penting-pentingnya aja yang bener-bener bisa nambah insight. Seperti biasa semua saya tulis di Evernote.
+Artikel saya kemarin, [insight buku The Lean Startup](/id/lean-startup/) kayanya ga terlalu bisa dibilang sukses (ga runut, poinnya ga dirangkum sampai selesai). Sebenernya itu mungkin karena saya gamau nulis yang biasa aja si, kaya hal-hal basi yang semua orang udah tau. Jadi cukup yang penting-pentingnya aja yang bener-bener bisa nambah insight. Seperti biasa semua saya tulis di Evernote.
 
 Kemarin saya baru install Evernote versi aplikasinya. Biasanya saya pake versi web, yang diinstall lewat Microsoft Edge, tapi sekarang saya install langsung Evernotenya, biar bisa dapet semua advantage aplikasi yang ada.
 

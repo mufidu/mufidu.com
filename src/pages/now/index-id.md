@@ -45,10 +45,6 @@ Ini beberapa hal yang lagi saya lakuin sekarang. Bagian dari [/now movement](htt
 
 ## Yang lagi ditonton
 
-- [Narcos](https://www.imdb.com/title/tt2707408/)
+- [Arcane](https://www.imdb.com/title/tt11126994/)
 
-  Ceritanya Pablo Escobar. Baru satu episode sih, tapi keren awalnya.
-
-- [Hawkeye](https://www.imdb.com/title/tt10160804/)
-
-  Series paling baru dari MCU. Ga sebagus film-filmnya, tapi lumayan lah.
+  Cerita tentang karakter di game League of Legends. Saya gasuka gamenya, tapi seriesnya seru sih.

@@ -5,7 +5,7 @@ category: "thoughts"
 tags: 
     - "planning"
 coverImage: "/img/pexels-pixabay-39671.webp"
-permalink: /stop-plan-id/
+permalink: /id/stop-plan/
 layout: post-id
 lang: id
 translation: /stop-plan/

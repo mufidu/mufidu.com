@@ -8,7 +8,7 @@ tags:
   - "business"
   - "concept"
 coverImage: "/img/pexels-aline-viana-prado-2465877.webp"
-permalink: /lean-startup-id/
+permalink: /id/lean-startup/
 layout: post-id
 lang: id
 translation: /lean-startup/

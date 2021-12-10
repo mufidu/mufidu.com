@@ -11,7 +11,7 @@ coverImage: "/img/pexels-aline-viana-prado-2465877.webp"
 permalink: /lean-startup/
 layout: post-en
 lang: en
-translation: /lean-startup-id/
+translation: /id/lean-startup/
 ---
 
 ![](/img/pexels-aline-viana-prado-2465877.webp)
