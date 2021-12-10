@@ -6,15 +6,13 @@
   "scripts": {
     "serve": "DEBUG=Eleventy:Benchmark* npx @11ty/eleventy --serve",
     "start": "concurrently \"npm run watch:sass\" \"eleventy --serve\" \"npm run js-build-watch\"",
-    "watch:sass": "npx sass --watch --style=expanded sass/main.scss css/main.css",
-    "build:sass": "npx sass --style=expanded sass/main.scss css/main.css",
+    "watch:sass": "npx sass --watch --style=expanded src/assets/sass/main.scss css/main.css",
+    "build:sass": "npx sass --style=expanded src/assets/sass/main.scss css/main.css",
     "build": "npm run js-build && npm run build:sass && eleventy && ./.persistimages.sh",
     "deploy": "npm run js-build && npm run build:sass && eleventy",
     "js-build": "rollup -c rollup.config.js",
     "js-build-watch": "rollup -c rollup.config.js -w",
-    "debug": "DEBUG=* eleventy && npm run test",
-    "test": "mocha test/test*.js",
-    "test-watch": "mocha test/test*.js --watch"
+    "debug": "DEBUG=* eleventy"
   },
   "pre-push": [],
   "pre-commit": [],
