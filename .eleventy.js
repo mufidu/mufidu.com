@@ -257,10 +257,10 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addCollection("categories", makeCategories);
 
-  eleventyConfig.addPassthroughCopy("img");
+  eleventyConfig.addPassthroughCopy({ "src/assets/img": "img" });
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("js");
-  eleventyConfig.addPassthroughCopy("fonts");
+  eleventyConfig.addPassthroughCopy({ "src/assets/fonts": "fonts" });
   eleventyConfig.addPassthroughCopy("_headers");
   eleventyConfig.addPassthroughCopy("cv.html");
 

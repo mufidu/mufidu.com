@@ -136,8 +136,7 @@ dist
 # Eleventy
 .tern-port
 .DS_Store
-js/min.js
-js/min.js.map
+/js
 .vscode/
 .netlify/
 export

@@ -2,7 +2,7 @@ import { terser } from "rollup-plugin-terser";
 
 export default [
   {
-    input: "src/main.js",
+    input: "src/assets/js/main.js",
     output: [
       {
         file: "js/min.js",
@@ -13,7 +13,7 @@ export default [
     ],
   },
   {
-    input: "src/bp.js",
+    input: "src/assets/js/bp.js",
     output: [
       {
         file: "js/bp-min.js",
@@ -23,26 +23,4 @@ export default [
       },
     ],
   },
-  // {
-  //   input: "src/um.js",
-  //   output: [
-  //     {
-  //       file: "js/um-min.js",
-  //       format: "iife",
-  //       sourcemap: true,
-  //       plugins: [terser()],
-  //     },
-  //   ],
-  // },
-  // {
-  //   input: "src/go.js",
-  //   output: [
-  //     {
-  //       file: "js/go-min.js",
-  //       format: "iife",
-  //       sourcemap: true,
-  //       plugins: [terser()],
-  //     },
-  //   ],
-  // },
 ];
