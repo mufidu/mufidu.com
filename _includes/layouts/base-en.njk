@@ -120,7 +120,9 @@
       <div class="post-header">
         {% if not category %}
           <h1 class="center">{{ title }}</h1>
-          <p class="center"><a href="{{ translation | url }}">id</a> / en</p>
+          {% if translation != false %}
+            <p class="center"><a href="{{ translation | url }}">id</a> / en</p>
+          {% endif %}
         {% else %}
           <h1>{{ title }}</h1>
           {% if translation %}
