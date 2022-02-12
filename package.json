@@ -1,8 +1,8 @@
 {
-  "name": "eleventy-high-performance-blog",
-  "version": "5.0.2",
-  "license": "MIT",
-  "description": "A starter repository for a blog web site using the Eleventy static site generator.",
+  "name": "mufidu.com",
+  "version": "1.0.0",
+  "license": "CC BY-NC-SA 4.0",
+  "description": "Mufid's personal website.",
   "scripts": {
     "serve": "DEBUG=Eleventy:Benchmark* npx @11ty/eleventy --serve",
     "start": "concurrently \"npm run watch:sass\" \"eleventy --serve\" \"npm run js-build-watch\"",
@@ -18,12 +18,12 @@
   "pre-commit": [],
   "repository": {
     "type": "git",
-    "url": "git://github.com/11ty/eleventy-base-blog.git"
+    "url": "https://github.com/mufidu/mufidu.com.git"
   },
   "bugs": {
-    "url": "https://github.com/11ty/eleventy-base-blog/issues"
+    "url": "https://github.com/mufidu/mufidu.com/issues"
   },
-  "homepage": "https://github.com/11ty/eleventy-base-blog#readme",
+  "homepage": "https://github.com/mufidu/mufidu.com#readme",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.0",
     "@11ty/eleventy-navigation": "^0.1.3",
