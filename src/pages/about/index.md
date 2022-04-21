@@ -30,5 +30,6 @@ Check out my online presences:
 - [GitHub](https://github.com/mufidu)
 - [LinkedIn](https://linkedin.com/in/mufidu)
 - [Instagram](https://instagram.com/mufidu_)
+- [Goodreads](https://www.goodreads.com/user/show/123404048-muhammad-mufid)
 
 Wanna reach out? The best way for contacting me is [via email](mailto:mufidu@outlook.com).

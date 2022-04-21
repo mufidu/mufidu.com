@@ -27,10 +27,11 @@ Nama lengkap saya Muhammad Mufid Utomo. Sekarang saya adalah mahasiswa Informati
 
 Saya juga sering ngabisin waktu buat belajar sama nyoba hal baru, bisa diliat apa yang lagi saya kerjain [sekarang](/id/now/).
 
-Beberapa sosmed yang saya punya:
+Beberapa kehadiran saya di website lain:
 
 - [GitHub](https://github.com/mufidu)
 - [LinkedIn](https://linkedin.com/in/mufidu)
 - [Instagram](https://instagram.com/mufidu_)
+- [Goodreads](https://www.goodreads.com/user/show/123404048-muhammad-mufid)
 
 Buat yang mau ngobrol, bisa langsung [via email](mailto:mufidu@outlook.com) aja ya.
