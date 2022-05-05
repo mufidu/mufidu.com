@@ -11,6 +11,12 @@ permalink: /id/projects/
 
 Ini adalah beberapa hal yang pernah saya buat. Bisa dibilang portofolio kali ya. Semua source code ada di [GitHub saya](https://github.com/mufidu).
 
+- ==Booku==
+
+  [Live site](https://booku.mufidu.com) | [GitHub](https://github.com/mufidu/booku)
+
+  Book manager untuk semua orang (belum ada sistem login soalnya haha).
+
 - ==Front-end Intro==
 
   [Live site](https://mufidu.github.io/frontend-intro) | [GitHub](https://github.com/mufidu/frontend-intro)

@@ -13,6 +13,12 @@ Welcome to my (so-called) project showcase! As usual, all source codes are avail
 
 Here are some of them:
 
+- ==Booku==
+
+  [Live site](https://booku.mufidu.com) | [GitHub](https://github.com/mufidu/booku)
+
+  Public book manager for everyone, as there is no login system yet.
+
 - ==Front-end Intro==
 
   [Live site](https://mufidu.github.io/frontend-intro) | [GitHub](https://github.com/mufidu/frontend-intro)
