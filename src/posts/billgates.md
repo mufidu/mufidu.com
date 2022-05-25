@@ -1,5 +1,5 @@
 ---
-title: "Don't Be Like Bill"
+title: "(Don't) Be Like Bill"
 date: "2022-05-24"
 category: "thoughts"
 tags:
