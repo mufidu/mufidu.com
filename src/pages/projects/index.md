@@ -35,6 +35,14 @@ Here are some of them:
 
 ---
 
+- ==Lexical Analyzer and Parser for Basa Sunda==
+
+  [Live site](https://mufidu.github.io/sunda-lexical-analyzer-and-parser/) | [GitHub](https://github.com/mufidu/sunda-lexical-analyzer-and-parser/)
+
+  Made as an assignment for Theory of Language and Automata course in my college.
+
+---
+
 - ==Cari di Qur'an==
 
   [Live site](https://mufidu.github.io/caridiquran) | [GitHub](https://github.com/mufidu/caridiquran)

@@ -33,6 +33,14 @@ Ini adalah beberapa hal yang pernah saya buat. Bisa dibilang portofolio kali ya.
 
 ---
 
+- ==Lexical Analyzer dan Parser untuk Basa Sunda==
+
+  [Live site](https://mufidu.github.io/sunda-lexical-analyzer-and-parser/) | [GitHub](https://github.com/mufidu/sunda-lexical-analyzer-and-parser/)
+
+  Dibuat untuk tugas besar Mata Kuliah Teori Bahasa dan Automata.
+
+---
+
 - ==Cari di Qur'an==
 
   [Live site](https://mufidu.github.io/caridiquran) | [GitHub](https://github.com/mufidu/caridiquran)
