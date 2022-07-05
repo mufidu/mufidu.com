@@ -13,9 +13,7 @@ lang: id
 translation: /billgates/
 ---
 
-![bill-gates](/img/cropped-bill-10.jpg)
-
-> Pics: [considerable](https://www.considerable.com/entertainment/retronaut/bill-gates-photos-young/)
+![bill-gates](/img/cropped-bill-10.jpg "Doug Wilson / Corbis / Getty Images")
 
 Kayanya udah banyak banget cerita yang kita denger kalo Bill Gates itu totalitas banget pas ngembangin Microsoft di awal-awal, bahkan sampai rela drop out dari universitas terbaik di dunia, Harvard.
 

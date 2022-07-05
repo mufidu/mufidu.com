@@ -289,8 +289,10 @@ module.exports = function (eleventyConfig) {
         target: '_blank',
         rel: 'noopener noreferrer'
       }
-    });
-  
+    })
+    .use(require('markdown-it-image-figures'),
+      { figcaption: true });
+
   eleventyConfig.setLibrary("md", markdownLibrary);
 
   // Browsersync Overrides

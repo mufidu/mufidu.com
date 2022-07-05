@@ -13,9 +13,7 @@ lang: en
 translation: /id/billgates/
 ---
 
-![bill-gates](/img/cropped-bill-10.jpg)
-
-> Pics: [considerable](https://www.considerable.com/entertainment/retronaut/bill-gates-photos-young/)
+![bill-gates](/img/cropped-bill-10.jpg "Doug Wilson / Corbis / Getty Images")
 
 We've heard the infamous story of Bill Gates' commitment to developing Microsoft in the early days. He was even willing to drop out of Harvard in order to build his company.
 
