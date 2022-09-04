@@ -32,4 +32,4 @@ Kerugian paling besar adalah produktif buat hal yang seharusnya malah gausah dik
 
 Belajar ga harus gagal dulu, dan gagal ga mastiin kita bakal belajar. Kalo tujuannya cuman pengen liat apa yang bakal terjadi nanti, kita dipastiin bakal sukses raih tujuan itu, tapi bukan berarti bakal dapet pelajaran berharganya.
 
-Yang lainnya, masih jadi poin-poin, bisa dibaca sendiri [di sini](https://www.evernote.com/shard/s337/sh/544127cd-84f1-cf65-bb02-e9a171204071/254fbc258f270bf43ba7ec8e4245c146).
+Yang lainnya, masih jadi poin-poin, bisa dibaca sendiri [di sini](http://simp.ly/p/sVqvRR).

@@ -34,4 +34,4 @@ The biggest loss is being productive for things that you shouldn't even do. You 
 
 Learning does not have to fail first, and failing does not guarantee that we will learn. If the goal is only to see what will happen in the future, we can be sure that we will succeed in achieving that goal, but that does not mean that we will learn valuable lessons.
 
-The other thoughts are still in bullet points. You can read them [here](https://www.evernote.com/shard/s337/sh/76163244-072b-7e88-ccc8-6ca62e4adc04/4d7ab2a58da40ce2756f9a83169656eb) (raw translation).
+The other thoughts are still in bullet points. You can read them [here](http://simp.ly/p/dR956T) (raw translation).
