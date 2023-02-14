@@ -11,11 +11,29 @@ permalink: /id/projects/
 
 Ini adalah beberapa hal yang pernah saya buat. Bisa dibilang portofolio kali ya. Semua source code ada di [GitHub saya](https://github.com/mufidu).
 
+- ==SociaLife==
+
+  [GitHub](https://github.com/mufidu/SociaLife)
+
+  Aplikasi chat di web yang dibuat dengan React, Express, MongoDB, dan Socket.io.
+
+---
+
+- ==KulinerGO==
+
+  [Live site](https://kuliner-go.mufidu.com) | [GitHub](https://github.com/fitrahidayaat/Kuliner_GO)
+
+  Aplikasi mobile (Flutter) untuk mencari restoran, menggunakan Firebase untuk autentikasi.
+
+---
+
 - ==Booku==
 
   [Live site](https://booku.mufidu.com) | [GitHub](https://github.com/mufidu/booku)
 
   Book manager untuk semua orang (belum ada sistem login soalnya haha).
+
+---
 
 - ==Front-end Intro==
 

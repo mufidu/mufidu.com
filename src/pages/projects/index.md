@@ -13,11 +13,29 @@ Welcome to my (so-called) project showcase! As usual, all source codes are avail
 
 Here are some of them:
 
+- ==SociaLife==
+
+  [GitHub](https://github.com/mufidu/SociaLife)
+
+  Chat web app built with React, Express, MongoDB, and Socket.io.
+
+---
+
+- ==KulinerGO==
+
+  [Live site](https://kuliner-go.mufidu.com) | [GitHub](https://github.com/fitrahidayaat/Kuliner_GO)
+
+  Flutter app for finding restaurants, using Firebase for authentication.
+
+---
+
 - ==Booku==
 
   [Live site](https://booku.mufidu.com) | [GitHub](https://github.com/mufidu/booku)
 
   Public book manager for everyone, as there is no login system yet.
+
+---
 
 - ==Front-end Intro==
 
