@@ -11,6 +11,14 @@ permalink: /id/projects/
 
 Ini adalah beberapa hal yang pernah saya buat. Bisa dibilang portofolio kali ya. Semua source code ada di [GitHub saya](https://github.com/mufidu).
 
+- ==Wisata Nusantara | Wisnu==
+
+  [Website](https://wisnusantara.id) | [Play Store](https://play.google.com/store/apps/details?id=id.wisnusantara.user.release) | [App Store](https://apps.apple.com/id/app/wisnu/id6473098383)
+
+  Wisnu adalah aplikasi travel-solution yang lahir dari perjalanan kami melalui Proyek Capstone berbasis Produk di Bangkit Academy pada tahun 2023. Wisnu menggunakan machine learning untuk memberikan rekomendasi kepada pengguna berdasarkan preferensi mereka.
+
+  Kami terpilih menjadi 20 besar dari 787 tim dalam proyek Capstone dan masuk ke fase inkubasi, menerima hingga Rp 140 juta dalam pendanaan.
+
 - ==SociaLife==
 
   [GitHub](https://github.com/mufidu/SociaLife)

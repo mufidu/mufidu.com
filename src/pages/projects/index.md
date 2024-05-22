@@ -13,6 +13,14 @@ Welcome to my (so-called) project showcase! As usual, all source codes are avail
 
 Here are some of them:
 
+- ==Wisata Nusantara | Wisnu==
+
+  [Website](https://wisnusantara.id) | [Play Store](https://play.google.com/store/apps/details?id=id.wisnusantara.user.release) | [App Store](https://apps.apple.com/id/app/wisnu/id6473098383)
+
+  Wisnu is a travel-solution app born out of our journey through the Product-based Capstone Project at Bangkit Academy in 2023. Wisnu uses machine learning to give users recommendations for their traveling plans based on their preferences.
+
+  We are selected to be the top 20 from 787 teams in the Capstone project and go into the incubation phase, receiving up to IDR 140 million in funding.
+
 - ==SociaLife==
 
   [GitHub](https://github.com/mufidu/SociaLife)
