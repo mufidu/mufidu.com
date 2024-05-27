@@ -9,6 +9,10 @@ translation: /id/now/
 permalink: /now/
 ---
 
-On this page, I am supposed to write about what I've been up to, like other websites that have joined the [/now movement](https://nownownow.com).
+Last updated: 27 May 2023
 
-Turns out that it's not always easy to share such private things. But I still want you to know, I'm learning a lot of stuff these days, maybe that's it. And thanks for reading this!
+Currently reading: [How to Live](https://sive.rs/h) by Derek Sivers. 
+
+Currently working on: [Wisnu](https://wisnusantara.id) (a Google-backed startup)
+
+Currently used tools: [Arc Browser](https://arc.net) (new kid on the block), Readwise Reader (best read-it-later app, fairly priced, offers regional pricing)

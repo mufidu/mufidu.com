@@ -9,6 +9,10 @@ translation: /now/
 permalink: /id/now/
 ---
 
-Di halaman ini harusnya saya nulis apa aja yang lagi saya lakuin, kaya website-website yang lain yang ikut gabung di [/now movement](https://nownownow.com).
+Terakhir diupdate: 27 Mei 2023
 
-Tapi lama-lama ga nyaman juga ya nge-share hal yang lumayan privat kaya gitu. Sekarang saya lagi belajar ini itu pokonya haha.
+Buku yang lagi dibaca: [How to Live](https://sive.rs/h) dari Derek Sivers.
+
+Project yang lagi dikerjakan: [Wisnu](https://wisnusantara.id) (Google-backed startup)
+
+Tools yang lagi dipakai: [Arc Browser](https://arc.net) (new kid on the block), Readwise Reader (best read-it-later app, ga terlalu mahal, ada regional pricing)
