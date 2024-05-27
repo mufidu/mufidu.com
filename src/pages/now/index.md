@@ -9,7 +9,9 @@ translation: /id/now/
 permalink: /now/
 ---
 
-Updated on: 27 May 2023
+These are things I'm doing at the moment. Part of [/now movement](https://nownownow.com).
+
+Updated on: 27 May 2024
 
 Currently reading: [How to Live](https://sive.rs/h) by Derek Sivers. 
 
