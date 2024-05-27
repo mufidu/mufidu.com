@@ -15,4 +15,4 @@ Currently reading: [How to Live](https://sive.rs/h) by Derek Sivers.
 
 Currently working on: [Wisnu](https://wisnusantara.id) (a Google-backed startup)
 
-Currently used tools: [Arc Browser](https://arc.net) (new kid on the block), Readwise Reader (best read-it-later app, fairly priced, offers regional pricing)
+Currently used tools: [Arc Browser](https://arc.net) (new kid on the block), [Readwise Reader](https://readwise.io/read) (best read-it-later app, fairly priced, offers regional pricing)
