@@ -9,7 +9,7 @@ translation: /id/now/
 permalink: /now/
 ---
 
-Last updated: 27 May 2023
+Updated on: 27 May 2023
 
 Currently reading: [How to Live](https://sive.rs/h) by Derek Sivers. 
 
