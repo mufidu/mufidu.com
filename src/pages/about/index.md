@@ -25,6 +25,8 @@ In every website I wrote, I focus on maximizing one aspect. This site is built w
 
 My name is Muhammad Mufid Utomo. I am currently an Informatics student. I just code as a hobby, at least for now. Have also been busy learning and trying some things, see [what I'm doing now](/now).
 
+For my potential employers, please feel free to also check out [my CV](/cv).
+
 Check out my online presences:
 
 - [GitHub](https://github.com/mufidu)

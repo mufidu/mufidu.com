@@ -11,6 +11,8 @@ permalink: /id/projects/
 
 Ini adalah beberapa hal yang pernah saya buat. Bisa dibilang portofolio kali ya. Semua source code ada di [GitHub saya](https://github.com/mufidu).
 
+Untuk potential employer, boleh banget cek [CV saya](/cv) juga.
+
 - ==Wisata Nusantara | Wisnu==
 
   [Website](https://wisnusantara.id) | [Play Store](https://play.google.com/store/apps/details?id=id.wisnusantara.user.release) | [App Store](https://apps.apple.com/id/app/wisnu/id6473098383)

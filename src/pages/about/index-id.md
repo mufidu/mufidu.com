@@ -27,6 +27,8 @@ Nama lengkap saya Muhammad Mufid Utomo. Sekarang saya adalah mahasiswa Informati
 
 Saya juga sering ngabisin waktu buat belajar sama nyoba hal baru, bisa diliat apa yang lagi saya kerjain [sekarang](/id/now/).
 
+Untuk potential employer, boleh banget cek [CV saya](/cv).
+
 Beberapa kehadiran saya di website lain:
 
 - [GitHub](https://github.com/mufidu)
