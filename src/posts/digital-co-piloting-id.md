@@ -13,28 +13,30 @@ lang: id
 translation: /digital-co-piloting/
 ---
 
-Sabtu jam 10 malam. Saya cuma modal HP, duduk santai, dan baru saja melakukan *push* fitur ke produksi. Tanpa laptop, tanpa setup ribet—hanya terminal dan seorang "co-pilot digital" yang paham betul apa yang saya butuhkan.
+Sabtu jam 10 malam. Lagi santai pegang HP, tiba-tiba kepikiran buat *push* fitur ke produksi. Gada laptop, gada setup ribet—cuma terminal dan seorang "co-pilot digital" yang beneran paham apa yang mau saya kerjain.
 
-Sudah bertahun-tahun saya jadi pendukung konsep "Otak Kedua" (*Second Brain*)—menggunakan alat untuk meringankan beban ingatan dan pengorganisasian. Tapi belakangan, otak itu baru saja dapat *upgrade*. Ia bukan lagi sekadar perpustakaan catatan; ia sekarang jadi peserta aktif.
+Udah bertahun-tahun saya nerapin konsep *Second Brain*. Intinya pake alat biar otak ga cape nginget semua hal. Tapi belakangan, otak itu rasanya baru aja dapet *upgrade* besar-besaran. Bukan cuma tempat numpuk catatan lagi, tapi sekarang dia beneran ikut ngerjain tugas bareng saya.
 
-### Dari Rutinitas Manual ke Aliran Berbasis Niat
+### Dari Ribet Manual ke Tinggal... Prompting
 
-Coba bayangkan akhir hari yang panjang. Kamu sudah kerja keras di berbagai repositori. Biasanya, kamu harus menyusun ringkasan secara manual: "Tadi ngerjain apa aja ya?"
+Coba bayangin akhir hari yang panjang. Udah loncat-loncat antar repo, benerin ini, ngerusak itu. Biasanya, saya harus duduk diem buat inget-inget tadi ngerjain apa aja biar bisa nulis log. "Eh, tadi ngerjain apa ya?"
 
-Sekarang, saya tinggal bilang `/notes:daily auto`.
+Sekarang? Tinggal ketik `/notes:daily auto`.
 
-Dalam hitungan detik, sistem melihat riwayat git saya, perintah shell, dan konteks sesi. Semuanya disintesis menjadi log yang ringkas namun tetap punya "jiwa". Sesuatu yang biasanya butuh 15 menit buat diingat-ingat, sekarang cuma butuh 5 detik niat.
+Beberapa detik kemudian, dia liat riwayat git, perintah shell, sampe konteks sesinya. Terus dia bikin ringkasan yang gaya bahasanya mirip saya. Sesuatu yang biasanya butuh 15 menit buat mikir, sekarang cuma butuh 5 detik *prompting*.
 
-Hal yang sama berlaku buat manajemen tugas. Sinkronisasi tugas TickTick dengan lingkungan lokal biasanya jadi mimpi buruk *context-switching*. Sekarang, itu terjadi di latar belakang, dipicu perintah sederhana atau bahkan berjalan otomatis saat dibutuhkan.
+Sama halnya buat manajemen tugas. Sinkronisasi TickTick ke terminal biasanya bikin males. Sekarang ya jalan aja gitu, ga perlu dipikirin lagi.
 
-### Kelegaan Kognitif
+### Kelegaan Kognitif (alias jadi males, tapi lebih pinter)
 
-Nilai aslinya bukan cuma waktu yang dihemat, tapi kelegaan kognitif. Dengan mendelegasikan urusan teknis (perintah git, pemformatan, protokol sinkronisasi) ke AI yang sudah kenal basis kode dan preferensi saya, saya bisa fokus sepenuhnya pada "apa" yang mau dicapai.
+Menang aslinya bukan cuma soal waktu yang dihemat. Tapi soal ruang di kepala. Saya ga perlu pusing lagi mikirin teknisnya gimana. Perintah git, pemformatan, sampe urusan sinkronisasi yang ngebosenin—semuanya saya delegasikan ke AI. Dia udah tau kode saya, tau gimana saya biasanya kerja.
 
-Rasanya seperti punya "hantu" di dalam mesin—yang tahu kalau saya bilang "push changes", artinya "siapkan semua file, tulis pesan komit yang singkat sesuai gaya saya, dan kirim ke remote."
+Rasanya kaya punya "hantu" di dalem mesin. Kalo saya bilang "push changes," dia udah tau maksud saya: siapin filenya, tulis pesan komit yang bener, terus kirim ke GitHub.
 
 ### Pergeseran Halus
 
-Sambil menulis ini—atau lebih tepatnya, sambil saya memandu tangan yang mengetik ini—saya sadar betapa kaburnya batasan itu sekarang. Postingan ini sendiri adalah hasil kolaborasi tersebut. Saya memberikan percikan ide dan konteks personal; AI menangani beban draf dan format sementara saya tetap fokus di perangkat *mobile*.
+Pas lagi nulis ini—maksudnya, pas lagi mandu AI buat nulis draf ini—saya sadar batasan itu makin kabur. Postingan ini sendiri adalah hasilnya. Saya kasih arahan dan konteksnya, AI yang nanganin urusan draf dan formatnya sambil saya tetep asik main HP.
 
-Masa depan produktivitas bukan soal kerja lebih keras, tapi soal membangun sistem yang memungkinkan kita kerja lebih *ringan*.
+Masa depan produktivitas itu bukan soal kerja lebih keras. Tapi soal bangun sistem biar kita bisa kerja lebih *enteng*.
+
+---
