@@ -6,7 +6,7 @@ tags:
   - "productivity"
   - "ai"
   - "automation"
-coverImage: /img/pexels-lukas-669615.jpg
+coverImage: /assets/img/pexels-alex-knight-2599244.webp
 layout: post-id
 permalink: /digital-co-piloting-id/
 lang: id
