@@ -6,7 +6,7 @@ tags:
   - "productivity"
   - "ai"
   - "automation"
-coverImage: /assets/img/pexels-alex-knight-2599244.webp
+coverImage: "/img/aerial-photography-of-cars-on-road-intersection-186537.webp"
 layout: post-id
 permalink: /digital-co-piloting-id/
 lang: id
