@@ -69,7 +69,7 @@
     "mocha": "^10.8.2",
     "phin": "^3.7.1",
     "purge-from-html": "^1.0.3",
-    "purgecss": "^4.0.3",
+    "purgecss": "^8.0.0",
     "querystring": "^0.2.0",
     "rollup": "^2.23.0",
     "sharp": "^0.32.6",
